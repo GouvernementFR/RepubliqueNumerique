@@ -21,6 +21,16 @@ l’accomplissement de leurs missions de service public, sans préjudice des
 dispositions de l’article L. 114-8. »
 
 « Les administrations mentionnées à l’article 1<sup>er</sup>, à l'exception des 
+**Article 2**
+
+L’article L. 311-3 du code des relations entre le public et l’administration 
+est complété par un alinéa ainsi rédigé :
+
+« Lorsqu’une décision individuelle fait intervenir un traitement algorithmique, 
+les règles définissant ce traitement, ainsi que les principales 
+caractéristiques de sa mise en œuvre, sont communiquées par l’administration à 
+l’intéressé s’il en fait la demande. »
+
 personnes morales dont le nombre d'agents ou de salariés est inférieur à un 
 seuil fixé par décret, diffusent publiquement en ligne dans un standard ouvert 
 aisément réutilisable les documents suivants, sous réserve des dispositions de 

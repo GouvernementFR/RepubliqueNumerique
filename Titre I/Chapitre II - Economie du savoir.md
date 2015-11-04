@@ -2,52 +2,33 @@
 Chapitre II : Economie du savoir
 --------------------------------
 
+Article 14A la fin du chapitre III du Titre III du Livre V du code de la 
+recherche, il est ajouté un article L. 533-4 ainsi rédigé :
 
-### Section 2 : Travaux de recherche et de statistique
+« *Art. L. 533-4.* - I. - Lorsque un écrit scientifique, issu d’une activité de 
+recherche financée au moins pour moitié par des fonds publics, est publié dans 
+un périodique, un ouvrage paraissant au moins une fois par an, des actes de 
+congrès ou de colloques ou des recueils de mélanges, son auteur, même en cas de 
+cession exclusive à un éditeur, dispose du droit de mettre à disposition 
+gratuitement sous une forme numérique, sous réserve des droits des éventuels 
+coauteurs, la version finale du manuscrit acceptée pour publication, au plus 
+tard six mois pour les sciences, la technique et la médecine et douze mois pour 
+les sciences humaines et sociales à compter de la date de la première 
+publication, ou au plus tard lorsque l’éditeur met lui-même l’écrit 
+gratuitement à disposition sous une forme numérique.
 
-**Article 9**
+« II. – Les données de la recherche rendues publiques légalement issues d’une 
+activité de recherche financée au moins pour moitié par des fonds publics et 
+qui ne sont pas protégées par un droit spécifique sont des choses communes, au 
+sens de l’article 714 du code civil.
 
-*Accès aux travaux de la recherche financée par des fonds publics*
+« III. - L’éditeur d’un écrit scientifique mentionné au I ne peut limiter la 
+réutilisation des données de la recherche rendues publiques dans le cadre de sa 
+publication.
 
-Au chapitre 3 du titre 3 du livre V du code de la recherche, il est inséré un 
-article L. 533-4 ainsi rédigé :
+« IV. - Les dispositions du présent article sont d’ordre public et toute clause 
+contraire à celles-ci est réputée non écrite.»
 
-«*Art. L. 533-4* –
-
-I. Lorsque un écrit scientifique, issu d’une activité de recherche financée au 
-moins pour moitié par des fonds publics, est publié dans un périodique, un 
-ouvrage paraissant au moins une fois par an, des actes de congrès ou de 
-colloques ou des recueils de mélanges, son auteur, même en cas de cession 
-exclusive à un éditeur, dispose du droit de mettre à disposition gratuitement 
-sous une forme numérique, sous réserve des droits des éventuels coauteurs, la 
-dernière version acceptée de son manuscrit par son éditeur et à l’exclusion du 
-travail de mise en forme qui incombe à ce dernier, au terme d’un délai de douze 
-mois pour les sciences, la technique et la médecine et de vingt-quatre mois 
-pour les sciences humaines et sociales, à compter de date de la première 
-publicationCette mise à disposition ne peut donner lieu à aucune exploitation 
-commerciale.
-
-« II. – Les dispositions du présent article sont d’ordre public et toute clause 
-contraire à celles-ci est réputée non écrite. Elles ne s’appliquent pas aux 
-contrats en cours. »
-
-*
-*
-
-**Article** 10
-*NIR statistique*
-
-L’article 27 de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, 
-aux fichiers et aux libertés est complété par un IV ainsi rédigé :
-
-« IV. - Le 1° des I et  II du présent article ne sont pas applicables :
-
-« 1° Aux traitements ayant exclusivement des finalités de statistique publique 
-ne comportant aucune des données mentionnées au I de l'article 8 ou à l'article 
-9, lorsque le numéro d'inscription des personnes au répertoire national 
-d'identification des personnes physiques a préalablement fait l’objet d’une 
-opération cryptographique irréversible  ; ces traitements sont soumis au I de 
-l’article 22.
 
 « Un décret en Conseil d’Etat, pris après avis motivé et publié de la 
 Commission Nationale Informatique et Libertés, définit les modalités 

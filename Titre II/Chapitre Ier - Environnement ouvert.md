@@ -172,23 +172,24 @@ La fonctionnalité prévue au premier alinéa doit offrir au consommateur une
 faculté de requête unique étendue au moins à un type ou un format de fichiers 
 ou données.
 
-« Les fournisseurs de services de communication au public en ligne informent 
-clairement le consommateur, avant la conclusion d’un contrat et dans le 
-contrat, de l’impossibilité ou de la possibilité de récupérer les données ayant 
-fait l’objet d’un traitement et, le cas échéant, des modalités de cette 
-récupération et de la forme, notamment le format de fichier, sous laquelle les 
-données sont récupérables. Les fournisseurs de services de communication au 
-public en ligne précisent le cas échéant le caractère ouvert et interopérable 
-du format de fichier utilisé.
+« Pour les données résultant d’un traitement de données collectées auprès d’un 
+consommateur et qui ne peuvent pas être récupérées dans un standard ouvert et 
+aisément réutilisable, le fournisseur de service de communication au public en 
+ligne informe clairement le consommateur, avant la conclusion d’un contrat et 
+dans le contrat, de l’impossibilité ou de la possibilité de récupérer ces 
+données et, le cas échéant, des modalités de cette récupération et de la forme, 
+notamment le format de fichier, sous laquelle ces données sont récupérables. Le 
+fournisseur de service de communication au public en ligne précise le cas 
+échéant le caractère ouvert et interopérable du format de fichier utilisé.
 
 « Sous-section 3 : Champ d’application et sanctions
 
-« *Art. L. 121-*122*.*- La présente section est également applicable aux 
-services fournis aux professionnels.
+« *Art. L. 121-123.*- La présente section est également applicable aux services 
+fournis aux professionnels.
 
-« *Art. L. 121-*123*.*- Tout manquement aux articles [L. 121-120 
+« *Art. L. 121-124.*- Tout manquement aux articles [L. 121-121 
 ](http://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT0000060695
-65&idArticle=LEGIARTI000028741127&dateTexte=&categorieLien=cid)et L. 121-121 
+65&idArticle=LEGIARTI000028741127&dateTexte=&categorieLien=cid)et L. 121-122 
 est passible d'une amende administrative dont le montant ne peut excéder 3 000 
 € pour une personne physique et 15 000 € pour une personne morale. L'amende est 
 prononcée dans les conditions prévues à [l'article L. 

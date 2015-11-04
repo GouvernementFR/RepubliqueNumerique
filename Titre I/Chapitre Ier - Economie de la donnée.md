@@ -379,3 +379,35 @@ peut être porté à 50 000 euros au plus.
 « Le ministre peut rendre publiques les sanctions qu’il prononce. Il peut 
 également ordonner leur insertion dans des publications, journaux et supports 
 qu’il désigne aux frais des personnes sanctionnées. »
+
+### **Section 4 : Gouvernance**
+
+**Article 11**
+
+L’article 13 de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, 
+aux fichiers et aux libertés est modifié comme suit :
+
+1° Au premier alinéa, le mot : « dix-sept » est remplacé par le mot :« dix-huit 
+» ;
+
+2° Après le 7°, il est inséré un alinéa ainsi rédigé :
+
+« 8° Le président de la commission d’accès aux documents administratifs, ou son 
+représentant.»
+
+**Article 12**
+
+«Le f) de l’article 23 de la loi n° 78-753 du 17 juillet 1978 portant diverses 
+mesures d'amélioration des relations entre l'administration et le public et 
+diverses dispositions d'ordre administratif, social et fiscal est remplacé par 
+un alinéa ainsi rédigé :
+
+« f) Le président de la Commission nationale de l’informatique et des libertés 
+ou son représentant  »
+
+**Article 13**
+
+« La Commission nationale de l’informatique et des libertés et la commission 
+d’accès aux documents administratifs se réunissent dans un collège unique, à 
+l’initiative du président de l’une ou du président de l’autre, lorsqu’un sujet 
+d’intérêt commun le justifie ».

@@ -1,104 +1,118 @@
 
-
 Chapitre III : Accès des publics fragiles au numérique
 ------------------------------------------------------
 
 ### **Section 1 : Accessibilité des personnes handicapées aux services 
 téléphoniques**
 
-**Article 28
-***Accueil téléphonique des personnes publiques et des entreprises, offre pour 
-les déficients auditifs*
+**Article 39**
 
-*\[Accueil téléphonique des personnes publiques\]*
-
-I. Après le 1<sup>er</sup> alinéa de l’article 78 de la loi n° 2005-102 du 11 
-février 2005 pour l’égalité des droits, il est ajouté l’alinéa suivant :
+I. - Après le premier alinéa de l’article 78 de la loi n° 2005-102 du 11 
+février 2005 pour l’égalité des droits, il est ajouté deux alinéas ainsi 
+rédigés :
 
 « Les services d’accueil téléphonique destinés à recevoir les appels des 
-usagers sont accessibles aux personnes déficientes auditives par la mise à 
+usagers sont accessibles aux personnes sourdes et malentendantes par la mise à 
 disposition d’un service de traduction écrite simultanée et visuelle. A défaut, 
 ces appels peuvent être recueillis à partir d’un service de communication au 
-public en ligne, en respectant les mêmes conditions de traduction.» ;
+public en ligne, en respectant les mêmes conditions de traduction. ;
 
 « Les associations reconnues d’utilité publiques, dont le montant annuel de 
 ressources est supérieur à un seuil défini par décret dotées, d’un service 
-d’accueil téléphonique, doivent mettre à la disposition des personnes 
-déficientes auditives un service de traduction écrite simultanée et visuelle. A 
+d’accueil téléphonique, doivent mettre à la disposition des personnes sourdes 
+et malentendantes un service de traduction écrite simultanée et visuelle. A 
 défaut, ces appels peuvent être recueillis à partir d’un service de 
 communication au public en ligne »
 
-\[*Appels téléphoniques des entreprises\]*
-
-II. L’article L. 113-5 du code de la consommation est complété par un alinéa 
+II. - L’article L. 113-5 du code de la consommation est complété par un alinéa 
 ainsi rédigé :
 
 « Les entreprises dont le chiffre d’affaires est supérieur à un seuil défini 
 par décret rendent ce numéro accessible dans les mêmes conditions aux personnes 
-déficientes auditives, par la mise à disposition d’un service de traduction 
+sourdes et malentendantes, par la mise à disposition d’un service de traduction 
 écrite simultanée et visuelle. Ce service comprend une transcription écrite ou 
 l’intervention d’un interprète en langue des signes française ou d’un codeur en 
 langage parlé complété. Ces appels peuvent également être recueillis à partir 
 d’un service de communication au public en ligne. »
 
-*\[Offre de services pour les déficients auditifs\]*
-
-III. Après le o) du I de l’article L. 33-1 du code des postes et des 
+III. - Après le o) du I de l’article L. 33-1 du code des postes et des 
 communications électroniques, il est inséré un alinéa o bis) ainsi rédigé :
 
-« o bis) l’accès des utilisateurs finals déficients auditifs à une offre de 
+« o bis) L’accès des utilisateurs finals sourds et malentendants à une offre de 
 services de communications électroniques, incluant la fourniture, à un tarif 
 abordable, d’un service de traduction écrite simultanée et visuelle ; ».
 
-*\[Entrée en vigueur\]*
+IV. - Les dispositions du présent article entrent en vigueur selon des 
+modalités et à une date prévues par décret et au plus tard dans un délai de 
+cinq ans à compter de la promulgation de la présente loi.
 
-IV. Les dispositions du présent article entrent en vigueur selon des modalités 
-et des dates prévues par décret et au plus tard dans un délai de cinq ans à 
-compter de la promulgation de la présente loi.
-
-Par dérogation, les dispositions du II entre en vigueur dans un délai de deux 
-ans à compter de la promulgation de la présente loi.
+Par dérogation au premier alinéa, les dispositions du II entrent en vigueur 
+dans un délai de deux ans à compter de la promulgation de la présente loi.
 
 ### **Section 2 : Accessibilité des personnes handicapées aux sites internet 
 publics**
 
-**Article** 29
-*Accessibilité numérique des services publics*
+**Article** 40
 
-I. Après le deuxième alinéa de l’article 47 de la loi 2005-102 du 11 février 
-2005, deux alinéas ainsi rédigés sont ajoutés :
+I. - L’article 47 de la loi 2005-102 du 11 février 2005 est remplacé par les 
+dispositions suivantes :
 
-«  Les sites internet des services de l’Etat, des collectivités territoriales 
-et des établissements publics qui en dépendent, ou les sites réalisés par un 
-délégataire qui assure la mise en ligne d’un site pour le compte d’un personne 
-publique,, une mention visible qui précise, dès l’ouverture, le niveau de 
-conformité ou de la non-conformité du site aux règles d’accessibilité. Une 
-sanction pécuniaire est fixée à l’encontre des sites qui ne respectent pas ce 
-dispositif, à hauteur de 1.500 € appliquée à l’encontre des personnes 
-responsables des sites publics appartenant aux communes de moins de 5000 
-habitants et de 5.000 € appliquée à l’encontre des communes de plus de 5000 
-habitants, des services de l’Etat et des établissements publics qui en 
-dépendent.Le produit issu de ces sanctions pécuniaires est recouvré comme les 
-créances de l’Etat étrangères à l’impôt et au domaine et est versé au fonds 
-d’accompagnement de l’accessibilité universelle prévu à l’article L.111-7-12 du 
-code de la construction et de l’habitation. \[Les modalités d’application du 
-présent alinéa sont fixées par décret en Conseil d’Etat.\]
+« *Art. 47.* - I. - Les services de communication publique en ligne des 
+services de l’Etat, des collectivités territoriales et des établissements 
+publics qui en dépendent ainsi que des organismes délégataires d’une mission de 
+service public doivent être accessibles aux personnes handicapées.
 
-«  Les services de l’Etat, des collectivités territoriales et des 
-établissements publics qui en dépendent élaborent un schéma pluriannuel de mise 
-en accessibilité de leurs sites internet et intranet, des applications 
-accessibles via un téléphone ou autre dispositif de communication mobile qu’ils 
-éditent ainsi que de l’ensemble de leurs progiciels. Ce schéma est décliné en 
-feuille de route annuelle et précise en outre les modalités de suivi et de 
-contrôle régulier de l’accessibilité des sites et des progiciels à l’occasion 
-de toute modification, entretien ou changement de contenu. »
+« L'accessibilité des services de communication publique en ligne concerne 
+l'accès à tout type d'information sous forme numérique quels que soient le 
+moyen d'accès, les contenus et le mode de consultation. Les recommandations 
+internationales pour l'accessibilité de l'internet doivent être appliquées pour 
+les services de communication publique en ligne.
 
-1° Au premier alinéa, il est ajouté une phrase ainsi rédigé : « Le fonds peut 
+« Les personnes mentionnées au premier alinéa élaborent un schéma pluriannuel 
+de mise en accessibilité de leurs services de communication publique en ligne 
+qui est rendu public et décliné en plans d’action annuels.
+
+« II. - Tout service de communication publique en ligne comporte, sur chacune 
+de ses pages, une mention visible précise s’il est ou non conforme aux règles 
+relatives à l’accessibilité ainsi qu’un lien renvoyant à une page indiquant 
+notamment l’état de mise en œuvre du schéma pluriannuel de mise en 
+accessibilité et du plan d’action de l’année en cours de l’organisme concerné 
+et permettant aux usagers de signaler les manquements.
+
+« III. - Le défaut de mise en conformité d’un service de communication publique 
+en ligne avec les dispositions du II du présent article fait l’objet d’une 
+sanction administrative, dont le montant, ne pouvant excéder 5 000 euros, est 
+fixé par le décret en Conseil d’Etat mentionné au IV. Une nouvelle sanction 
+peut être prononcée chaque année lorsque le manquement à ces dispositions 
+perdure.
+
+« Le produit issu de ces sanctions pécuniaires est recouvré comme les créances 
+de l’Etat étrangères à l’impôt et au domaine et versé au fonds d’accompagnement 
+de l’accessibilité universelle prévu à l’article L.111-7-12 du code de la 
+construction et de l’habitation.
+
+« IV. - Un décret en Conseil d'Etat fixe les règles relatives à l'accessibilité 
+et précise, par référence aux recommandations établies par la direction 
+interministérielle du numérique et des systèmes d’information et de 
+communication, la nature des adaptations à mettre en œuvre ainsi que les délais 
+de mise en conformité des sites existants, qui ne peuvent excéder trois ans, 
+les conditions dans lesquelles des sanctions sont imposées en cas de 
+non-respect de cette mise en accessibilité et des dispositions du II du présent 
+article. Le décret énonce en outre les modalités de formation des personnels 
+intervenant sur les services de communication publique en ligne ainsi que les 
+conditions dans lesquelles une commission nationale composée de représentants 
+des personnes visées au premier alinéa et d’associations représentatives des 
+personnes handicapées assurent le suivi des dispositions du présent article. »
+
+II. - L’article L. 111-7-12 du code de la construction et de l’habitation est 
+ainsi modifié :
+
+1° Au premier alinéa, il est ajouté une phrase ainsi rédigée : « Le fonds peut 
 également participer au financement des prestations destinées à assurer le 
 respect de l’obligation d’accessibilité des services de communication au public 
 en ligne des autorités administratives, prévue par l’article 47 de la loi n° 
 2005-102 du 11 février 2005 pour l'égalité des droits et des chances, la 
-participation et la citoyenneté des personnes handicapées » ;
+participation et la citoyenneté des personnes handicapées  ;
 
 2° A la fin du quatrième alinéa, sont ajoutés les mots : «  et à l’article 47 
 de la loi n° 2005-102 du 11 février 2005 pour l'égalité des droits et des 
@@ -132,6 +146,6 @@ logement est ainsi modifiée :
 1° Au troisième alinéa de l’article 6, les mots : « et de téléphone » sont 
 remplacés par les mots : «, de téléphone et d’accès à Internet » ;
 
-III. - Au dernier alinéa de l’article 6-1 de la même loi, les mots : « ou de 
-services téléphoniques » sont remplacés par les mots : « , de services 
-téléphoniques ou d’accès à Internet  ».
+2° Au dernier alinéa de l’article 6-1, les mots : « ou de services 
+téléphoniques » sont remplacés par les mots : « , de services téléphoniques ou 
+d’accès à Internet  ».

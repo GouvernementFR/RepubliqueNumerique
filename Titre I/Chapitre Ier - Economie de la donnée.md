@@ -372,9 +372,9 @@ après la notification des griefs.
 « La décision du ministre est motivée ; le recours dirigé contre cette décision 
 est un recours de pleine juridiction.
 
-« Le montant de la première amende encourue à ce titre ne peut dépasser 100 000 
+« Le montant de la première amende encourue à ce titre ne peut dépasser 25 000 
 euros. En cas de récidive dans un délai de trois ans, le montant de l’amende 
-peut être porté à 250 000 euros au plus.
+peut être porté à 50 000 euros au plus.
 
 « Le ministre peut rendre publiques les sanctions qu’il prononce. Il peut 
 également ordonner leur insertion dans des publications, journaux et supports 

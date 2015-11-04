@@ -289,15 +289,14 @@ indicateurs. »
 
 ### **Section 4 : Information des consommateurs**
 
-**Article** 15
-*Information des consommateurs et avis en ligne*
+**Article 21**
 
-I. Le chapitre Ier du titre Ier du livre Ier du code de la consommation est 
+Le chapitre Ier du titre Ier du livre Ier du code de la consommation est 
 modifié comme suit :
 
-1° Après l’article L. 111-5-1 est inséré l’article L. 111-5-2, ainsi rédigé :
+1° Après l’article L. 111-5-2, il est inséré l’article L. 111-5-3 ainsi rédigé :
 
-« *Art. L. 111-5-2* - Sans préjudice des obligations d’information prévues à 
+« *Art. L. 111-5-3*. - Sans préjudice des obligations d’information prévues à 
 l’article 19 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans 
 l'économie numérique, toute personne dont l'activité consiste, à titre 
 principal ou accessoire, à collecter, modérer ou diffuser des avis en ligne de 
@@ -310,10 +309,12 @@ principales de la vérification mise en œuvre.
 
 « Les modalités et le contenu de ces informations sont fixés par décret. »
 
-2° A l’article L. 111-6-1, la référence « et L. 111-5-1 » est remplacé par la 
-référence « à L. 111-5-2 »
+2° A l’article L. 111-6-1, les mots : « et L. 111-5-1 » est remplacé par les 
+mots :« , L. 111-5-1 et L. 111-5-3 ».
 
-II. L’article L. 121-83 du code de la consommation est ainsi modifié :
+**Article 22**
+
+I. - L’article L. 121-83 du code de la consommation est ainsi modifié :
 
 1° Après le b), il est inséré un b *bis)* ainsi rédigé : « b *bis)* les débits 
 minimums, normalement disponible, maximums montants et descendants fournis 
@@ -322,7 +323,7 @@ débits maximums montants et descendants fournis dans le cas de services d’acc
 à internet mobile, ainsi que l’incidence sur la disponibilité des services 
 offerts d’un écart significatif par rapport au débit prévu au contrat ; »
 
-2°le d) est ainsi rédigé : « Les compensations et formules de remboursement 
+2° le d) est ainsi rédigé : « Les compensations et formules de remboursement 
 applicables lorsque le niveau de qualité de services ou les débits prévus dans 
 le contrat, ne sont généralement pas atteints, de façon continue ou récurrente 
 ; »
@@ -333,6 +334,6 @@ débits ou d’autres paramètres sur la qualité de l’accès à internet, en
 particulier l’utilisation de contenus, d’applications et de services, y compris 
 ceux bénéficiant d’une qualité optimisée. »
 
-L’article L.121-83 du code de la consommation dans sa rédaction issue de la 
-présente loi est applicable aux contrats conclus ou reconduits postérieurement 
-à la promulgation de la présente loi.
+II. - L’article L.121-83 du code de la consommation dans sa rédaction issue de 
+la présente loi est applicable aux contrats conclus ou reconduits 
+postérieurement à la promulgation de cette même loi.

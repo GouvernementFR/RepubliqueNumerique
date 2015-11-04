@@ -106,9 +106,7 @@ chances, la participation et la citoyenneté des personnes handicapées. »
 
 ### **Section 3 : Maintien de la connexion internet**
 
-**Article 30**
-
-*Maintien temporaire de la connexion*
+**Article 41**
 
 I. - L’article L. 115-3 du code de l’action sociale et des familles est ainsi 
 modifié :
@@ -117,19 +115,22 @@ modifié :
 logement » sont remplacés par les mots : « d'un service de téléphonie fixe et 
 d’un service d'accès à Internet  » ;
 
-2° Le deuxième alinéa est ainsi rédigé :
+2° Le deuxième alinéa est remplacé par un deuxième alinéa ainsi rédigé :
 
 « En cas de non-paiement des factures, la fourniture d’énergie et d’eau, un 
 service téléphonique restreint et un service d'accès à internet sont maintenus 
 jusqu’à ce qu’il ait été statué sur la demande d’aide. Le service téléphonique 
 restreint comporte la possibilité de recevoir des appels ainsi que de passer 
-des communications locales et vers les numéros gratuits et d’urgence. *»*
+des communications locales et vers les numéros gratuits et d’urgence. Le 
+service d’accès à Internet maintenu peut être restreint par l’opérateur sous 
+réserve de préserver un accès fonctionnel aux services de communication au 
+public en ligne et aux services de courrier électronique.
 
-II. - L’article 6 de la loi n° 90-449 du 31 mai 1990 visant à la mise en œuvre 
-du droit au logement est ainsi modifié :
+II. - La loi n° 90-449 du 31 mai 1990 visant à la mise en œuvre du droit au 
+logement est ainsi modifiée :
 
-Au troisième alinéa, les mots : « et de téléphone » sont remplacés par les mots 
-: «, de téléphone et d’accès à Internet ».
+1° Au troisième alinéa de l’article 6, les mots : « et de téléphone » sont 
+remplacés par les mots : «, de téléphone et d’accès à Internet » ;
 
 III. - Au dernier alinéa de l’article 6-1 de la même loi, les mots : « ou de 
 services téléphoniques » sont remplacés par les mots : « , de services 

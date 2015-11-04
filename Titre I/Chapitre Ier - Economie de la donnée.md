@@ -145,6 +145,15 @@ l’administration. »
 
 II. - Le premier alinéa de l’article 13 de la même loi est supprimé.
 
+III. - L’article 16 de la même loi est complété par un alinéa ainsi rédigé:
+
+« Pour les réutilisations à titre gratuit, les administrations mentionnées à 
+l’article L. 300-2 du code des relations entre le public et l’administration 
+recourent à une licence figurant sur une liste fixée par décret. Lorsqu’une 
+administration souhaite recourir à une licence ne figurant pas sur cette liste, 
+cette licence doit être préalablement homologuée par l’Etat, dans des 
+conditions fixées par décret. »
+
 ### **Section 2 : Service public de la donnée**
 
 **Article** 4

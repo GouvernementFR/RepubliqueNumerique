@@ -205,31 +205,29 @@ en vigueur six mois après la publication de la présente loi.
 
 ### **Section 2 : Service public de la donnée**
 
-**Article** 4
-*Création d’un service public de la donnée*
+**Article 7**
 
-La mise à disposition et la diffusion publique des données de référence en vue 
-de faciliter leur réutilisation constituent une mission de service public 
-relevant de l’Etat. Toutes les autorités administratives concourent à cette 
-mission.
+La mise à disposition et la publication des données de référence en vue de 
+faciliter leur réutilisation constituent une mission de service public relevant 
+de l’Etat. Toutes les autorités administratives concourent à cette mission.
 
 Sont des données de référence les données produites ou reçues par les 
-administrations mentionnées à l'article 1er de la loi du 17 juillet 1978 qui 
-font l'objet ou sont susceptibles de faire l’objet d'une utilisation fréquente 
-par un grand nombre d’acteurs tant publics que privés et dont la qualité, en 
-termes notamment de précision, de fréquence de mise à jour ou d’accessibilité, 
-est essentielle pour ces utilisations. Un décret fixe la liste des données de 
-référence et désigne les administrations responsables de leur production et de 
-leur diffusion.
+administrations mentionnées à l'article L. 300-2 du code des relations entre le 
+public et l’administration qui font l'objet ou sont susceptibles de faire 
+l’objet d'utilisations fréquentes par un grand nombre d’acteurs tant publics 
+que privés et dont la qualité, en termes notamment de précision, de fréquence 
+de mise à jour ou d’accessibilité, est essentielle pour ces utilisations. Un 
+décret fixe la liste des données de référence et désigne les administrations 
+responsables de leur production et de leur publication.
 
 Les modalités d’application du présent article sont définies par un décret en 
 Conseil d’Etat. Dans l’hypothèse où plusieurs administrations sont 
 responsables, le décret détermine les modalités de la coordination entre ces 
-administrations. Il fixe la qualité minimale que la diffusion publique des 
-données de référence doit respecter, notamment en termes de précision, de degré 
-de détail, de fréquence de mise à jour, d’accessibilité et de format. Il 
-précise les modalités de participation des collectivités territoriales à la 
-mise à disposition et à la diffusion publique des données de référence.
+administrations. Il fixe la qualité minimale que la publication des données de 
+référence doit respecter, notamment en termes de précision, de degré de détail, 
+de fréquence de mise à jour, d’accessibilité et de format. Il précise les 
+modalités de participation des collectivités territoriales à la mise à 
+disposition et à la publication des données de référence.
 
 
 

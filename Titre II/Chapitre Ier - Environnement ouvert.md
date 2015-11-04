@@ -1,5 +1,4 @@
 
-
 TITRE II : La protection dans la société numérique
 ==================================================
 
@@ -91,7 +90,18 @@ prescriptions mentionnées au I, à l'échéance prévue initialement, elle peut
 mettre en demeure l'exploitant ou le fournisseur de s’y conformer à cette 
 échéance. »
 
-### 
+**Article 17**
+
+L’article L. 33-1 du code des postes et des communications électroniques est 
+complété par un VI ainsi rédigé :
+
+« VI. - Aucune limitation technique ou contractuelle ne peut être apportée à un 
+service d’accès à Internet qui aurait pour objet ou effet d’interdire à un 
+utilisateur de ce service qui en fait la demande:
+
+«  1°d’accéder depuis un point d’accès à Internet, à des données enregistrées 
+sur un équipement connecté à Internet, via le service d’accès auquel il a 
+souscrit ;
 
 ### **Section 2 : Portabilité des données**
 

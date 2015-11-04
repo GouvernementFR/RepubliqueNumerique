@@ -104,3 +104,18 @@ abonné ne dépasse pas 300 euros par mois; lorsqu'un abonné préfinance son
 compte auprès du fournisseur de réseau ou de services de communications 
 électroniques, la valeur cumulée des opérations de paiement ne dépasse pas 300 
 EUR par mois »;
+### **Section 3 : Compétitions de e-Sport**
+
+**Article 38**
+
+Dans les conditions prévues à l’article 38 de la Constitution, le Gouvernement 
+est autorisé à prendre par ordonnance, dans un délai de six mois à compter de 
+la promulgation de la présente loi, les mesures relevant du domaine de la loi 
+et modifiant le code de la sécurité intérieure afin de définir, par dérogation 
+aux interdictions fixées par les articles L. 322-1 à L. 322-2-1 de ce code, le 
+régime particulier applicable aux compétitions de jeux vidéo, tels que définis 
+à l’article 220 terdecies II du code général des impôts, pour en permettre 
+l’organisation.
+
+Un projet de loi de ratification est déposé devant le Parlement dans un délai 
+de trois mois à compter de la publication de cette ordonnance.

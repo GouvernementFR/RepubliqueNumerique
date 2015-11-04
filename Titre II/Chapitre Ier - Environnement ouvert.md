@@ -8,26 +8,37 @@ Chapitre Ier : Environnement ouvert
 
 ### **Section 1 : Neutralité de l’internet**
 
-**Article** 11
-*Neutralité de l’internet*
+**Article 16**
 
-*\[Principe\]*
-
-I. L’article L. 33-1 du code des postes et des communications électroniques est 
-modifié comme suit :
+I. - L’article L. 33-1 du code des postes et des communications électroniques 
+est modifié comme suit :
 
 1° Après le o), il est ajouté l’alinéa suivant :
 
-« p) la neutralité de l'Internet, garantie par le traitement égal et non 
-discriminatoire du trafic par les opérateurs dans la fourniture des services 
-d’accès à Internet ainsi que par le droit des utilisateurs finals, y compris 
-les personnes fournissant des services de communication au public en ligne 
-d'accéder et de contribuer à Internet, conformément au règlement du Parlement 
-européen et du Conseil n° …. du … établissant des mesures relatives au marché 
-unique européen des communications électroniques et visant à faire de l’Europe 
-un continent connecté. » ;
+« p) la neutralité de l'Internet garantie, conformément au règlement n° … du 
+Parlement européen et du Conseil du …. établissant des mesures relatives à 
+l'internet ouvert et modifiant la directive 2002/22/CE sur le service universel 
+et les droits de l'utilisateur concernant les réseaux de communication et les 
+services et le règlement (UE) n° 531/2012 concernant l'itinérance sur les 
+réseaux publics de communications mobiles à l'intérieur de l'Union, par :
 
-*\[Actualisation des compétences du régulateur\]*
+« - le traitement de façon égale et sans discrimination de tout trafic par les 
+opérateurs dans la fourniture des services d’accès à Internet sans restriction 
+ou interférence, quels que soient l'expéditeur et le destinataire, les contenus 
+consultés ou diffusés, les applications ou les services utilisés ou fournis ou 
+les équipements terminaux utilisés ;
+
+«  - ainsi que par le droit des utilisateurs finals, y compris les personnes 
+fournissant des services de communication au public en ligne d'accéder et de 
+contribuer à Internet. » ;
+
+« Des services autres que des services d’accès à internet optimisés pour des 
+contenus, applications ou services spécifiques ou une combinaison de ceux-ci, 
+peuvent également être fournis dans les conditions prévues par le même 
+règlement. »
+
+2° Au dernier alinéa, les mots : « a à o » sont remplacés par les mots : « a à 
+p ».
 
 II. - Au 2° du I de l’article L. 32-4 du code des postes et des communications 
 électroniques, après les mots : « les conditions techniques et tarifaires 
@@ -39,13 +50,16 @@ communications électroniques est ainsi modifié :
 1° Après les mots : « d’acheminement » sont insérés les mots : « , notamment de 
 gestion, »
 
-2° Le mot « réciproques » est supprimé.
+2° Le mot :« réciproques » est supprimé.
 
 IV. - Au 3° de l’article L. 36-7 du code des postes et des communications 
 électroniques, après les mots : « à l'intérieur de l'Union » sont insérés les 
-mots : « et du règlement n° …. du Parlement européen et du Conseil, du …, 
-établissant des mesures relatives au marché unique européen des communications 
-électroniques et visant à faire de l’Europe un continent connecté ».
+mots : « et du règlement n° … du Parlement européen et du Conseil du …. 
+établissant des mesures relatives à l'internet ouvert et modifiant la directive 
+2002/22/CE sur le service universel et les droits de l'utilisateur concernant 
+les réseaux de communication et les services et le règlement (UE) n° 531/2012 
+concernant l'itinérance sur les réseaux publics de communications mobiles à 
+l'intérieur de l'Union ».
 
 V. - L’article L. 36-11 du code des postes et des communications électroniques 
 est ainsi modifié :
@@ -61,9 +75,12 @@ services de communication au public en ligne » ;
 
 3° Après le troisième alinéa du I est inséré un alinéa ainsi rédigé :
 
-« aux dispositions du règlement n° …. du Parlement européen et du Conseil, du … 
-établissant des mesures relatives au marché unique européen des communications 
-électroniques et visant à faire de l’Europe un continent connecté ;  »
+« aux dispositions du règlement n° … du Parlement européen et du Conseil du …. 
+établissant des mesures relatives à l'internet ouvert et modifiant la directive 
+2002/22/CE sur le service universel et les droits de l'utilisateur concernant 
+les réseaux de communication et les services et le règlement (UE) n° 531/2012 
+concernant l'itinérance sur les réseaux publics de communications mobiles à 
+l'intérieur de l'Union. »
 
 4° Après le sixième alinéa du I, il est ajouté un alinéa ainsi rédigé :
 

@@ -269,17 +269,15 @@ publique. »
 III. - Le I et le II du présent article sont applicables aux contrats conclus 
 ou reconduits postérieurement à la promulgation de la présente loi.
 
+**Article 9**
 
 L’article 10 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des 
 citoyens dans leurs relations avec les administrations est ainsi modifié :
 
-*\[Faculté d’introduire une clause open data dans les conventions de 
-subventions\]*
-
 1° Au cinquième alinéa, les mots : « le seuil mentionné au troisième alinéa » 
 sont remplacés par les mots : « le seuil mentionné au quatrième alinéa » ;
 
-2° Au sixième alinéa, il est ajouté deux phrases ainsi rédigées :
+2° Le sixième alinéa est complété par deux phrases ainsi rédigées :
 
 « L'autorité administrative ou l'organisme chargé de la gestion d'un service 
 public industriel et commercial mentionné au premier alinéa de l'article 9-1 
@@ -292,9 +290,7 @@ d’extraire et d’exploiter librement tout ou partie de ces données et bases 
 données notamment en vue de leur mise à disposition à titre gratuit à des fins 
 de réutilisation à titre gratuit ou onéreux. » ;
 
-*\[Publication des données essentielles des conventions de subventions\]*
-
-3° Après le septième alinéa, il est inséré un alinéa ainsi rédigé :
+3° Il est inséré un huitième alinéa ainsi rédigé :
 
 « L'autorité administrative ou l'organisme chargé de la gestion d'un service 
 public industriel et commercial mentionné au premier alinéa de l'article 9-1 
@@ -303,50 +299,31 @@ présent article rend accessible, sous un standard ouvert aisément réutilisabl
 les données essentielles de la convention de subvention, dans des conditions 
 fixées par voie règlementaire. »
 
-**Article 7
-***Accès de la statistique publique aux bases de données privées*
+**Article 10**
 
 La loi n° 51-711 du 7 juin 1951 sur l'obligation, la coordination et le secret 
 en matière de statistiques est ainsi modifiée :
 
-*\[Accès de la statistique publique aux bases de données privées avec garanties 
-renforcées\]*
+1° Le second alinéa de l’article 3 est supprimé.
 
-I. Le second alinéa de l’article 3 est abrogé ;
+2° Il est inséré un article 3-1 ainsi rédigé :
 
-II. Il est inséré un article 3-1 ainsi rédigé :
+« *Art. 3-1.*- I. - Pour les besoins d’enquêtes statistiques qui sont rendues 
+obligatoires en vertu de l’article 1bis, le ministre chargé de l’économie peut 
+décider, après avis du Conseil national de l’information statistique, que les 
+personnes morales enquêtées transmettent par voie électronique au service 
+statistique public certaines informations présentes dans les bases de données 
+qu’elles détiennent.
 
-« *Art. 3-1.*-
+« Cette décision est précédée d’une étude de faisabilité et d’opportunité 
+rendue publique. Cette étude établit si le mode de collecte est adapté aux 
+besoins de l’enquête après concertation avec les personnes morales enquêtées. 
+Les données transmises par les personnes morales enquêtées ne peuvent être 
+communiquées à quiconque. Seules sont soumises aux dispositions du livre II du 
+code du patrimoine les informations issues de ces données ayant été agrégées et 
+ne permettant pas l’identification de la personne morale enquêtée.
 
-« I. Pour les besoins d’enquêtes statistiques obligatoires ayant reçu le visa 
-ministériel prévu à l’article 2, le ministre chargé de l’économie peut décider 
-que le service statistique public accède à des bases de données des personnes 
-enquêtées.
-
-« Cette décision est précédée d’une étude de faisabilité et d’opportunité. 
-L’accès à des bases de données ne peut être décidé quesi, au regard de l’étude, 
-il est établi :
-
-« 1° que ce mode de collecte est adapté aux besoins de l’enquête ;
-
-« 2° et qu’il présente, par rapport à d’autres modes de collecte, des avantages 
-en termes de coût pour le service statistique public ou les personnes enquêtées 
-ou de qualité des données produites.
-
-« La décision précise la nature des enquêtes statistiques pour lesquelles 
-l’accès est décidé.
-
-« Les renseignements extraits des bases de données ne peuvent être utilisés à 
-d’autres fins que la réalisation de l’enquête statistique pour laquelle l’accès 
-a été décidé.
-
-« La décision précise la durée pendant laquelle le service statistique public 
-peut accéder aux bases de données des personnes enquêtées ainsi que la nature 
-des enquêtes statistiques pour lesquelles l’accès est décidé.
-
-« Une convention entre le service statistique concerné et la personne enquêtée 
-définit les conditions techniques de l’accès aux données. Les agents habilités 
-à accéder aux données sont individuellement désignés par le chef du service.
+.
 
 « Dans la limite des finalités de l’enquête statistique, les agents du service 
 statistique public peuvent procéder à un enregistrement temporaire des données 
@@ -354,23 +331,22 @@ nécessaires à la réalisation de l’enquête. Un relevé mentionne la date de
 création de chaque enregistrement ainsi que la nature des renseignements 
 collectés. Copie de ce relevé est donné à la personne enquêtée.
 
-« Les renseignements extraits des bases de données ne peuvent être utilisés à 
-d’autres fins que la réalisation de l’enquête statistique pour laquelle l’accès 
-a été décidé.
+« II. - Par dérogation aux dispositions de l'article 7, en cas de refus de la 
+personne enquêtée de procéder à la transmission d’informations conformément à 
+la décision prise dans les conditions mentionnées I, le ministre chargé de 
+l'économie met en demeure la personne morale enquêtée. Cette mise en demeure 
+fixe le délai imparti à la personne enquêtée pour faire valoir ses 
+observations. Ce délai ne peut être inférieur à un mois.
 
-« II. Par dérogation aux dispositions de l'article 7, en cas de refus d'accès à 
-une base de données mentionnée au premier alinéa, le ministre chargé de 
-l'économie peut, après mise en demeure et dans le délai imparti par cette mise 
-en demeure, et après avis du conseil national de l'information statistique 
-réuni en comité du contentieux des enquêtes statistiques obligatoires, 
-prononcer une amende administrative.
+« Si la personne enquêtée ne se conforme pas à cette mise en demeure, le 
+ministre saisit pour avis le conseil national de l'information statistique 
+réuni en comité du contentieux des enquêtes statistiques obligatoires. La 
+personne enquêtée est entendue par le comité.
 
-« L’avis du comité est communiqué au ministre accompagné, le cas échéant, des 
-observations de l’intéressé qui peuvent être présentées dans un délai d’un mois 
-après la notification des griefs.
+« Au vu de cet avis, le ministre peut, par une décision motivée, prononcer une 
+amende administrative.
 
-« La décision du ministre est motivée ; le recours dirigé contre cette décision 
-est un recours de pleine juridiction.
+Le recours dirigé contre cette décision est un recours de pleine juridiction.
 
 « Le montant de la première amende encourue à ce titre ne peut dépasser 25 000 
 euros. En cas de récidive dans un délai de trois ans, le montant de l’amende 

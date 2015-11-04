@@ -103,48 +103,57 @@ utilisateur de ce service qui en fait la demande:
 sur un équipement connecté à Internet, via le service d’accès auquel il a 
 souscrit ;
 
-### **Section 2 : Portabilité des données**
+« 2°, ou de donner à des tiers accès à ces données. »
 
-**Article 12***Portabilité des données*
+### **Section 2 : Portabilité et récupération des données**
 
-\[sous réserve de non-contradiction avec la version finale du règlement sur les 
-données personnelles\]
+**Article 18**
 
-Le code de la consommation est ainsi modifié :
+I. - Le code de la consommation est ainsi modifié :
 
-I. - – Le chapitre 1er du Titre II du Livre 1er du code de la consommation est 
+1° Le chapitre 1er du Titre II du Livre 1er du code de la consommation est 
 complété par une section 18 ainsi rédigée :
 
 « Section 18 : Récupération et portabilité de données
 
-« *Art. L. 121-*120.-
+« *Art. L. 121-120.*- Le consommateur dispose d’un droit de récupération de 
+données à tout moment dans les conditions prévues à la présente section. 
 
-«  Tout fournisseur d’un service de courrier électronique doit proposer une 
-fonctionnalité gratuite permettant à tout consommateur de transférer 
-directement les messages qu’il a émis ou reçus au moyen de ce service, et qui 
-sont conservés par un système de traitement automatisé mis en œuvre par le 
+« Sous-section 1 : Services de courrier électronique
+
+« *Art. L. 121-121*.-
+
+«  Tout fournisseur d’un service de courrier électronique comprenant la mise à 
+disposition d’une adresse de courrier électronique doit proposer une 
+fonctionnalité gratuite permettant au consommateur de transférer directement 
+les messages qu’il a émis ou reçus au moyen de ce service, et qui sont 
+conservés par un système de traitement automatisé mis en œuvre par le 
 fournisseur du service, ainsi que sa liste de contacts, vers un autre 
-fournisseur de service de courrier électronique, dans la limite de la capacité 
-de stockage de ce nouveau service.
+fournisseur de service de courrier électronique comprenant la mise à 
+disposition d’une adresse de courrier électronique, dans la limite de la 
+capacité de stockage de ce nouveau service.
 
 « Pour cela, tout fournisseur d’un service de courrier électronique ne peut 
 refuser de fournir à un autre fournisseur d’un service de courrier électronique 
-les informations nécessaires à la mise en place des fonctionnalités mentionnées 
-au premier alinéa, notamment celles relatives à leurs règles techniques et aux 
+comprenant la mise à disposition d’une adresse de courrier électronique les 
+informations nécessaires à la mise en place des fonctionnalités mentionnées au 
+premier alinéa, notamment celles relatives à leurs règles techniques et aux 
 standards applicables.
 
-« Les fournisseurs de service de courrier électronique informent les 
-consommateurs de manière claire et loyale du droit mentionné au premier alinéa.
+« Les fournisseurs de service de courrier électronique comprenant la mise à 
+disposition d’une adresse de courrier électronique informent le consommateur de 
+manière claire et loyale du droit mentionné au premier alinéa.
 
-« Les fournisseurs de service de courrier électronique sont tenus de proposer 
-gratuitement aux consommateurs, lorsque ceux-ci changent de fournisseur, une 
-offre leur permettant de continuer, pour une durée de six mois à compter de la 
+« Les fournisseurs de service de courrier électronique comprenant la mise à 
+disposition d’une adresse de courrier électronique sont tenus de proposer 
+gratuitement au consommateur, lorsque celui-ci change de fournisseur, une offre 
+lui permettant de continuer, pour une durée de six mois à compter de la 
 résiliation ou de la désactivation du service, à avoir accès gratuitement au 
-courrier électronique reçu sur l’adresse électronique attribuée. 
+courrier électronique reçu sur l’adresse électronique initialement attribuée. 
 
 « Sous-section 2 : Récupération des données stockées en ligne
 
-« *Art. L. 121-*121.-
+« *Art. L. 121-122*.-
 
 « Tout fournisseur d’un service de communication au public en ligne propose, en 
 prenant toutes les mesures nécessaires à cette fin, notamment en termes 
@@ -155,7 +164,9 @@ permettant la récupération licite :
 
 2° de toutes les données associées au compte utilisateur du consommateur et 
 résultant de l’utilisation de ce compte, notamment les données relatives au 
-classement de contenus.
+classement de contenus, dans un standard ouvert et aisément réutilisable, 
+lisible par une machine et pouvant être exploité par un système de traitement 
+automatisé.
 
 La fonctionnalité prévue au premier alinéa doit offrir au consommateur une 
 faculté de requête unique étendue au moins à un type ou un format de fichiers 

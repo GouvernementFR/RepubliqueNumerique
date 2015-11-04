@@ -154,6 +154,55 @@ administration souhaite recourir à une licence ne figurant pas sur cette liste,
 cette licence doit être préalablement homologuée par l’Etat, dans des 
 conditions fixées par décret. »
 
+**Article 6**
+
+I. - Le premier alinéa de l’article 17 de la loi du 17 juillet 1978 portant 
+diverses mesures d'amélioration des relations entre l'administration et le 
+public et diverses dispositions d'ordre administratif, social et fiscal est 
+complété par une phrase ainsi rédigée :
+
+« Elles publient chaque année une version mise à jour de ce répertoire. »
+
+II. - A l’article L. 342-1 du code des relations entre le public et 
+l’administration, après les mots : « refus de communication » sont insérés les 
+mots : « ou un refus de publication ».
+
+III. - Au 3° du A de l’article L. 342-2 du même code, après les mots : « Les 
+articles » sont insérés les mots : « L. 1112-23, ».
+
+IV. - L’article L. 342-3 du même code est complété par deux alinéas ainsi 
+rédigés :
+
+« Lorsque une administration confirme une décision de refus de communication ou 
+de publication à l’issue d’un avis favorable de la commission, le président de 
+la commission inscrit sur une liste qu’il met en ligne le nom de 
+l’administration, la référence du document administratif non communiqué ou non 
+publié et, le cas échéant, le motif du refus. L’inscription sur la liste cesse 
+dès que l’administration a communiqué ou publié le document ou dès qu’une 
+décision juridictionnelle a rejeté le recours dirigé contre le refus de 
+communication ou de publication.
+
+« Dès lors que la commission constate qu’une obligation de publication prévue à 
+l’article L. 312-1 n’a pas été respectée, le président de la commission peut 
+mettre en demeure l’administration compétente de se mettre en conformité avec 
+l’obligation de publication dans un délai de deux mois. Passé le délai fixé 
+dans la mise en demeure, le président de la commission inscrit sur une liste 
+qu’il met en ligne le nom de l’administration, la référence du document 
+administratif non communiqué ou non publié et, le cas échéant, le motif du 
+refus. Le président de la commission peut saisir la juridiction administrative 
+compétente afin d’obtenir que l’administration se mette en conformité. 
+L’inscription sur la liste cesse dès que l’administration s’est conformée à la 
+mise en demeure ou dès qu’une décision juridictionnelle a rejeté le recours 
+dirigé contre le refus de communication ou de publication. »
+
+V. - Au dernier alinéa de l’article L. 341-1 du même code, après les mots : « 
+délibérer en formation restreinte » sont insérés les mots : « ou déléguer à son 
+président l’exercice de certaines de ses attributions ».
+
+VI. - L’avant-dernier alinéa de l’article L. 342-3 du code des relations entre 
+le public et l’administration dans sa rédaction issue de la présente loi entre 
+en vigueur six mois après la publication de la présente loi.
+
 ### **Section 2 : Service public de la donnée**
 
 **Article** 4

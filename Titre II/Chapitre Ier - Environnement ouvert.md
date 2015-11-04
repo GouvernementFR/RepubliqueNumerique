@@ -196,14 +196,25 @@ prononcée dans les conditions prévues à [l'article L.
 141-1-2.](http://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT00
 0006069565&idArticle=LEGIARTI000028743137&dateTexte=&categorieLien=cid)  »
 
+« *Art. L.122-125.*- La présente section ne s’applique pas aux fournisseurs 
+d’un service de communication au public en ligne dont le nombre de comptes 
+utilisateurs ayant fait l’objet d’une connexion au cours des douze derniers 
+mois est inférieur à un seuil fixé par arrêté conjoint des ministres chargés de 
+la consommation et du numérique. »
+
+2° Au 2° du I de l’article L.141-1, les mots : « 12 et 15 » sont remplacés par 
+les mots : « 12, 15 et 18 ».
+
+II. - Les dispositions du présent article entrent en vigueur dix-huit mois à 
+compter de la promulgation de la présente loi.
+
 ### **Section 3 : Loyauté des plateformes**
 
-**Article** 13
-*Principe de loyauté vis-à-vis des consommateurs*
+**Article 19**
 
 L’article L. 111-5-1 du code de la consommation est ainsi modifié :
 
-I. Le premier alinéa est remplacé par les alinéas suivants :
+1° Le premier alinéa est remplacé par les dispositions suivantes :
 
 « Sans préjudice des obligations prévues la loi n° 2004-575 du 21 juin 2004 
 pour la confiance dans l’économie numérique :
@@ -226,44 +237,55 @@ personnes référencées ; l’existence ou non d’une rémunération par les p
 référencées et, le cas échéant, l’impact de celle-ci sur le classement des 
 contenus, biens ou services proposés.
 
-II. Aux deuxième et troisième alinéas, les mots « la personne mentionnée au 
-premier alinéa du présent article est également tenue » sont remplacés par « 
-l’opérateur de la plateforme en ligne est également tenu ».
+2° Aux deuxième et troisième alinéas, les mots : « la personne mentionnée au 
+premier alinéa du présent article est également tenue » sont remplacés par les 
+mots : « l’opérateur de la plateforme en ligne est également tenu ».
 
-**Article 14**
+Article 20
 
-*Régulation*L’Autorité administrative veille au respect par les plateformes en 
-ligne des dispositions du chapitre Ier du titre Ier du livre Ier du code de la 
-consommation.
+Après l’article L. 111-5-1 du code de la consommation, il est inséré un article 
+L. 111-5-2 ainsi rédigé :
 
-Elle peut :
+« *L. 111-5-2.* -I. - Les plateformes en ligne dont l’activité dépasse un seuil 
+de nombre de connexions défini par décret :
 
-1° Encourager la diffusion de bonnes pratiques élaborées en concertation avec 
-les entreprises du secteur et les associations de consommateurs ou 
-d’utilisateurs ;
+1° élaborent et diffusent des bonnes pratiques visant à renforcer leurs 
+obligations de transparence et de loyauté ;
 
-2° Définir le degré de précision et le format de mise à disposition des 
-informations mentionnées au présent article, en prévoyant le cas échéant 
-l’utilisation d’un standard ouvert aisément réutilisable ;
+2° définissent des indicateurs permettant d’apprécier le respect de leurs 
+obligations de transparence et de loyauté ;
 
-3° Définir, après consultation des organisations professionnelles concernées et 
-des associations de consommateurs ou d’utilisateurs, des indicateurs permettant 
-d’apprécier et de comparer les pratiques mises en œuvre par les plateformes en 
-ligne ;
+3° rendent périodiquement publics les résultats de l’évaluation des indicateurs 
+définis au 2°.
 
-4° Lorsqu'elle estime que les informations mises à disposition des utilisateurs 
-ne sont pas suffisantes pour leur permettre d’apprécier et de comparer les 
-pratiques mises en œuvre par les plateformes en ligne, recueillir auprès de 
-celles-ci les données nécessaires en vue de la publication par elle-même, ou 
+Les informations mentionnées aux 1° à 3° sont communiquées aux ministres 
+chargés de l’économie et du numérique.
+
+II. - Un décret précise les modalités de concertation entre les plateformes et 
+les pouvoirs publics, les organisations professionnelles, les associations de 
+consommateurs ou d’utilisateurs et toute autre personnalité qualifiée en 
+fonction de ses compétences et de son expérience. La concertation contribue à 
+l’harmonisation des informations visées au I du présent article et à la 
+définition du format de mise à disposition et de publication des informations, 
+en prévoyant, le cas échéant, l’utilisation d’un standard ouvert aisément 
+réutilisable.
+
+III. - Dans le cadre de l’exercice de leurs missions respectives, les ministres 
+chargés de l’économie et du numérique peuvent notamment :
+
+1° Procéder à des enquêtes dans les conditions prévues au premier alinéa du II 
+de l’article L. 141-1, en particulier auprès des plateformes et de tout 
+organisme participant à l’évaluation de leurs pratiques ;
+
+2° Publier la liste des plateformes ne respectant pas leurs obligations au 
+titre du présent article et de l’article 13 ;
+
+3° Lorsqu’ils estiment que les informations mises à disposition des 
+utilisateurs par les plateformes en ligne mentionnées au I. ne permettent pas 
+d’apprécier et de comparer les pratiques mises en œuvre, recueillir auprès de 
+celles-ci les données nécessaires en vue de la publication par eux-mêmes, ou 
 par un organisme compétent désigné à cet effet, des résultats de ces 
-indicateurs.
-
-5° Recueillir les informations et procéder aux enquêtes nécessaires à 
-l'exercice des compétences qui lui sont dévolues par le présent article.
-
-6° Sous réserve des secrets protégés par la loi, mettre les informations 
-collectées dans le cadre du présent article à disposition du public sous un 
-standard ouvert aisément réutilisable sous réserve d’en mentionner la source.
+indicateurs. »
 
 ### **Section 4 : Information des consommateurs**
 

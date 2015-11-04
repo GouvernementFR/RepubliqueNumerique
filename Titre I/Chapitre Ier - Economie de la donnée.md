@@ -8,12 +8,17 @@ Chapitre Ier : Economie de la donnée
 
 ### **Section 1 : Ouverture des données publiques**
 
-**Article 1**
+**Article 1<sup>er</sup>**
 
-**Elargissement du champ de diffusion par l’administration**
+Après l’article L. 311-1 du code des relations entre le public et 
+l’administration, il est inséré un article L. 311-1-1 ainsi rédigé :
 
-I. Les deuxième, troisième et quatrième alinéas de l’article 7 de la loi n° 
-78-753 du 17 juillet 1978 sont remplacés par les dispositions suivantes :
+« *Art. L. 311-1-1.* - Sous réserve des dispositions des articles L. 311-5 et 
+L. 311-6, les administrations mentionnées à l’article L. 300-2 sont tenues de 
+communiquer les documents administratifs qu’elles détiennent aux autres 
+administrations mentionnées à l’article L. 300-2 qui en font la demande pour 
+l’accomplissement de leurs missions de service public, sans préjudice des 
+dispositions de l’article L. 114-8. »
 
 « Les administrations mentionnées à l’article 1<sup>er</sup>, à l'exception des 
 personnes morales dont le nombre d'agents ou de salariés est inférieur à un 

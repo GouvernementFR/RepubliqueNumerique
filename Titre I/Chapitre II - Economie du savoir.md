@@ -1,49 +1,7 @@
 
-
-Chapitre II : Economie du savoir
+Chapitre II : Economie du savoir
 --------------------------------
 
-### Section 1 : Les Communs
-
-**Article 8
-***Définition* *du domaine commun informationnel*
->
-> \[Rédaction provisoire à consolider dans le cadre de la concertation
->  avec les experts et les parties prenantes, avant décision de maintien\]
-
-I. Relèvent du domaine commun informationnel :
-
-1° Les informations, faits, idées, principes, méthodes, découvertes, dès lors 
-qu’ils ont fait l’objet d’une divulgation publique licite, notamment dans le 
-respect du secret industriel et commercial et du droit à la protection de la 
-vie privée, et qu’ils ne sont pas protégés par un droit spécifique, tel qu’un 
-droit de propriété ou une obligation contractuelle ou extracontractuelle ;
-
-2° Les œuvres, dessins, modèles, inventions, bases de données, protégés par le 
-code de la propriété intellectuelle, dont la durée de protection légale, à 
-l’exception du droit moral des auteurs, a expiré ;
-
-3° Les informations issues des documents administratifs diffusés publiquement 
-par les personnes mentionnées à l’article 1 de la loi n°78-753 du 17 juillet 
-1978 et dans les conditions précisées à l’article 7 de la même loi, sans 
-préjudice des dispositions des articles 9, 10, 14 et 15 de ladite loi.
-
-Les choses qui composent le domaine commun informationnel sont des choses 
-communes au sens de l’article 714 du Code civil. Elles ne peuvent, en tant que 
-tels, faire l'objet d’une exclusivité, ni d'une restriction de l’usage commun à 
-tous, autre que l’exercice du droit moral.
-
-Les associations agréées ayant pour objet la diffusion des savoirs ou la 
-défense des choses communes ont qualité pour agir aux fins de faire cesser 
-toute atteinte au domaine commun informationnel*.* Cet agrément est attribué 
-dans des conditions définies par un décret en Conseil d’Etat. Il est valable 
-pour une durée limitée, et peut être abrogé lorsque l’association ne satisfait 
-plus aux conditions qui ont conduit à le délivrer.
-
-II. Au troisième alinéa de l’article L.411-1 du code de la propriété 
-intellectuelle, après les mots « protection des innovations, », il est inséré 
-les mots : « pour la promotion de l’innovation collaborative et du domaine 
-commun informationnel ».
 
 ### Section 2 : Travaux de recherche et de statistique
 

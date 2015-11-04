@@ -233,33 +233,42 @@ disposition et à la publication des données de référence.
 
 ### **Section 3 : Données d’intérêt général**
 
-**Article 5
-***Ouverture des données par défaut dans les contrats de DSP*
+Article 8
 
-I. Dans la loi n° 93-122 du 29 janvier 1993 relative à la prévention de la 
+I. - Dans la loi n° 93-122 du 29 janvier 1993 relative à la prévention de la 
 corruption et à la transparence de la vie économique et des procédures 
-publiques, il est inséré un article 40-2 ainsi rédigé :
+publiques, il est inséré un article 40-2 ainsi rédigé :
 
-« *Art. 40-2*.- Sauf stipulation contraire, le délégataire fournit à la 
-personne morale de droit public, dans un standard ouvert aisément réutilisable, 
-les données et bases de données collectées ou produites à l'occasion de 
-l'exploitation du service public. Il autorise par ailleurs la personne morale 
-de droit public, ou un tiers désigné par celle-ci, à extraire et exploiter 
-librement tout ou partie de ces données et bases de données, notamment en vue 
-de leur mise à disposition à titre gratuit à des fins de réutilisation à titre 
-gratuit ou onéreux. »
+« *Art. 40-2.* - Le délégataire fournit à la personne morale de droit public, 
+dans un standard ouvert aisément réutilisable, les données et bases de données 
+collectées ou produites à l'occasion de l'exploitation du service public. Il 
+autorise par ailleurs la personne morale de droit public, ou un tiers désigné 
+par celle-ci, à extraire et exploiter librement tout ou partie de ces données 
+et bases de données, notamment en vue de leur mise à disposition à titre 
+gratuit à des fins de réutilisation à titre gratuit ou onéreux.
 
-« *Art. 1411-3-1* - Sauf stipulation contraire, le délégataire fournit à la 
-personne morale de droit public, dans un standard ouvert aisément réutilisable, 
-les données et bases de données collectées ou produites à l’occasion de 
-l’exécution du service public. Il autorise par ailleurs la personne morale de 
-droit public, ou un tiers désigné par celle-ci, à extraire et exploiter 
-librement tout ou partie de ces données et bases de données, notamment en vue 
-de leur mise à disposition à titre gratuit à des fins de réutilisation à titre 
-gratuit ou onéreux. »
+« La personne morale de droit public peut exempter le délégataire des 
+obligations prévues au premier alinéa par une décision motivée et rendue 
+publique. »
 
-**Article 6
-***Ouverture des données dans les conventions de subventions*
+II. - Après l’article L. 1411-3 du code général des collectivités 
+territoriales, il est inséré un article ainsi rédigé :
+
+« *Art. L. 1411-3-1.* - Le délégataire fournit à la personne morale de droit 
+public, dans un standard ouvert aisément réutilisable, les données et bases de 
+données collectées ou produites à l’occasion de l’exécution du service public. 
+Il autorise par ailleurs la personne morale de droit public, ou un tiers 
+désigné par celle-ci, à extraire et exploiter librement tout ou partie de ces 
+données et bases de données, notamment en vue de leur mise à disposition à 
+titre gratuit à des fins de réutilisation à titre gratuit ou onéreux.
+
+« La personne morale de droit public peut exempter le délégataire des 
+obligations prévues au premier alinéa par une décision motivée et rendue 
+publique. »
+
+III. - Le I et le II du présent article sont applicables aux contrats conclus 
+ou reconduits postérieurement à la promulgation de la présente loi.
+
 
 L’article 10 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des 
 citoyens dans leurs relations avec les administrations est ainsi modifié :

@@ -127,6 +127,24 @@ L. 300-2 du code des relations entre l’administration et le public, aux fins d
 l'exercice de leur mission de service public ne constitue pas une réutilisation 
 au sens du présent chapitre.
 
+**Article 5**
+
+I. - L’article 11 de la loi du 17 juillet 1978 portant diverses mesures 
+d'amélioration des relations entre l'administration et le public et diverses 
+dispositions d'ordre administratif, social et fiscal est remplacé par les 
+dispositions suivantes :
+
+« *Art. 11.* - Sous réserve de droits de propriété intellectuelle détenus par 
+des tiers, les droits des administrations mentionnées à l’article L. 300-2 du 
+code des relations entre le public et l’administration au titre des articles L. 
+342-1 et L. 342-2 du code de la propriété intellectuelle ne peuvent faire 
+obstacle à la réutilisation, au sens de l’article 10, du contenu des bases de 
+données que ces administrations ont obligation de publier en application du 3° 
+de l’article L. 312-1 du code des relations entre le public et 
+l’administration. »
+
+II. - Le premier alinéa de l’article 13 de la même loi est supprimé.
+
 ### **Section 2 : Service public de la donnée**
 
 **Article** 4

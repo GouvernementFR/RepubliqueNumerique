@@ -20,7 +20,6 @@ administrations mentionnées à l’article L. 300-2 qui en font la demande pour
 l’accomplissement de leurs missions de service public, sans préjudice des 
 dispositions de l’article L. 114-8. »
 
-« Les administrations mentionnées à l’article 1<sup>er</sup>, à l'exception des 
 **Article 2**
 
 L’article L. 311-3 du code des relations entre le public et l’administration 
@@ -31,66 +30,83 @@ les règles définissant ce traitement, ainsi que les principales
 caractéristiques de sa mise en œuvre, sont communiquées par l’administration à 
 l’intéressé s’il en fait la demande. »
 
+**Article 3**
+
+I. Le deuxième alinéa de l’article L. 312-1 du code des relations entre 
+l’administration et le public est remplacé par les dispositions suivantes :
+
+« Les administrations mentionnées à l’article L. 300-2, à l'exception des 
 personnes morales dont le nombre d'agents ou de salariés est inférieur à un 
 seuil fixé par décret, diffusent publiquement en ligne dans un standard ouvert 
-aisément réutilisable les documents suivants, sous réserve des dispositions de 
-l’article 6, lorsqu’ils sont disponibles sous forme électronique :
+aisément réutilisable les documents suivants, sous réserve des dispositions des 
+articles L. 311-5 et L. 311-6, lorsqu’ils sont disponibles sous forme 
+électronique :
 
 1° les documents qu’elles communiquent en application des procédures prévues 
 par le présent titre, ainsi que leurs mises à jour ;
 
 2° l’ensemble des documents qui figurent dans le répertoire mentionné à 
-l’article 17 ;
+l’article 17 de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures 
+d'amélioration des relations entre l'administration et le public et diverses 
+dispositions d'ordre administratif, social et fiscal ;
 
-3° les bases de données qu’elles produisent ou qu’elles reçoivent, ainsi que 
-les données dont la publication présente un intérêt économique, social ou 
-environnemental.
+3° les bases de données qu’elles produisent ou qu’elles reçoivent, ainsi que le 
+contenu de ces bases ;
+
+4° les données dont l’administration qui les détient estime que leur 
+publication présente un intérêt économique, social ou environnemental.
 
 « Lorsque ces documents comportent des données à caractère personnel, ils ne 
-peuvent être diffusés qu’après anonymisation de ces données, sauf si une 
-disposition législative ou réglementaire autorise leur diffusion sans 
+peuvent être publiés qu’après anonymisation de ces données, sauf si une 
+disposition législative ou réglementaire autorise leur publication sans 
 anonymisation préalable ou si la personne intéressée y a consenti.
 
-« Les administrations mentionnées à l’article 1<sup>er</sup> ne sont pas tenues 
-de publier les archives publiques issues des opérations de sélection prévues 
-aux articles L. 212-2 et L. 212-3 du code du patrimoine.
+« Les administrations mentionnées à l’article L. 300-2 ne sont pas tenues de 
+publier les archives publiques issues des opérations de sélection prévues aux 
+articles L. 212-2 et L. 212-3 du code du patrimoine.
 
 « Sans préjudice des dispositions de l’article L. 1112-23 du code général des 
 collectivités territoriales et de l’article L. 125-12 du code des communes de 
 Nouvelle-Calédonie, les dispositions du deuxième à sixième alinéa du présent 
-article ne s’appliquent pas aux collectivités territoriales, ni aux EPCI à 
-fiscalité propre auxquels elles appartiennent.
+article ne s’appliquent pas aux collectivités territoriales, ni aux 
+établissements publics de coopération intercommunale à fiscalité propre 
+auxquels elles appartiennent.
 
 « Un décret en Conseil d’Etat pris après avis de la commission mentionnée au 
-chapitre III définit les modalités d’application du présent article. »
+titre IV définit les modalités d’application du présent article. »
 
-II. A l’article 9 de la même loi, après les mots : « sont communiqués », sont 
-insérés les mots : « ou diffusés ».
+II. - A l’article L. 311-4 du même code, après les mots : « sont communiqués », 
+sont insérés les mots : « ou publiés».
 
-III. Sans préjudice des dispositions de l’article L. 1112-23 du code général 
+III. - Sans préjudice des dispositions de l’article L. 1112-23 du code général 
 des collectivités territoriales et de l’article L. 125-12 du code des communes 
 de Nouvelle-Calédonie, les dispositions du I du présent article entrent en 
 vigueur à une date fixée par décret et au plus tard deux ans après la 
 publication de la présente loi.
 
 Dans un délai de six mois à compter de la publication de la présente loi, les 
-administrations mentionnées au Idiffusent publiquement les documents qu’elles 
-communiquent en application des procédures prévues par le présent titre.
+administrations mentionnées au deuxième alinéa de l’article L. 312-1 du code 
+des relations entre l’administration et le public, dans sa rédaction issue de 
+la présente loi, publient les documents qu’elles communiquent en application 
+des procédures prévues par le titre Ier du livre III du même code.
 
 Dans un délai d’un an à compter de la publication de la présente loi, les 
-administrations mentionnées au Idiffusent publiquement l’ensemble des documents 
-qui figurent dans le répertoire mentionné à l’article 17 de la loi du 7 juillet 
-1978.
+administrations mentionnées au deuxième alinéa de l’article L. 312-1 du code 
+des relations entre l’administration et le public, dans sa rédaction issue de 
+la présente loi, publient l’ensemble des documents qui figurent dans le 
+répertoire mentionné à l’article 17 de la loi du 17 juillet 1978 portant 
+diverses mesures d'amélioration des relations entre l'administration et le 
+public et diverses dispositions d'ordre administratif, social et fiscal.
 
+**Article 4**
 
+L’article 10 de la loi du 17 juillet 1978 **portant diverses mesures 
+d'amélioration des relations entre l'administration et le public et diverses 
+dispositions d'ordre administratif, social et fiscal** est remplacé par les 
+dispositions suivantes :
 
-**Article 2
- Principe de libre réutilisation des données pour les SPIC**
-
-L’article 10 de la même loi est remplacé par les dispositions suivantes :
-
-« *Art. 10* - Les informations publiques figurant dans des documents 
-administratifs communiqués ou diffusés peuvent être utilisées librement par 
+« *Art. 10.* - Les informations publiques figurant dans des documents 
+administratifs communiqués ou publiés peuvent être utilisées librement par 
 toute personne qui le souhaite à d'autres fins que celles de la mission de 
 service public pour les besoins de laquelle les documents ont été produits ou 
 reçus. Les limites et conditions de cette réutilisation sont régies par le 
@@ -101,45 +117,15 @@ présent chapitre, les informations contenues dans des documents :
 
 a) Dont la communication ne constitue pas un droit en application du chapitre 
 Ier ou d'autres dispositions législatives, sauf si ces informations font 
-l'objet d'une diffusion publique ;
+l'objet d'une publication ;
 
 b) Ou sur lesquels des tiers détiennent des droits de propriété intellectuelle. 
 »
 
-**Article 3**
-***Dispositions diverses***
-
-*\[Echange de données entre administrations* publiques*\]*
-
-I. Après l’article 10 de la même loi, il est rétabli un article 11, ainsi 
-rédigé :
-
-« *Art.* 11 - Les administrations mentionnées à l’article 1er sont tenues de 
-satisfaire aux demandes de transmission des informations publiques présentées 
-par une autre administration mentionnée à l’article 1<sup>er</sup>. Cette 
-obligation ne concerne pas les informations publiques contenues dans les 
-documents mentionnés à l’article 6, sans préjudice des dispositions du III de 
-cet article et du I de l’article 16A de la loi n° 2000-321 du 12 avril 2000.
-
-« Cet échange d’informations ne constitue pas une réutilisation au sens du 
-présent chapitre. »
-
-*\[Simplification du régime de réutilisation des informations publiques 
-comportant des données à caractère personnel\]*
-
-*\[Obligation d’actualiser chaque année le répertoire des principaux documents 
-de chaque administration publique\]*
-
-*\[Création d’un droit de saisine de la CADA pour refus de publication d’un 
-document administratif\]*
-
-IV. Au troisième alinéa de l’article 20 de la même loi, après les mots « refus 
-de communication » sont insérés les mots « ou un refus de diffusion ».
-
-*\[Possibilité de créer une procédure simplifiée de réponse aux demandes reçues 
-par la CADA\]*V. Au dernier alinéa de l’article 23 de la même loi, après les 
-mots « délibérer en formation restreinte » sont insérés les mots « ou déléguer 
-à son président l’exercice de certaines de ses attributions ».
+L'échange d'informations publiques entre les autorités mentionnées à l'article 
+L. 300-2 du code des relations entre l’administration et le public, aux fins de 
+l'exercice de leur mission de service public ne constitue pas une réutilisation 
+au sens du présent chapitre.
 
 ### **Section 2 : Service public de la donnée**
 

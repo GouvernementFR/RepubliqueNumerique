@@ -1,45 +1,43 @@
 
-Chapitre III : Accès des publics fragiles au numérique
-------------------------------------------------------
+Chapitre III
 
-### **Section 1 : Accessibilité des personnes handicapées aux services 
-téléphoniques**
+**Accès des publics fragiles au numérique**
 
-**Article 39**
+
+
+Section 1
+
+**Accès des personnes handicapées aux services téléphoniques**
+
+**Article 43**
 
 I. - Après le premier alinéa de l’article 78 de la loi n° 2005-102 du 11 
-février 2005 pour l’égalité des droits, il est ajouté deux alinéas ainsi 
-rédigés :
+février 2005 sur l’égalité des droits et des chances, la participation et la 
+citoyenneté des personnes handicapées, il est inséré un alinéa ainsi rédigé :
 
-« Les services d’accueil téléphonique destinés à recevoir les appels des 
-usagers sont accessibles aux personnes sourdes et malentendantes par la mise à 
-disposition d’un service de traduction écrite simultanée et visuelle. A défaut, 
+« Les services d’accueil téléphonique opérés par les organismes mentionnés au 
+premier alinéa et destinés à recevoir les appels des usagers sont rendus 
+accessibles aux personnes sourdes et malentendantes en mettant à leur 
+disposition un service de traduction écrite simultanée et visuelle. A défaut, 
 ces appels peuvent être recueillis à partir d’un service de communication au 
-public en ligne, en respectant les mêmes conditions de traduction. ;
-
-« Les associations reconnues d’utilité publiques, dont le montant annuel de 
-ressources est supérieur à un seuil défini par décret dotées, d’un service 
-d’accueil téléphonique, doivent mettre à la disposition des personnes sourdes 
-et malentendantes un service de traduction écrite simultanée et visuelle. A 
-défaut, ces appels peuvent être recueillis à partir d’un service de 
-communication au public en ligne »
+public en ligne, en offrant les mêmes conditions de traduction. »
 
 II. - L’article L. 113-5 du code de la consommation est complété par un alinéa 
 ainsi rédigé :
 
 « Les entreprises dont le chiffre d’affaires est supérieur à un seuil défini 
-par décret rendent ce numéro accessible dans les mêmes conditions aux personnes 
-sourdes et malentendantes, par la mise à disposition d’un service de traduction 
-écrite simultanée et visuelle. Ce service comprend une transcription écrite ou 
+par décret rendent en outre ce numéro accessible aux personnes sourdes et 
+malentendantes, en mettant à leur disposition un service de traduction écrite 
+simultanée et visuelle. Ce service comprend une transcription écrite ou 
 l’intervention d’un interprète en langue des signes française ou d’un codeur en 
 langage parlé complété. Ces appels peuvent également être recueillis à partir 
 d’un service de communication au public en ligne. »
 
-III. - Après le o) du I de l’article L. 33-1 du code des postes et des 
-communications électroniques, il est inséré un alinéa o bis) ainsi rédigé :
+III. - Après le *o* du I de l’article L. 33-1 du code des postes et des 
+communications électroniques, il est inséré un alinéa *o bis* ainsi rédigé :
 
-« o bis) L’accès des utilisateurs finals sourds et malentendants à une offre de 
-services de communications électroniques, incluant la fourniture, à un tarif 
+« *o bis)* Un accès des utilisateurs finals sourds et malentendants à une offre 
+de services de communications électroniques, incluant la fourniture, à un tarif 
 abordable, d’un service de traduction écrite simultanée et visuelle ; ».
 
 IV. - Les dispositions du I et du III entrent en vigueur selon des modalités et 
@@ -103,35 +101,37 @@ la participation et la citoyenneté des personnes handicapées. »
 
 
 
+Section 3 
 
-### **Section 3 : Maintien de la connexion internet**
+**Maintien de la connexion internet**
 
-**Article 41**
+**Article 45**
 
 I. - L’article L. 115-3 du code de l’action sociale et des familles est ainsi 
 modifié :
 
 1° Au premier alinéa, les mots : « et de services téléphoniques dans son 
 logement » sont remplacés par les mots : « d'un service de téléphonie fixe et 
-d’un service d'accès à Internet  » ;
+d’un service d'accès à internet » ;
 
-2° Le deuxième alinéa est remplacé par un deuxième alinéa ainsi rédigé :
+2° Le deuxième alinéa est remplacé par les dispositions suivantes :
 
 « En cas de non-paiement des factures, la fourniture d’énergie et d’eau, un 
-service téléphonique restreint et un service d'accès à internet sont maintenus 
-jusqu’à ce qu’il ait été statué sur la demande d’aide. Le service téléphonique 
-restreint comporte la possibilité de recevoir des appels ainsi que de passer 
-des communications locales et vers les numéros gratuits et d’urgence. Le 
-service d’accès à Internet maintenu peut être restreint par l’opérateur sous 
-réserve de préserver un accès fonctionnel aux services de communication au 
-public en ligne et aux services de courrier électronique.
+service téléphonique et un service d'accès à internet sont maintenus jusqu’à ce 
+qu’il ait été statué sur la demande d’aide. Le service téléphonique maintenu 
+peut être restreint par l’opérateur sous réserve de préserver la possibilité de 
+recevoir des appels ainsi que de passer des communications locales et vers les 
+numéros gratuits et d’urgence. Le service d’accès à internet maintenu peut être 
+restreint par l’opérateur sous réserve de préserver un accès fonctionnel aux 
+services de communication au public en ligne et aux services de courrier 
+électronique.  »
 
 II. - La loi n° 90-449 du 31 mai 1990 visant à la mise en œuvre du droit au 
 logement est ainsi modifiée :
 
 1° Au troisième alinéa de l’article 6, les mots : « et de téléphone » sont 
-remplacés par les mots : «, de téléphone et d’accès à Internet » ;
+remplacés par les mots : « , de téléphone et d’accès à l’internet » ;
 
 2° Au dernier alinéa de l’article 6-1, les mots : « ou de services 
 téléphoniques » sont remplacés par les mots : « , de services téléphoniques ou 
-d’accès à Internet  ».
+d’accès à l’internet ».

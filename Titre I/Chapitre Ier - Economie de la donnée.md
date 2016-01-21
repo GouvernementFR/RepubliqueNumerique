@@ -21,6 +21,12 @@ II (nouveau). – La perte de recettes pour l’État est compensée à due c
 III (nouveau). – La perte de recettes pour les collectivités territoriales est compensée à due concurrence par la majoration de la dotation globale de fonctionnement et, corrélativement pour l’État, par la création d’une taxe additionnelle aux droits mentionnés aux mêmes articles 575 et 575 A.
 
 IV (nouveau). – La perte de recettes pour les organismes de sécurité sociale est compensée à due concurrence par la majoration des droits mentionnés auxdits articles 575 et 575 A.
+V (nouveau). – Le A de l’article L. 342‑2 du code des relations entre le public et l’administration est complété par un 22° ainsi rédigé :
+
+« 22° L’article 1<sup>er</sup> de la loi n°     du      pour une République numérique. »
+
+VI (nouveau). – Le titre I<sup>er</sup> du livre III du code des relations entre le public et l’administration est applicable aux demandes de communication des documents administratifs exercées en application du I du présent article.
+
 
 Article 1<sup>er</sup> bis (nouveau)
 

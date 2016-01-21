@@ -32,7 +32,9 @@ Le Gouvernement remet au Parlement, au plus tard le 30 juin 2016, un rapport su
 
 Article 1<sup>er</sup> bis (nouveau)
 
-À la seconde phrase du premier alinéa de l’article L. 300‑2 du code des relations entre le public et l’administration, après le mot : « prévisions », sont insérés les mots : « , codes sources ».
+I. – À la seconde phrase du premier alinéa de l’article L. 300‑2 du code des relations entre le public et l’administration, après le mot : « prévisions », sont insérés les mots : « , codes sources ».
+
+II (nouveau). – À la fin du d du 2° de l’article L. 311‑5 du même code, les mots : « ou à la sécurité des personnes » sont remplacés par les mots : « , à la sécurité des personnes ou à la sécurité des systèmes d’information des administrations ».
 
 Article 1<sup>er</sup> ter (nouveau)
 

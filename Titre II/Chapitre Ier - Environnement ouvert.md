@@ -73,6 +73,10 @@ L’article L. 33‑1 du code des postes et des communications électroniques e
 
 « 2° Ou de donner à des tiers accès à ces données. »
 
+Article 20 bis A (nouveau)
+
+À compter du 1<sup>er</sup> janvier 2018, tout équipement terminal, au sens de l’article L. 32 du code des postes et des communications électroniques, destiné à la vente ou la location sur le territoire français est compatible avec la norme IPV6.
+
 Article 20 bis (nouveau)
 
 Le code des postes et des communications électroniques est ainsi modifié :

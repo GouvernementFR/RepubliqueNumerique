@@ -130,7 +130,7 @@ B. – Le chapitre III du titre I<sup>er</sup> est complété par un article
 
 C. – L’article L. 36‑11 est ainsi modifié :
 
-1° À la première phrase du premier alinéa, après la deuxième occurrence du mot : « électroniques, », sont insérés les mots : « d’un maire, » ;
+1° À la première phrase du premier alinéa, après la deuxième occurrence du mot : « électroniques, », sont insérés les mots : « d’une collectivité territoriale ou d’un groupement de collectivités territoriales, » ;
 
 2° Après le sixième alinéa du III, il est inséré un alinéa ainsi rédigé :
 

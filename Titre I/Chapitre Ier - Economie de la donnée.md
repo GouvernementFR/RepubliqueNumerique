@@ -140,7 +140,9 @@ La loi n° 78‑753 du 17 juillet 1978 précitée est ainsi modifiée :
 
 1° L’article 11 est ainsi rétabli :
 
-« Art. 11. – Sous réserve de droits de propriété intellectuelle détenus par des tiers, les droits des administrations mentionnées au premier alinéa de l’article L. 300‑2 du code des relations entre le public et l’administration, au titre des articles L. 342‑1 et L. 342‑2 du code de la propriété intellectuelle, ne peuvent faire obstacle à la réutilisation, au sens de l’article 10 de la présente loi, du contenu des bases de données que ces administrations publient en application du 3° de l’article L. 312‑1‑1 du code des relations entre le public et l’administration. » ;
+« Art. 11. – Sous réserve de droits de propriété intellectuelle détenus par des tiers, les droits des administrations mentionnées au premier alinéa de l’article L. 300‑2 du code des relations entre le public et l’administration, au titre des articles L. 342‑1 et L. 342‑2 du code de la propriété intellectuelle, ne peuvent faire obstacle à la réutilisation, au sens de l’article 10 de la présente loi, du contenu des bases de données que ces administrations publient en application du 3° de l’article L. 312‑1‑1 du code des relations entre le public et l’administration.
+
+« Le premier alinéa du présent article n’est pas applicable aux bases de données produites ou reçues par les administrations mentionnées au premier alinéa de l’article L. 300‑2 du code des relations entre le public et l’administration dans l’exercice d’une mission de service public à caractère industriel ou commercial soumise à la concurrence. » ;
 
 2° L’article 16 est complété par un alinéa ainsi rédigé :
 

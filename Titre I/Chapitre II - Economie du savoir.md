@@ -38,3 +38,15 @@ Le chapitre IV de la loi n° 78‑17 du 6 janvier 1978 précitée est ainsi mo
 
 3° Au début du 1° des I et II de l’article 27, sont ajoutés les mots : « Sous réserve du I bis de l’article 22 et du 9° du I de l’article 25, ».
 
+Article 18 bis (nouveau)
+
+Le code de la propriété intellectuelle est ainsi modifié :
+
+1° Après le second alinéa du 9° de l’article L. 122‑5, il est inséré un 10° ainsi rédigé :
+
+« 10° Les copies ou reproductions numériques réalisées à partir d’une source licite, en vue de l’exploration de textes et de données pour les besoins de la recherche publique, à l’exclusion de toute finalité commerciale. Un décret fixe les conditions dans lesquelles l’exploration des textes et des données est mise en œuvre, ainsi que les modalités de conservation et de communication des fichiers produits au terme des activités de recherche pour lesquelles elles ont été produites ; ces fichiers constituent des données de la recherche. » ;
+
+2° Après le 4° de l’article L. 342‑3, il est inséré un 5° ainsi rédigé :
+
+« 5° Les copies ou reproductions numériques de la base réalisées par une personne qui y a licitement accès, en vue de fouilles de textes et de données dans un cadre de recherche, à l’exclusion de toute finalité commerciale. La conservation et la communication des copies techniques issues des traitements, au terme des activités de recherche pour lesquelles elles ont été produites, sont assurées par des organismes désignés par décret. Les autres copies ou reproductions sont détruites. »
+

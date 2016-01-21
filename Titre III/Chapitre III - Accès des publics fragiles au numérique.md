@@ -18,7 +18,7 @@ b) Les mots : « écrite simultanée » sont remplacés par les mots : «�
 
 2° Après le même alinéa, il est inséré un alinéa ainsi rédigé :
 
-« Les services d’accueil téléphonique fournis aux usagers par les services publics mentionnés au premier alinéa sont rendus accessibles aux personnes sourdes et malentendantes en mettant à leur disposition un service de traduction simultanée écrite et visuelle. À défaut, ces appels peuvent être recueillis à partir d’un service de communication au public en ligne qui offre les mêmes conditions de traduction. » ;
+« Les services d’accueil téléphonique destinés à recevoir les appels des usagers sont accessibles aux personnes sourdes et malentendantes par la mise à disposition d’un service de traduction écrite simultanée et visuelle. Les numéros de téléphones concernés sont accessibles directement ou, à défaut, par l’intermédiaire d’une plateforme en ligne dédiée délivrant le service de traduction écrite et visuelle. L’accessibilité est soit assurée directement par le service public, soit confiée par le service public, sous sa responsabilité, à un opérateur spécialisé qui en assure la mise en œuvre et l’exécution. » ;
 
 3° (nouveau) Après le deuxième alinéa, il est inséré un alinéa ainsi rédigé :
 

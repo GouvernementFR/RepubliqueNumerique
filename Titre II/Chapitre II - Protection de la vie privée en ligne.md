@@ -104,7 +104,7 @@ L’article 40 de la loi n° 78‑17 du 6 janvier 1978 précitée est ainsi 
 
 1° Au début du premier alinéa, est ajoutée la mention : « I. – » ;
 
-2° Après le cinquième alinéa, sont insérés neuf alinéas ainsi rédigés :
+2° Après le cinquième alinéa, il est inséré un II ainsi rédigé :
 
 « II. – Sur demande de la personne concernée, le responsable du traitement est tenu d’effacer dans les meilleurs délais les données à caractère personnel qui ont été collectées dans le cadre de l’offre de services de la société de l’information lorsque la personne concernée était mineure au moment de la collecte.
 
@@ -126,9 +126,9 @@ L’article 40 de la loi n° 78‑17 du 6 janvier 1978 précitée est ainsi 
 
 3° (Supprimé)
 
-4° Il est ajouté un III ainsi rédigé :
+4° Les deux derniers alinéas sont remplacés par un III ainsi rédigé :
 
-« III. – Toute personne peut définir des directives relatives à la conservation et à la communication de ses données à caractère personnel après son décès. Ces directives sont générales ou particulières.
+« III. – Toute personne peut définir des directives relatives à la conservation, à l’effacement et à la communication de ses données à caractère personnel après son décès. Ces directives sont générales ou particulières.
 
 « Les directives générales concernent l’ensemble des données à caractère personnel se rapportant à la personne concernée et peuvent être enregistrées auprès d’un tiers de confiance numérique certifié par la Commission nationale de l’informatique et des libertés.
 

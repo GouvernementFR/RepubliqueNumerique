@@ -174,7 +174,11 @@ II. – Le titre IV du livre III du code des relations entre le public et l’
 
 2° Au 3° du A de l’article L. 342‑2, après le mot : « articles », est insérée la référence : « L. 1112‑23, » ;
 
-3° La seconde phrase du dernier alinéa de l’article L. 341‑1 est complétée par les mots : « ou déléguer à son président l’exercice de certaines de ses attributions ».
+3° La seconde phrase du dernier alinéa de l’article L. 341‑1 est complétée par les mots : « ou déléguer à son président l’exercice de certaines de ses attributions » ;
+
+4° (nouveau) L’article L. 342‑3 du même code est complété par un alinéa ainsi rédigé :
+
+« Lorsqu’une administration confirme une décision de refus de communication ou de publication malgré un avis favorable de la commission, le président de la commission inscrit sur une liste qu’il met en ligne le nom de l’administration, la référence du document administratif non communiqué ou non publié et, le cas échéant, le motif du refus. L’inscription sur la liste cesse dès que l’administration a communiqué ou publié le document ou dès qu’une décision juridictionnelle a rejeté le recours dirigé contre le refus de communication ou de publication. » ;
 
 Article 9
 

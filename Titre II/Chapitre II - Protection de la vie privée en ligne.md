@@ -232,6 +232,12 @@ Le chapitre VII de la loi n° 78‑17 du 6 janvier 1978 précitée est compl�
 
 « La commission, pour la mise en œuvre du présent article, conclut préalablement une convention organisant ses relations avec l’autorité exerçant des compétences analogues aux siennes. Cette convention est publiée au Journal officiel. »
 
+Article 33 ter A (nouveau)
+
+La section 1 du chapitre IV du titre I<sup>er</sup> du livre II du code des postes et des communications électroniques est complétée par un article L. 36‑14 ainsi rédigé :
+
+« Art. L. 36‑14. – Dans l’exercice de leurs missions, les fonctionnaires et agents de l’Autorité de régulation des communications électroniques et des postes sont habilités à constater les infractions et manquements à la loi n° 78‑17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés et peuvent communiquer ces constatations à la Commission nationale de l’informatique et des libertés. »
+
 Article 33 ter (nouveau)
 
 Après l’article 2‑23 du code de procédure pénale, il est inséré un article 2‑24 ainsi rédigé :

@@ -329,11 +329,11 @@ Article 24
 
 Le chapitre I<sup>er</sup> du titre I<sup>er</sup> du livre I<sup>er</sup> du code de la consommation est ainsi modifié :
 
-1° Après l’article L. 111‑5‑1, il est inséré un article L. 111‑5‑2 ainsi rédigé :
+1° Après l’article L. 111‑5‑1, il est inséré un article L. 111‑5‑3 ainsi rédigé :
 
-« Art. L. 111‑5‑2. – Sans préjudice des obligations d’information prévues à l’article 19 de la loi n° 2004‑575 du 21 juin 2004 pour la confiance dans l’économie numérique et aux articles L. 111‑5 et L. 111‑5‑1 du présent code, toute personne physique ou morale dont l’activité consiste, à titre principal ou accessoire, à collecter, à modérer ou à diffuser des avis en ligne provenant de consommateurs est tenue de délivrer à ces consommateurs une information loyale, claire et transparente sur les modalités de contrôle des avis mis en ligne.
+« Art. L. 111‑5‑3. – Sans préjudice des obligations d’information prévues à l’article 19 de la loi n° 2004‑575 du 21 juin 2004 pour la confiance dans l’économie numérique et aux articles L. 111‑5‑1 et L. 111‑5‑2 du présent code, toute personne physique ou morale dont l’activité consiste, à titre principal ou accessoire, à collecter, à modérer ou à diffuser des avis en ligne provenant de consommateurs est tenue de délivrer à ces consommateurs une information loyale, claire et transparente sur les modalités de contrôle des avis mis en ligne.
 
-« Elle précise si ces avis font l’objet ou non d’un contrôle et, si tel est le cas, elle indique les caractéristiques principales du contrôle mis en œuvre.
+« Elle précise si ces avis font ou non l’objet d’un contrôle et, si tel est le cas, elle indique les caractéristiques principales du contrôle mis en œuvre.
 
 « Elle indique aux consommateurs dont l’avis en ligne a été rejeté les raisons qui justifient ce rejet.
 
@@ -341,7 +341,7 @@ Le chapitre I<sup>er</sup> du titre I<sup>er</sup> du livre I<sup>er</sup> du
 
 « Un décret, pris après avis de la Commission nationale de l’informatique et des libertés, fixe les modalités et le contenu de ces informations. » ;
 
-2° À l’article L. 111‑6‑1, la référence : « et L. 111‑5‑1 » est remplacée par les références : « à L. 111‑5‑2 ».
+2° À l’article L. 111‑6‑1, la référence : « et L. 111‑5‑1 » est remplacée par la référence : « à L. 111‑5‑3 ».
 
 Article 25
 

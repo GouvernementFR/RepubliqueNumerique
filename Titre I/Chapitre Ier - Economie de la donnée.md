@@ -146,7 +146,7 @@ La loi n° 78‑753 du 17 juillet 1978 précitée est ainsi modifiée :
 
 2° L’article 16 est complété par un alinéa ainsi rédigé :
 
-« Lorsque la réutilisation à titre gratuit donne lieu à l’établissement d’une licence, cette licence est choisie parmi celles figurant sur une liste fixée par décret. Lorsqu’une administration souhaite recourir à une licence ne figurant pas sur cette liste, cette licence doit être préalablement homologuée par l’État, dans des conditions fixées par décret. »
+« Lorsque la réutilisation à titre gratuit donne lieu à l’établissement d’une licence, cette licence est choisie parmi celles figurant sur une liste fixée par décret, qui est révisée tous les cinq ans, après concertation avec les collectivités territoriales et leurs groupements. Lorsqu’une administration souhaite recourir à une licence ne figurant pas sur cette liste, cette licence doit être préalablement homologuée par l’État, dans des conditions fixées par décret. »
 
 Article 7 bis (nouveau)
 

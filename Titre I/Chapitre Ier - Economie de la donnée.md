@@ -118,6 +118,8 @@ I. – L’article 10 de la loi n° 78‑753 du 17 juillet 1978 portant di
 
 « Les informations publiques figurant dans des documents administratifs communiqués ou publiés peuvent être utilisées par toute personne qui le souhaite à d’autres fins que celles de la mission de service public pour les besoins de laquelle ces documents ont été produits ou reçus. Les limites et conditions de cette réutilisation sont régies par le présent chapitre. Lorsqu’elles sont mises à disposition sous forme électronique, ces informations le sont dans un standard ouvert et aisément réutilisable, c’est‑à‑dire lisible par une machine. » ;
 
+1° bis (nouveau) Au a, après la référence : « chapitre I<sup>er</sup> », sont insérés les mots : « du titre I<sup>er</sup> du livre III du code des relations entre le public et l’administration » ;
+
 2° Le b est abrogé ;
 
 3° Au dernier alinéa du c, qui devient le b, la référence : « à l’article 1<sup>er</sup> » est remplacée par la référence : « au premier alinéa de l’article L. 300‑2 du code des relations entre le public et l’administration ».

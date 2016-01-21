@@ -68,7 +68,7 @@ L’article 24‑2 de la loi n° 65‑557 du 10 juillet 1965 fixant le statu
 
 « Lorsqu’une demande de raccordement à un réseau de communications électroniques à très haut débit en fibre optique est effectuée par l’occupant d’un logement d’un immeuble comportant plusieurs logements ou d’un immeuble à usage mixte dans les conditions prévues à l’article 1<sup>er</sup> de la loi n° 66‑457 du 2 juillet 1966 relative à l’installation d’antennes réceptrices de radiodiffusion, le syndicat des copropriétaires ne peut s’opposer, nonobstant toute convention contraire, sans motif sérieux et légitime conformément au II du même article 1<sup>er</sup>, à l’installation de telles lignes dans les parties communes de l’immeuble de manière à permettre la desserte de chacun des logements, sous réserve que l’immeuble dispose des infrastructures d’accueil adaptées.
 
-« Cette installation, réalisée aux frais de l’opérateur dans le respect de l’article L. 34‑8‑3 du code des postes et des communications électroniques, fait l’objet d’une convention conclue dans les conditions prévues à l’article L. 33‑6 du même code avec le syndicat des copropriétaires, après avis du conseil syndical lorsque celui-ci a été institué. »
+« Cette installation, réalisée aux frais de l’opérateur conformément à l’article L. 34‑8‑3 du code des postes et des communications électroniques, fait l’objet d’une convention conclue dans les conditions prévues à l’article L. 33‑6 du même code avec le syndicat des copropriétaires, après avis du conseil syndical lorsque celui-ci a été institué. »
 
 Article 37
 

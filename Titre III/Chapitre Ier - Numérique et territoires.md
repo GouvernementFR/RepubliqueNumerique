@@ -16,6 +16,7 @@ Le chapitre V du titre II du livre IV de la première partie du code généra
 
 « Art. L. 1425‑3. – Dans les domaines de compétence que la loi leur attribue, les conseils départementaux ou régionaux ou les syndicats mixtes mentionnés à l’article L. 5721‑9 dont le périmètre recouvre l’intégralité du territoire couvert par le schéma peuvent établir une stratégie de développement des usages et services numériques sur leur territoire. Cette stratégie constitue un volet du schéma directeur territorial d’aménagement numérique. Elle vise à favoriser l’équilibre de l’offre de services numériques sur le territoire ainsi que la mise en place de ressources mutualisées, publiques et privées, notamment en matière de médiation numérique. Le projet de stratégie fait l’objet d’une concertation pour recueillir les observations du conseil économique, social et environnemental régional, des conseils de développement concernés et du public.
 
+« Les conseils départementaux ou les conseils régionaux peuvent déléguer la mise en œuvre du schéma directeur territorial d’aménagement numérique à un pôle métropolitain. Dans ce cas, les opérateurs ont l’obligation d’une couverture équilibrée entre les territoires urbains, périurbains et ruraux. »
 
 Article 36
 

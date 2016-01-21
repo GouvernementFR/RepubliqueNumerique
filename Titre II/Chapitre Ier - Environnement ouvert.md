@@ -263,7 +263,15 @@ a) Le premier alinéa est remplacé par huit alinéas ainsi rédigés :
 
 « 2° Ou la mise en relation de plusieurs parties en vue de la vente d’un bien, de la fourniture d’un service ou de l’échange ou du partage d’un contenu, d’un bien ou d’un service.
 
-« Tout opérateur de plateforme en ligne est tenu de délivrer au consommateur une information loyale, claire et transparente sur les conditions générales d’utilisation du service d’intermédiation qu’il propose et sur les modalités de référencement, de classement et de déréférencement des contenus, des biens ou des services auxquels ce service permet d’accéder. Lorsqu’elles sont de nature à influencer le classement des contenus, des biens ou des services proposés, l’opérateur de plateforme en ligne est tenu de faire apparaître clairement l’existence d’une relation contractuelle ou de liens capitalistiques avec les personnes morales référencées ainsi que l’existence d’une rémunération directe par les lesdites personnes. Les informations à délivrer au consommateur à ce titre prennent la forme d’une description générique et intelligible à inclure dans les conditions générales d’utilisation de la plateforme en ligne. » ;
+« Tout opérateur de plateforme en ligne est tenu de délivrer au consommateur une information loyale, claire et transparente sur les conditions générales d’utilisation du service d’intermédiation qu’il propose et sur les modalités de référencement, de classement et de déréférencement des contenus, des biens ou des services auxquels ce service permet d’accéder. L’opérateur fait apparaître clairement, grâce à une signalisation explicite, l’existence :
+
+« a) D’une relation contractuelle, dès lors que le contrat sous-jacent contient des stipulations relatives au classement des contenus, des biens ou des services proposés par la personne morale référencée ;
+
+« b) D’un lien capitalistique, dès lors qu’il influence le classement des contenus, des biens ou des services proposés par la personne morale référencée ;
+
+« c) D’une rémunération directe par les personnes morales référencées et, le cas échéant, l’impact de celle-ci sur le classement des contenus, biens ou services proposés. 
+
+« Le détail des informations à délivrer au consommateur à ce titre prend la forme d’une description générique et intelligible dans les conditions générales d’utilisation de la plateforme en ligne. » ;
 
 b) Aux deuxième et troisième alinéas, les mots : « la personne mentionnée au premier alinéa du présent article est également tenue » sont remplacés par les mots : « l’opérateur de plateforme en ligne est également tenu ».
 

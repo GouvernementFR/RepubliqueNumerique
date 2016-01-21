@@ -78,7 +78,7 @@ I. – La section 1 du chapitre II du titre I<sup>er</sup> du livre III du
 
 « 4° Les données, mises à jour de façon régulière, dont la publication présente un intérêt économique, social, sanitaire ou environnemental.
 
-« Sans préjudice de l’article L. 1112‑23 du code général des collectivités territoriales et de l’article L. 125‑12 du code des communes de Nouvelle‑Calédonie, le présent article ne s’applique ni aux collectivités territoriales ni aux établissements publics de coopération intercommunale à fiscalité propre auxquels elles appartiennent.
+« Le présent article ne s’applique pas aux collectivités territoriales de moins de 3 500 habitants.
 
 « Art. L. 312‑1‑2. – Sauf dispositions législatives ou réglementaires contraires, lorsque les documents mentionnés aux articles L. 312‑1 ou L. 312‑1‑1 comportent des mentions entrant dans le champ d’application des articles L. 311‑5 ou L. 311‑6, ils ne peuvent être rendus publics qu’après avoir fait l’objet d’un traitement permettant d’occulter ces mentions.
 
@@ -87,6 +87,7 @@ I. – La section 1 du chapitre II du titre I<sup>er</sup> du livre III du
 « Les administrations mentionnées au premier alinéa de l’article L. 300‑2 ne sont pas tenues de publier les archives publiques issues des opérations de sélection prévues aux articles L. 212‑2 et L. 212‑3 du code du patrimoine. »
 
 II. – Un décret en Conseil d’État, pris après avis de la commission mentionnée à l’article L. 340‑1 du code des relations entre le public et l’administration, définit les modalités d’application des articles L. 312‑1 à L. 312‑1‑2 du même code.
+III (nouveau). – L’article L. 1112‑23 du code général des collectivités territoriales et l’article L. 125‑12 du code des communes de la Nouvelle‑Calédonie sont abrogés.
 
 Article 4 bis (nouveau)
 

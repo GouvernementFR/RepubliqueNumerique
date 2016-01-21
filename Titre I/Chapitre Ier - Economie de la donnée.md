@@ -12,15 +12,14 @@ Ouverture de l’accès aux données publiques
 
 Article 1<sup>er</sup>
 
-I. – Sous réserve des articles L. 311‑5 et L. 311‑6 du code des relations entre le public et l’administration et sans préjudice de l’article L. 114‑8 du même code, les administrations mentionnées au premier alinéa de l’article L. 300‑2 dudit code sont tenues de communiquer gratuitement, dans le respect de la loi n° 78‑17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, les documents administratifs qu’elles détiennent aux autres administrations mentionnées au même premier alinéa de l’article L. 300‑2 qui en font la demande pour l’accomplissement de leurs missions de service public.
+I. – Sous réserve des articles L. 311‑5 et L. 311‑6 du code des relations entre le public et l’administration et sans préjudice de l’article L. 114‑8 du même code, les administrations mentionnées au premier alinéa de l’article L. 300‑2 dudit code sont tenues de communiquer, dans le respect de la loi n° 78‑17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, les documents administratifs qu’elles détiennent aux autres administrations mentionnées au même premier alinéa de l’article L. 300‑2 qui en font la demande pour l’accomplissement de leurs missions de service public.
 
-Les informations figurant dans des documents administratifs communiqués ou publiés peuvent être utilisées gratuitement par toute administration mentionnée au premier alinéa de l’article L. 300‑2 qui le souhaite à des fins d’accomplissement de missions de service public autres que celle pour les besoins de laquelle les documents ont été produits ou reçus.
+Les informations figurant dans des documents administratifs communiqués ou publiés peuvent être utilisées par toute administration mentionnée au premier alinéa de l’article L. 300‑2 qui le souhaite à des fins d’accomplissement de missions de service public autres que celle pour les besoins de laquelle les documents ont été produits ou reçus.
 
-II (nouveau). – La perte de recettes pour l’État est compensée à due concurrence par la création d’une taxe additionnelle aux droits mentionnés aux articles 575 et 575 A du code général des impôts.
+À compter du 1<sup>er</sup> janvier 2017, l’échange d’informations publiques entre les administrations de l’État et entre l’État et ses établissements publics administratifs, aux fins de l’exercice de leur mission de service public, ne peut donner lieu au versement d’une redevance.
 
-III (nouveau). – La perte de recettes pour les collectivités territoriales est compensée à due concurrence par la majoration de la dotation globale de fonctionnement et, corrélativement pour l’État, par la création d’une taxe additionnelle aux droits mentionnés aux mêmes articles 575 et 575 A.
+II à IV (nouveaux). – (Supprimés)
 
-IV (nouveau). – La perte de recettes pour les organismes de sécurité sociale est compensée à due concurrence par la majoration des droits mentionnés auxdits articles 575 et 575 A.
 V (nouveau). – Le A de l’article L. 342‑2 du code des relations entre le public et l’administration est complété par un 22° ainsi rédigé :
 
 « 22° L’article 1<sup>er</sup> de la loi n°     du      pour une République numérique. »

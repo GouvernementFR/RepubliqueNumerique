@@ -126,7 +126,7 @@ B. – Le chapitre III du titre I<sup>er</sup> est complété par un article
 
 « Art. L. 35‑7. – Au plus tard trois mois avant l’expiration de la période pour laquelle elle a été chargée, en application de l’article L. 35‑2, de fournir la composante du service universel prévue au 1° de l’article L. 35‑1, toute personne désignée dans le cadre de la procédure prévue aux deuxième ou troisième alinéas de l’article L. 35‑2 remet au ministre chargé des communications électroniques ainsi qu’à l’Autorité de régulation des communications électroniques et des postes un rapport présentant un état des lieux détaillé de son réseau fixe. Ce rapport comporte une analyse, à l’échelle du département, de l’état du réseau lorsque ne sont pas remplies les obligations, notamment de qualité, prévues par le cahier des charges mentionné à l’avant‑dernier alinéa du même article L. 35‑2.
 
-« Sauf si leur divulgation est susceptible de porter atteinte au secret des affaires, au secret commercial ou statistique, l’Autorité de régulation des communications électroniques et des postes communique aux collectivités territoriales et à leurs groupements concernés, à leur demande, tout ou partie de ce rapport. » ;
+« Sauf si leur divulgation est susceptible de porter atteinte au secret des affaires, au secret commercial ou au secret statistique, l’Autorité de régulation des communications électroniques et des postes communique aux collectivités territoriales et à leurs groupements concernés, à leur demande, tout ou partie de ce rapport. » ;
 
 C. – L’article L. 36‑11 est ainsi modifié :
 

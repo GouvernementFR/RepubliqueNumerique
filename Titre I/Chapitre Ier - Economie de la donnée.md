@@ -76,7 +76,7 @@ I. – La section 1 du chapitre II du titre I<sup>er</sup> du livre III du
 
 « 3° Les bases de données, mises à jour de façon régulière, qu’elles produisent ou qu’elles reçoivent et qui ne font pas l’objet par ailleurs d’une diffusion publique dans un standard ouvert aisément réutilisable, c’est-à-dire lisible par une machine ;
 
-« 4° Les données dont l’administration qui les détient estime que la publication présente un intérêt économique, social, sanitaire ou environnemental.
+« 4° Les données, mises à jour de façon régulière, dont la publication présente un intérêt économique, social, sanitaire ou environnemental.
 
 « Sans préjudice de l’article L. 1112‑23 du code général des collectivités territoriales et de l’article L. 125‑12 du code des communes de Nouvelle‑Calédonie, le présent article ne s’applique ni aux collectivités territoriales ni aux établissements publics de coopération intercommunale à fiscalité propre auxquels elles appartiennent.
 

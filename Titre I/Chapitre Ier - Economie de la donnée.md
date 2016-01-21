@@ -231,6 +231,8 @@ II. – Après l’article L. 1411‑3‑1 du code général des collectivit�
 « Art. L. 1411‑3‑1. – Le délégataire fournit à la personne publique délégante, dans un standard ouvert aisément réutilisable, c’est-à-dire lisible par une machine, les données et bases de données collectées ou produites à l’occasion de l’exploitation du service public dont il assure la gestion et qui sont indispensables à son exécution. Il autorise par ailleurs la personne publique délégante, ou un tiers désigné par celle‑ci, à extraire et exploiter librement tout ou partie de ces données et bases de données, notamment en vue de leur mise à disposition à titre gratuit à des fins de réutilisation à titre gratuit ou onéreux.
 
 « La personne publique délégante peut, dès la passation ou au cours de l’exécution du contrat, exempter le délégataire de tout ou partie des obligations prévues au premier alinéa par une décision fondée sur des motifs d’intérêt général qu’elle explicite et qui est rendue publique. »
+« Les données fournies par le délégataire peuvent être publiées, sous réserve des articles L. 311‑5 à L. 311‑7 du code des relations entre le public et l’administration.
+
 
 III. – Les I et II du présent article sont applicables aux contrats de délégation de service public conclus ou reconduits postérieurement à la promulgation de la présente loi.
 

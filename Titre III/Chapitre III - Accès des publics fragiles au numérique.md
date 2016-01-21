@@ -32,6 +32,8 @@ III. – Après le o du I de l’article L. 33‑1 du code des postes et de
 
 « p) Un accès des utilisateurs finals sourds et malentendants à une offre de services de communications électroniques, incluant la fourniture, à un prix abordable au sens de l’article L. 35‑1 et dans le respect de conditions de qualité définies par l’Autorité de régulation des communications électroniques et des postes, d’un service de traduction simultanée écrite et visuelle. Ce service garantit les conditions de neutralité et de confidentialité mentionnées au b du présent I ainsi que la prévention de la violation des données à caractère personnel mentionnée à l’article 34 bis de la loi n° 78‑17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ; ».
 
+III bis (nouveau). – La mise en œuvre des I à III peut s’appuyer sur des applications de communications électroniques permettant la vocalisation du texte, la transcription de la voix en texte, la traduction en et depuis la langue française de signes ou la transcription en et depuis le langage parlé complété. Cette mise en œuvre ne peut se substituer au service de traduction simultanée écrite et visuelle mentionné aux mêmes I à III qu’à la condition de garantir une accessibilité de qualité équivalente et d’offrir les mêmes conditions de traduction à toutes les personnes sourdes et malentendantes.
+
 IV. – Le 2° du I et le III entrent en vigueur selon des modalités et à une date prévues par décret, et au plus tard cinq ans après la promulgation de la présente loi. Le II entre en vigueur à une date fixée par décret, et au plus tard deux ans après la promulgation de la présente loi. Le décret précise également les modalités de suivi de l’application du présent article.
 
 Section 2

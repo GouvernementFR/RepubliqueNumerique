@@ -171,7 +171,11 @@ IV. – L’article L. 32‑3 du code des postes et communications électroni
 
 Article 48
 
-I. – Le III de l’article 59 de la loi n° 78‑753 du 17 juillet 1978 portant diverses mesures d’amélioration des relations entre l’administration et le public et diverses dispositions d’ordre administratif, social et fiscal est complété par un 3° ainsi rédigé :
+I. – L’article 59 de la loi n° 78‑753 du 17 juillet 1978 portant diverses mesures d’amélioration des relations entre l’administration et le public et diverses dispositions d’ordre administratif, social et fiscal est ainsi modifié :
+
+1° (nouveau) Au I, après le mot : « française », sont insérés les mots : « , à l’exception des articles 10 à 12, du premier alinéa de l’article 13 et des articles 14 à 19 et 25, » ;
+
+2° Le III est complété par un 3° ainsi rédigé :
 
 « 3° En Nouvelle‑Calédonie et en Polynésie française, les références au code de la propriété intellectuelle sont remplacées, le cas échéant, par les références aux dispositions applicables localement. »
 

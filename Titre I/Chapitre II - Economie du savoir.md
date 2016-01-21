@@ -56,3 +56,7 @@ Après le second alinéa du 9° de l’article L. 122‑5 du code de la propri
 
 « 11° Les reproductions et représentations d’œuvres architecturales et de sculptures, placées en permanence sur la voie publique, réalisées par des particuliers à des fins non lucratives. »
 
+Article 18 quater (nouveau)
+
+Les outils numériques et de l’internet étant d’usage banalisé, les langages et logiciels facilement accessibles et leurs utilisations en ligne valorisées par les administrations et les pouvoirs publics, leur bon usage est promu, notamment auprès des mineurs et jeunes majeurs en formation, en fonction de leur âge et de leur maturité et tout au long de la vie afin que les opportunités comme les risques inhérents à l’usage de ces technologies puissantes soient connus de tous.
+

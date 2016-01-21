@@ -98,7 +98,7 @@ Article 37 bis (nouveau)
 
 Le II de l’article 52‑1 de la loi n° 2004‑575 du 21 juin 2004 pour la confiance dans l’économie numérique est complété par une phrase ainsi rédigée :
 
-« Toute commune ne figurant pas sur la liste arrêtée et répondant aux critères fixés au premier alinéa du III de l’article 52 peut demander à figurer sur une liste complémentaire, arrêtée de la même manière dans un délai de six mois à compter de la promulgation de la loi n°   du     pour une République numérique. »
+« Toute commune ne figurant pas sur la liste précitée et répondant aux critères fixés au premier alinéa du III de l’article 52 peut demander à figurer sur une liste complémentaire, établie dans les mêmes conditions dans un délai de six mois à compter de la promulgation de la loi n°     du       pour une République numérique. »
 
 Article 38
 

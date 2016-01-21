@@ -251,11 +251,11 @@ Article 22
 
 Le chapitre I<sup>er</sup> du livre I<sup>er</sup> du code de la consommation est ainsi modifié :
 
-1° L’article L. 111‑5 est abrogé ;
+1° (Supprimé)
 
-2° L’article L. 111‑5‑1 devient l’article L. 111‑5 et est ainsi modifié :
+2° L’article L. 111‑5‑1 du code de la consommation est ainsi modifié :
 
-a) Le premier alinéa est remplacé par quatre alinéas ainsi rédigés :
+a) Le premier alinéa est remplacé par huit alinéas ainsi rédigés :
 
 « Sans préjudice de la loi n° 2004‑575 du 21 juin 2004 pour la confiance dans l’économie numérique, est qualifiée d’opérateur de plateforme en ligne toute personne physique ou morale proposant, à titre professionnel, de manière rémunérée ou non, un service de communication en ligne reposant sur :
 

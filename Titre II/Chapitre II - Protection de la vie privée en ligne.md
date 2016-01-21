@@ -62,7 +62,7 @@ c) (nouveau) Est ajoutée une phrase ainsi rédigée :
 
 « À défaut de délibération dans les délais, l’avis de la commission est réputé avoir été rendu.
 
-« L’avis de la commission est adressé au président de l’assemblée qui l’a saisie, qui le communique à l’auteur de la proposition. » ;
+« L’avis de la commission est adressé au président de l’assemblée qui l’a saisie, qui le communique à l’auteur de la proposition et le rend public ; »
 
 2° Après le d, sont insérés des e et f ainsi rédigés :
 
@@ -72,9 +72,7 @@ c) (nouveau) Est ajoutée une phrase ainsi rédigée :
 
 Article 29 bis (nouveau)
 
-Le a du 4° de l’article 11 de la loi n° 78‑17 du 6 janvier 1978 précitée est complété par une phrase ainsi rédigée :
-
-« Outre les cas prévus aux articles 26 et 27, lorsqu’une loi prévoit qu’un décret ou un arrêté est pris après avis de la commission, cet avis est publié avec le décret ou l’arrêté correspondant ; ».
+(Supprimé)
 
 Article 30
 

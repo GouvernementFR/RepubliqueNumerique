@@ -293,7 +293,20 @@ I. – Après l’article L. 111‑5‑1 du code de la consommation, sont ins
 
 « L’autorité administrative compétente peut procéder à des enquêtes dans les conditions prévues au premier alinéa du II de l’article L. 141‑1 afin d’évaluer et de comparer les pratiques des opérateurs de plateformes en ligne mentionnées au premier alinéa du présent article. Elle peut, à cette fin, recueillir auprès de ces opérateurs les informations utiles à l’exercice de cette mission. Elle diffuse périodiquement les résultats de ces évaluations et de ces comparaisons et rend publique la liste des plateformes en ligne qui ne respectent pas leurs obligations au titre de l’article L. 111‑5‑1.
 
-« Un décret précise les modalités d’application du présent article. »
+« Un décret précise les modalités d’application du présent article.
+
+« Art. L. 111‑5‑2‑1 (nouveau). – Les opérateurs de plateformes en ligne mentionnés à l’article L. 111‑5‑2 par l’intermédiaire desquels des contenus illicites sont susceptibles d’être diffusés à grande échelle à destination des consommateurs résidant en France :
+
+« 1° Désignent une personne physique comme leur représentant légal en France ;
+
+« 2° Élaborent des bonnes pratiques visant à lutter contre la mise à la disposition du public, par leur entremise, de contenus illicites, notamment par la mise en œuvre de dispositifs techniques de reconnaissance automatisée de tels contenus ;
+
+« 3° Définissent des indicateurs permettant d’apprécier le respect des lois et règlements relatifs aux contenus qu’ils mettent à la disposition du public ;
+
+« 4° Rendent périodiquement publics les résultats de l’évaluation des indicateurs mentionnés au 3°.
+
+« Les informations mentionnées aux 1° à 4° sont communiquées à l’autorité administrative compétente. »
+
 
 II (nouveau). – À titre expérimental et pour une durée de trois ans à compter de la promulgation de la présente loi, le Conseil national du numérique peut mettre en place et gérer une plateforme d’échange citoyen qui permet, dans une logique participative, de recueillir et de comparer des avis d’utilisateurs sur le respect des obligations des opérateurs de plateforme en ligne mentionnées à l’article L. 111‑5 du code de la consommation, de mettre en place des outils d’évaluation de leurs pratiques et de publier des avis à destination du public.
 

@@ -194,7 +194,7 @@ Au titre II du livre III du code des relations entre le public et l’administra
 
 « 1° Elles constituent une référence commune pour nommer ou identifier des produits, des services, des territoires ou des personnes ;
 
-« 2° Elles sont réutilisées fréquemment par des personnes publiques et privées autres que l’administration qui les détient ;
+« 2° Elles sont réutilisées fréquemment par des personnes publiques ou privées autres que l’administration qui les détient ;
 
 « 3° Leurs réutilisations nécessitent qu’elles soient mises à disposition avec un niveau élevé de qualité, notamment en termes de précision, de disponibilité ou de fréquence de mise à jour.
 

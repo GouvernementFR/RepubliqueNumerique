@@ -6,7 +6,7 @@ Article 46
 
 I. – Les articles 1<sup>er</sup> à 9, les I et III de l’article 10, les articles 11, 13 à 16, 18, 26 à 33, 41 et les I et IV de l’article 43 de la présente loi sont applicables en Nouvelle‑Calédonie.
 
-II. – Les articles 1<sup>er</sup> à 9, les I et III de l’article 10, les articles 11, 13 à 16, 18, 26 à 33, 41 et les I et IV de l’article 43 de la présente loi sont applicables en Polynésie française.
+II. – Les articles 1<sup>er</sup> à 5, le II de l’article 8, les articles 9 à 9 ter, les I et III de l’article 10, les articles 11, 13 à 16, 16 ter, 18, 26 à 33 quater et 41 et les I et IV de l’article 43 de la présente loi sont applicables en Polynésie française.
 
 III. – Les articles 1<sup>er</sup> à 9, les I et III de l’article 10, les articles 11 à 16 et 18, le 1° du I et le II de l’article 21, les articles 26 à 34, 41 et les I et IV de l’article 43 de la présente loi sont applicables dans les îles Wallis et Futuna.
 

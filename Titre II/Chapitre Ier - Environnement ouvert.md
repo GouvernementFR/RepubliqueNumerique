@@ -309,6 +309,16 @@ I. – Après l’article L. 111‑5‑1 du code de la consommation, sont ins
 
 II (nouveau). – À titre expérimental et pour une durée de trois ans à compter de la promulgation de la présente loi, le Gouvernement définit, par voie réglementaire, les conditions de mise en place et de gestion d’une plateforme d’échange citoyen qui permet, dans une logique participative, de recueillir et de comparer des avis d’utilisateurs sur le respect des obligations des opérateurs de plateforme en ligne mentionnées à l’article L. 111‑5‑1 du code de la consommation, de mettre en place des outils d’évaluation de leurs pratiques, d’élaborer des bonnes pratiques visant à renforcer leurs obligations de clarté, de transparence et de loyauté, de définir des indicateurs permettant d’apprécier le respect de ces obligations et de rendre périodiquement publics les résultats de l’évaluation des indicateurs mentionnés.
 
+Article 23 bis (nouveau)
+
+I. – Les plateformes ayant pour objet des prestations de services proposées par des professions réglementées doivent recevoir un avis conforme de l’institution chargée de l’application des règles déontologiques de ladite profession.
+
+À défaut, la plateforme ne peut pas faire référence au titre de la profession réglementée dans sa communication auprès des consommateurs.
+
+II. – Au titre de l’article L. 115‑27 du code de la consommation, un label « qualité » attestant du respect des règles déontologiques est délivré par l’institution régissant la profession réglementée concernée.
+
+III. – Les modalités d’application du référentiel, de la procédure de labellisation et de l’accréditation sont fixées par décret en Conseil d’État.
+
 
 Article 24
 

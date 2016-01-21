@@ -60,7 +60,8 @@ II. – L’article L. 36‑11 du même code est ainsi modifié :
 
 Section 2
 
-Paiement par SMS
+Paiement par facturation
+de l’opérateur de communications électroniques
 
 Article 41
 

@@ -319,6 +319,11 @@ II. – Au titre de l’article L. 115‑27 du code de la consommation, un la
 
 III. – Les modalités d’application du référentiel, de la procédure de labellisation et de l’accréditation sont fixées par décret en Conseil d’État.
 
+Article 23 ter (nouveau)
+
+L’article L. 631‑7‑1 A du code de la construction et de l’habitation est complété par un alinéa ainsi rédigé :
+
+« Le loueur du local à usage d’habitation qui le loue pour de courtes durées à une clientèle de passage qui n’y élit pas domicile doit justifier de sa qualité de propriétaire dudit local ou, s’il en est locataire, de l’autorisation du bailleur auprès des professionnels qui, opérant en ligne, assurent un service de mise en relation en vue de la location d’hébergements. Le défaut de justification de la qualité de propriétaire ou de l’autorisation du bailleur est puni, pour le loueur et les professionnels précités, conformément aux articles L. 651‑2 et L. 651‑3. »
 
 Article 24
 

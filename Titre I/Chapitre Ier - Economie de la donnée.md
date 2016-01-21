@@ -206,7 +206,7 @@ Article 9 bis (nouveau)
 
 Le second alinéa de l’article 13 de la loi n° 86‑1067 du 30 septembre 1986 relative à la liberté de communication est ainsi rédigé :
 
-« Le Conseil supérieur de l’audiovisuel communique chaque mois aux présidents de l’Assemblée nationale et du Sénat et aux responsables des différents partis politiques représentés au Parlement le relevé des temps d’intervention des personnalités politiques dans les journaux et les bulletins d’information, les magazines et les autres émissions des programmes. Ce relevé est également publié dans un format ouvert et aisément réutilisable, c’est-à-dire lisible par une machine. »
+« Les services de radio et de télévision transmettent les données relatives aux temps d’intervention des personnalités politiques dans les journaux et les bulletins d’information, les magazines et les autres émissions des programmes au Conseil supérieur de l’audiovisuel selon les conditions, notamment de périodicité et de format, que le conseil détermine. Le Conseil supérieur de l’audiovisuel communique chaque mois aux présidents de l’Assemblée nationale et du Sénat et aux responsables des différents partis politiques représentés au Parlement le relevé des temps d’intervention des personnalités politiques dans les journaux et les bulletins d’information, les magazines et les autres émissions des programmes. Ce relevé est également publié dans un format ouvert et aisément réutilisable, c’est-à-dire lisible par une machine. »
 
 Article 9 ter (nouveau)
 

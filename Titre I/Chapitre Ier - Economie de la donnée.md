@@ -128,6 +128,12 @@ I bis (nouveau). – À l’avant-dernier alinéa de l’article 14 de la m
 
 II (nouveau). – À la seconde phrase du premier alinéa du I de l’article 15 de la même loi, la référence : « à l’article 1<sup>er</sup> » est remplacée par la référence : « au premier alinéa de l’article L. 300‑2 du code des relations entre le public et l’administration ».
 
+Article 6 bis (nouveau)
+
+Le premier alinéa de l’article L. 300‑2 du code des relations entre le public et l’administration est complété par une phrase ainsi rédigée :
+
+« Constituent également de tels documents les documents relatifs à la gestion du domaine privé de l’État et des collectivités territoriales. »
+
 Article 7
 
 La loi n° 78‑753 du 17 juillet 1978 précitée est ainsi modifiée :

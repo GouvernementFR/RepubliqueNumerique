@@ -180,6 +180,10 @@ II. – Le titre IV du livre III du code des relations entre le public et l’
 
 « Lorsqu’une administration confirme une décision de refus de communication ou de publication malgré un avis favorable de la commission, le président de la commission inscrit sur une liste qu’il met en ligne le nom de l’administration, la référence du document administratif non communiqué ou non publié et, le cas échéant, le motif du refus. L’inscription sur la liste cesse dès que l’administration a communiqué ou publié le document ou dès qu’une décision juridictionnelle a rejeté le recours dirigé contre le refus de communication ou de publication. » ;
 
+5° (nouveau) Le chapitre II est complété par un article L. 342‑6 ainsi rédigé :
+
+« Art. L. 342‑6. – Lorsque la commission est consultée sur un projet de loi ou de décret, son avis est rendu public. »
+
 Article 9
 
 Au titre II du livre III du code des relations entre le public et l’administration, il est inséré un article L. 321‑1 ainsi rédigé :

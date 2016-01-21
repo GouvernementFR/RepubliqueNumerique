@@ -22,7 +22,7 @@ I. – Le livre I<sup>er</sup> du code de la consommation est ainsi modifié 
 
 2° Le chapitre IV du titre I<sup>er</sup> est complété par un article L. 116‑2 ainsi rédigé :
 
-« Art. L. 116‑2. – Les articles L. 111‑5, L. 111‑5‑1 à L. 111‑5‑2 et L. 111‑6‑1, dans leur rédaction résultant de la loi n°        du         pour une République numérique, sont applicables dans les îles Wallis et Futuna. »
+« Art. L. 116‑2. – Les articles L. 111‑5, L. 111‑5‑1 à L. 111‑5‑3 et L. 111‑6‑1, dans leur rédaction résultant de la loi n°     du      pour une République numérique, sont applicables dans les îles Wallis et Futuna. »
 
 II. – Le titre IV du livre V du code de la recherche est ainsi modifié :
 

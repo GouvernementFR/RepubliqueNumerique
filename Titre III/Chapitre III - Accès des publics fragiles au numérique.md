@@ -88,3 +88,11 @@ II. – La loi n° 90‑449 du 31 mai 1990 visant à la mise en œuvre du d
 
 3° (nouveau) Au deuxième alinéa de l’article 6‑3, après le mot : « eau », sont insérés les mots : « ou de services téléphoniques ou d’accès à internet ».
 
+Article 45 bis (nouveau)
+
+Le code du travail est ainsi modifié :
+
+1° Au second alinéa de l’article L. 6111‑2, après le mot : « française », sont insérés les mots : « ainsi que les actions de lutte contre l’illettrisme numérique » ;
+
+2° Le troisième alinéa de l’article L. 6321‑1 est complété par les mots : « et l’illettrisme numérique ».
+

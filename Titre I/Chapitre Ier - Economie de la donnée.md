@@ -54,7 +54,9 @@ Après l’article L. 311‑3 du code des relations entre le public et l’admi
 
 « Les conditions d’application du présent article sont fixées par décret en Conseil d’État. »
 
+Article 2 bis (nouveau)
 
+Au 1° de l’article L. 311‑5 du code des relations entre le public et l’administration, la première occurrence du mot : « et » est remplacée par les mots : « qui ne portent pas sur un projet de loi ou d’ordonnance, les avis ».
 
 Article 3
 

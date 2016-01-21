@@ -282,6 +282,8 @@ Le I de l’article 13 de la loi n° 78‑17 du 6 janvier 1978 relative à l
 
 1° Au premier alinéa, le mot : « dix‑sept » est remplacé par le mot : « dix‑huit » ;
 
+1° bis (nouveau) Aux 6° et 7°, les mots : « de l’informatique » sont remplacés par les mots : « du numérique » ;
+
 2° Après le 7°, il est inséré un 8° ainsi rédigé :
 
 « 8° Le président de la Commission d’accès aux documents administratifs, ou son représentant. »

@@ -14,7 +14,8 @@ Article 35
 
 Le chapitre V du titre II du livre IV de la première partie du code général des collectivités territoriales est complété par un article L. 1425‑3 ainsi rédigé :
 
-« Art. L. 1425‑3. – Dans les domaines de compétence que la loi leur attribue, les conseils départementaux ou régionaux peuvent établir une stratégie de développement des usages et services numériques sur leur territoire. Cette stratégie, à valeur indicative, constitue un volet du schéma directeur territorial d’aménagement numérique. Elle vise à favoriser l’équilibre de l’offre de services numériques sur le territoire ainsi que la mise en place de ressources mutualisées, publiques et privées, notamment en matière de médiation numérique. Le projet de stratégie peut faire l’objet d’une concertation pour recueillir les observations du public. »
+« Art. L. 1425‑3. – Dans les domaines de compétence que la loi leur attribue, les conseils départementaux ou régionaux ou les syndicats mixtes mentionnés à l’article L. 5721‑9 dont le périmètre recouvre l’intégralité du territoire couvert par le schéma peuvent établir une stratégie de développement des usages et services numériques sur leur territoire. Cette stratégie constitue un volet du schéma directeur territorial d’aménagement numérique. Elle vise à favoriser l’équilibre de l’offre de services numériques sur le territoire ainsi que la mise en place de ressources mutualisées, publiques et privées, notamment en matière de médiation numérique. Le projet de stratégie fait l’objet d’une concertation pour recueillir les observations du conseil économique, social et environnemental régional, des conseils de développement concernés et du public.
+
 
 Article 36
 

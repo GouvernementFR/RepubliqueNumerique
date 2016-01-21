@@ -24,7 +24,7 @@ Après le deuxième alinéa du I de l’article L. 1425‑1 du code général
 
 « Par dérogation au premier alinéa de l’article L. 5721‑2, un syndicat mixte relevant du titre II du livre VII peut adhérer à un autre syndicat mixte exerçant, par transfert ou délégation, tout ou partie des compétences mentionnées au premier alinéa du présent I, jusqu’au 31 décembre 2019.
 
-« L’adhésion d’un syndicat mixte qui exerce ses compétences par délégation à un autre syndicat mixte n’est possible que si ce dernier comprend au moins une région ou un département. »
+« L’adhésion d’un syndicat mixte qui exerce ses compétences par délégation à un autre syndicat mixte n’est possible que si ce dernier comprend au moins une région ou un département. À compter du 1<sup>er</sup> janvier 2022, un syndicat mixte exerçant, par transfert ou délégation, tout ou partie des compétences mentionnées au premier alinéa du présent I ne peut plus être membre d’un syndicat mixte relevant du titre II du livre VII. »
 
 Section 2
 

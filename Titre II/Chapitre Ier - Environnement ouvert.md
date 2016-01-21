@@ -181,6 +181,12 @@ Section 2
 
 Portabilité et récupération des données
 
+Article 21 A (nouveau)
+
+L’article L. 131‑2 du code de l’éducation est complété par un alinéa ainsi rédigé :
+
+« Dans le cas où l’équipement nécessaire est disponible, l’État et les collectivités territoriales peuvent organiser par convention la récupération par les élèves de leurs données scolaires sous format numérique. »
+
 Article 21
 
 I. – Le livre I<sup>er</sup> du code de la consommation est ainsi modifié :

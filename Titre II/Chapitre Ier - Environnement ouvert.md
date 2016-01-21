@@ -245,7 +245,7 @@ II. – Le présent article entre en vigueur dix‑huit mois à compter de la 
 
 Section 3
 
-Loyauté des plateformes
+Loyauté des plateformes et information des consommateurs
 
 Article 22
 

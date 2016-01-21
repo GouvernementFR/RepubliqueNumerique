@@ -36,7 +36,7 @@ I. – Le livre III du code des postes et des communications électroniques e
 
 « 1° bis (nouveau) Le prestataire informe de manière claire, transparente et loyale les consommateurs sur la reconnaissance en tant que prestataire de service de confiance qualifié pour les services d’envoi recommandé au sens du même règlement ;
 
-« 2° Le procédé électronique utilisé permet d’identifier le prestataire, de désigner l’expéditeur, de garantir l’identité du destinataire et d’établir si la lettre a été remise ou non au destinataire. Le destinataire doit donner son accord exprès pour l’utilisation d’un tel procédé ;
+« 2° Le procédé électronique utilisé permet d’identifier le prestataire, de désigner l’expéditeur, de garantir l’identité du destinataire et d’établir si l’envoi a été remis ou non au destinataire. Le destinataire doit donner son accord exprès pour l’utilisation d’un tel procédé ;
 
 « 3° (nouveau) Le procédé permet d’adresser un avis de réception à l’expéditeur, par voie électronique ou par tout autre dispositif lui permettant de le conserver.
 

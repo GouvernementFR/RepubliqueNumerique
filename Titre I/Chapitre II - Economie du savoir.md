@@ -2,6 +2,10 @@ Chapitre II
 
 Économie du savoir
 
+Article 17 A (nouveau)
+
+À la fin de la seconde phrase de l’article L. 312‑9 du code de l’éducation, les mots : « et le respect de la propriété intellectuelle » sont remplacés par les mots : « , le respect de la propriété intellectuelle et de l’égalité entre les femmes et les hommes ainsi que la lutte contre les violences commises au moyen d’un service de communication au public en ligne ».
+
 Article 17
 
 Le chapitre III du titre III du livre V du code de la recherche est complété par un article L. 533‑4 ainsi rédigé :

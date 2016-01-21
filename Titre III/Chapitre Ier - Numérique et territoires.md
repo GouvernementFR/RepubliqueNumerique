@@ -38,7 +38,7 @@ Article 37 A (nouveau)
 
 L’article L. 1615‑7 du code général des collectivités territoriales est complété par un alinéa ainsi rédigé :
 
-« Les collectivités territoriales et leurs groupements bénéficient des attributions du fonds de compensation pour la taxe sur la valeur ajoutée au titre de leurs dépenses d’investissement réalisées sur la période 2015‑2022, sous maîtrise d’ouvrage publique, en matière d’infrastructures passives intégrant leur patrimoine dans le cadre du plan d’action relatif à l’extension de la couverture du territoire par les réseaux de téléphonie mobile. »
+« Les collectivités territoriales et leurs groupements bénéficient des attributions du Fonds de compensation pour la taxe sur la valeur ajoutée au titre de leurs dépenses d’investissement réalisées sur la période 2015‑2022, sous maîtrise d’ouvrage publique, en matière d’infrastructures passives intégrant leur patrimoine dans le cadre du plan d’action relatif à l’extension de la couverture du territoire par les réseaux de téléphonie mobile. »
 
 Article 37 B (nouveau)
 
@@ -66,7 +66,7 @@ Article 37 C (nouveau)
 
 L’article 24‑2 de la loi n° 65‑557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis est complété par deux alinéas ainsi rédigés :
 
-« Lorsqu’une demande de raccordement à un réseau de communications électroniques à très haut débit en fibre optique est effectuée par l’occupant d’un logement d’un immeuble comportant plusieurs logements ou à usage mixte dans les conditions prévues à l’article 1<sup>er</sup> de la loi n° 66‑457 du 2 juillet 1966 relative à l’installation d’antennes réceptrices de radiodiffusion, le syndicat des copropriétaires ne peut s’opposer, nonobstant toute convention contraire, sans motif sérieux et légitime conformément au II du même article 1<sup>er</sup>, à l’installation de telles lignes dans les parties communes de l’immeuble de manière à permettre la desserte de chacun des logements, sous réserve que ce dernier dispose des infrastructures d’accueil adaptées.
+« Lorsqu’une demande de raccordement à un réseau de communications électroniques à très haut débit en fibre optique est effectuée par l’occupant d’un logement d’un immeuble comportant plusieurs logements ou d’un immeuble à usage mixte dans les conditions prévues à l’article 1<sup>er</sup> de la loi n° 66‑457 du 2 juillet 1966 relative à l’installation d’antennes réceptrices de radiodiffusion, le syndicat des copropriétaires ne peut s’opposer, nonobstant toute convention contraire, sans motif sérieux et légitime conformément au II du même article 1<sup>er</sup>, à l’installation de telles lignes dans les parties communes de l’immeuble de manière à permettre la desserte de chacun des logements, sous réserve que l’immeuble dispose des infrastructures d’accueil adaptées.
 
 « Cette installation, réalisée aux frais de l’opérateur dans le respect de l’article L. 34‑8‑3 du code des postes et des communications électroniques, fait l’objet d’une convention conclue dans les conditions prévues à l’article L. 33‑6 du même code avec le syndicat des copropriétaires, après avis du conseil syndical lorsque celui-ci a été institué. »
 

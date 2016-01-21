@@ -162,6 +162,12 @@ I. – Le premier alinéa de l’article 17 de la loi n° 78‑753 du 17 ju
 
 « Elles publient chaque année une version mise à jour de ce répertoire. »
 
+I bis (nouveau). – Le quatrième alinéa de l’article 18 de la même loi est ainsi modifié :
+
+1° À la fin de la première phrase, le montant : « 150 000 euros » est remplacé par le montant : « un million d’euros » ;
+
+2° À la seconde phrase, le montant : « 300 000 euros » est remplacé, deux fois, par le montant : « deux millions d’euros ».
+
 II. – Le titre IV du livre III du code des relations entre le public et l’administration est ainsi modifié :
 
 1° Au premier alinéa de l’article L. 342‑1, après les mots : « refus de communication », sont insérés les mots : « ou un refus de publication » ;

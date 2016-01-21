@@ -186,7 +186,7 @@ II. – Le titre IV du livre III du code des relations entre le public et l’
 
 Article 9
 
-Au titre II du livre III du code des relations entre le public et l’administration, il est inséré un article L. 321‑1 ainsi rédigé :
+I. – Au titre II du livre III du code des relations entre le public et l’administration, il est inséré un article L. 321‑1 ainsi rédigé :
 
 « Art. L. 321‑1. – I. – La mise à disposition et la publication des données de référence en vue de faciliter leur réutilisation constitue une mission de service public relevant de l’État. Toutes les autorités administratives concourent à cette mission.
 
@@ -199,6 +199,8 @@ Au titre II du livre III du code des relations entre le public et l’administra
 « 3° Leurs réutilisations nécessitent qu’elles soient mises à disposition avec un niveau élevé de qualité, notamment en termes de précision, de disponibilité ou de fréquence de mise à jour.
 
 « III. – Les modalités d’application du présent article sont définies par un décret en Conseil d’État. Lorsque plusieurs administrations sont responsables, le décret détermine les modalités de la coordination entre ces administrations. Il détermine la liste des données de référence et désigne les administrations responsables de leur production et de leur publication. Il fixe la qualité minimale que la publication des données de référence doit respecter, notamment en termes de précision, de degré de détail, de fréquence de mise à jour, d’accessibilité et de format. »
+
+II (nouveau). – Le présent article entre en vigueur à la date de publication du décret mentionné au III de l’article L. 321‑1 du code des relations entre le public et l’administration, et au plus tard six mois après la promulgation de la présente loi.
 
 Article 9 bis (nouveau)
 

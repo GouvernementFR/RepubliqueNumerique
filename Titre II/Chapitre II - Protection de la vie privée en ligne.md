@@ -246,7 +246,7 @@ L’article 226‑1 du code pénal est ainsi modifié :
 
 2° Il est ajouté un alinéa ainsi rédigé :
 
-« Est puni des mêmes peines le fait de transmettre ou diffuser, sans le consentement de celle-ci, l’image ou la voix d’une personne, quand l’enregistrement, l’image ou la vidéo sont sexuellement explicites. »
+« Est puni de deux ans d’emprisonnement et de 60 000 € d’amende le fait de transmettre ou de diffuser sans le consentement exprès de la personne l’image ou la voix de celle-ci, prise dans un lieu public ou privé, dès lors qu’elle présente un caractère sexuel. »
 
 Section 2
 

@@ -64,8 +64,9 @@ Le deuxième alinéa de l’article L. 312‑1 du code des relations entre le p
 
 Article 4
 
-I. – La section 1 du chapitre II du titre I<sup>er</sup> du livre III du code des relations entre le public et l’administration est complétée par des articles L. 312‑1‑1 et L. 312‑1‑2 ainsi rédigés :
 I A (nouveau). – Le 1° de l’article L. 311‑6 du code des relations entre le public et l’administration est complété par les mots : « , lequel comprend le secret des procédés, des informations économiques et financières et des stratégies commerciales ou industrielles et est apprécié en tenant compte, le cas échéant, du fait que la mission de service public de l’administration mentionnée au premier alinéa de l’article L. 300‑2 est soumise à la concurrence ».
+
+I. – La section 1 du chapitre II du titre I<sup>er</sup> du livre III du code des relations entre le public et l’administration est complétée par des articles L. 312‑1‑1 à L. 312‑1‑3 ainsi rédigés :
 
 « Art. L. 312‑1‑1. – Sous réserve des articles L. 311‑5 et L. 311‑6 et lorsque ces documents sont disponibles sous forme électronique, les administrations mentionnées au premier alinéa de l’article L. 300‑2, à l’exception des personnes morales dont le nombre d’agents ou de salariés est inférieur à un seuil qui ne peut être supérieur à cinquante agents ou salariés, fixé par décret, publient en ligne, dans un standard ouvert aisément réutilisable, c’est-à-dire lisible par une machine, les documents administratifs suivants :
 
@@ -73,7 +74,7 @@ I A (nouveau). – Le 1° de l’article L. 311‑6 du code des relations 
 
 « 2° Les documents qui figurent dans le répertoire mentionné à l’article 17 de la loi n° 78‑753 du 17 juillet 1978 portant diverses mesures d’amélioration des relations entre l’administration et le public et diverses dispositions d’ordre administratif, social et fiscal ;
 
-« 3° Les bases de données qu’elles produisent ou qu’elles reçoivent et qui ne font pas l’objet par ailleurs d’une diffusion publique dans un standard ouvert aisément réutilisable, c’est-à-dire lisible par une machine ;
+« 3° Les bases de données, mises à jour de façon régulière, qu’elles produisent ou qu’elles reçoivent et qui ne font pas l’objet par ailleurs d’une diffusion publique dans un standard ouvert aisément réutilisable, c’est-à-dire lisible par une machine ;
 
 « 4° Les données dont l’administration qui les détient estime que la publication présente un intérêt économique, social, sanitaire ou environnemental.
 

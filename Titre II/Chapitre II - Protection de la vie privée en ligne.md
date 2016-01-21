@@ -196,6 +196,22 @@ II. – Après la première phrase du deuxième alinéa de l’article 46 de 
 
 III (nouveau). – Au second alinéa de l’article 226‑16 du code pénal, la référence : « 2° » est remplacée par la référence : « 3° ».
 
+Article 33 bis A (nouveau)
+
+La section 2 du chapitre V de la loi n° 78‑17 du 6 janvier 1978 précitée est complétée par un article 43‑2 ainsi rédigé :
+
+« Art. 43‑2. – Les personnes suivantes peuvent exercer devant une juridiction civile une action collective de protection des données personnelles afin d’obtenir la cessation d’une violation de la présente loi :
+
+« 1° Les associations ayant pour objet la protection de la vie privée et des données personnelles ;
+
+« 2° Les associations de défense des consommateurs représentatives au niveau national et agréées en application de l’article L. 411‑1 du code de la consommation, lorsque le traitement de données personnelles affecte des consommateurs ;
+
+« 3° Les organisations syndicales de salariés, lorsque le traitement affecte des salariés ;
+
+« 4° Toute association formée aux seules fins d’entreprendre l’action collective concernée.
+
+« L’exercice de l’action est subordonné à l’accomplissement de démarches préalables auprès du responsable de traitement afin qu’il fasse cesser la violation. »
+
 Article 33 bis (nouveau)
 
 Le chapitre VII de la loi n° 78‑17 du 6 janvier 1978 précitée est complété par un article 49 bis ainsi rédigé :

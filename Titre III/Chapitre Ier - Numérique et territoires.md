@@ -75,6 +75,12 @@ Article 37 D (nouveau)
 La seconde phrase du 7° du I de l’article 39 decies du code général des impôts est remplacée par trois phrases ainsi rédigées :
 
 « En cas de cession de droits d’usage portant sur les biens mentionnés à la première phrase du présent 7°, le montant des investissements éligibles est égal à la différence entre le montant total des investissements effectués et le montant des droits d’usage cédés à une entreprise tierce. Par dérogation au premier alinéa du présent I, les entreprises titulaires d’un droit d’usage portant sur ces biens peuvent déduire une somme égale à 40 % du montant facturé au titre de ce droit d’usage. Par dérogation au même premier alinéa, la déduction s’applique aux droits d’usage et aux biens mentionnés au présent 7° qui sont acquis ou fabriqués par l’entreprise à compter du 1<sup>er</sup> janvier 2016 et jusqu’au 31 décembre 2016. »
+
+Article 37 E (nouveau)
+
+Après le troisième alinéa de l’article L. 34‑8‑3 du code des postes et des communications électroniques, il est inséré un alinéa ainsi rédigé :
+
+« Lorsque la personne qui fournit l’accès met en œuvre une péréquation tarifaire à l’échelle de la zone de déploiement, elle peut réserver l’application de cette péréquation aux seuls opérateurs qui ne déploient pas de lignes à très haut débit en fibre optique permettant de desservir des logements situés dans cette zone. »
 Article 37
 
 L’article L. 36‑7 du code des postes et des communications électroniques est complété par un 11° ainsi rédigé :

@@ -254,7 +254,7 @@ La loi n° 51‑711 du 7 juin 1951 sur l’obligation, la coordination et le 
 
 2° Après le même article, il est inséré un article 3‑1 ainsi rédigé :
 
-« Art. 3‑1. – I. – Le ministre chargé de l’économie peut décider, après avis du Conseil national de l’information statistique, que les personnes morales de droit privé sollicitées pour des enquêtes transmettent par voie électronique au service statistique public, à des fins exclusives d’établissement de statistiques, les informations présentes dans les bases de données qu’elles détiennent, lorsque ces informations sont recherchées pour les besoins d’enquêtes statistiques qui sont rendues obligatoires en application de l’article 1<sup>er</sup> bis.
+« Art. 3‑1. – I. – Le ministre chargé de l’économie peut décider, après avis du Conseil national de l’information statistique, que les personnes morales de droit privé sollicitées pour des enquêtes transmettent par voie électronique sécurisée au service statistique public, à des fins exclusives d’établissement de statistiques, les informations présentes dans les bases de données qu’elles détiennent, lorsque ces informations sont recherchées pour les besoins d’enquêtes statistiques qui sont rendues obligatoires en application de l’article 1<sup>er</sup> bis.
 
 « Cette décision est précédée d’une étude de faisabilité et d’opportunité rendue publique.
 

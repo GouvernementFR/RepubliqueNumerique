@@ -236,6 +236,8 @@ II. – Après l’article L. 1411‑3‑1 du code général des collectivit�
 
 III. – Les I et II du présent article sont applicables aux contrats de délégation de service public conclus ou reconduits postérieurement à la promulgation de la présente loi.
 
+IV (nouveau). – Pour les contrats conclus avant la date d’entrée en vigueur de la présente loi, les personnes publiques peuvent exiger du délégataire la transmission des données et des bases de données à la seule fin de préparer le renouvellement du contrat.
+
 Article 11
 
 L’article 10 de la loi n° 2000‑321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations est ainsi modifié :

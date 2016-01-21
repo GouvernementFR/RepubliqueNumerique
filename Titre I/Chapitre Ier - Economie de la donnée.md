@@ -26,6 +26,9 @@ V (nouveau). – Le A de l’article L. 342‑2 du code des relations entre
 
 VI (nouveau). – Le titre I<sup>er</sup> du livre III du code des relations entre le public et l’administration est applicable aux demandes de communication des documents administratifs exercées en application du I du présent article.
 
+Article 1<sup>er</sup> bis A (nouveau)
+
+Le Gouvernement remet au Parlement, au plus tard le 30 juin 2016, un rapport sur la nécessité de créer une consultation publique en ligne pour tout projet de loi ou proposition de loi avant son inscription à l’ordre du jour du Parlement.
 
 Article 1<sup>er</sup> bis (nouveau)
 

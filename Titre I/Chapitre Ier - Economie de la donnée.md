@@ -44,7 +44,7 @@ Le chapitre I<sup>er</sup> du titre I<sup>er</sup> du livre III du code des r
 
 s2° L’article L. 311‑9 est complété par un 4° ainsi rédigé :
 
-« 4° Par publication des informations en ligne dans un format ouvert. »
+« 4° Par publication des informations en ligne dans un format ouvert et aisément réutilisable. »
 
 Article 2
 

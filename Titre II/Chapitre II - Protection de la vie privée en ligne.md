@@ -212,6 +212,14 @@ La section 2 du chapitre V de la loi n° 78‑17 du 6 janvier 1978 précitée
 
 « L’exercice de l’action est subordonné à l’accomplissement de démarches préalables auprès du responsable de traitement afin qu’il fasse cesser la violation. »
 
+Article 33 bis B (nouveau)
+
+Les deux premiers alinéas de l’article 47 de la loi n° 78‑17 du 6 janvier 1978 précitée sont ainsi rédigés :
+
+« Le montant de la sanction pécuniaire prévue au I de l’article 45 est proportionné à la gravité du manquement commis et aux avantages tirés de ce manquement. La formation restreinte de la Commission nationale de l’informatique et des libertés prend notamment en compte le caractère intentionnel ou de négligence du manquement, les mesures prises par le responsable du traitement pour atténuer les dommages subis par les personnes concernées, le degré de coopération avec la commission afin de remédier au manquement et d’atténuer ses effets négatifs éventuels, les catégories de données à caractère personnel concernées et la manière dont le manquement a été porté à la connaissance de la Commission.
+
+« Le montant de la sanction ne peut excéder 20 millions d’euros ou, dans le cas d’une entreprise, 4 % du chiffre d’affaires annuel total au niveau mondial réalisé lors de l’exercice précédant l’exercice au cours duquel le manquement a été commis, si ce montant est plus élevé. Toutefois, pour la méconnaissance du chapitre IV ainsi que des articles 34 à 35 de la présente loi, le montant maximal est de 10 millions d’euros ou, s’agissant d’une entreprise, de 2 % du chiffre d’affaires annuel total au niveau mondial réalisé lors de l’exercice précédant l’exercice au cours duquel le manquement a été commis, si ce montant est plus élevé. »
+
 Article 33 bis (nouveau)
 
 Le chapitre VII de la loi n° 78‑17 du 6 janvier 1978 précitée est complété par un article 49 bis ainsi rédigé :

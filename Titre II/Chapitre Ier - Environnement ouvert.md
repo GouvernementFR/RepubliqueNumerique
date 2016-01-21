@@ -287,11 +287,11 @@ L’article L. 111‑7 du code de la consommation est complété par trois alin
 
 Article 23
 
-I. – L’article L. 111‑5–1 du code de la consommation est ainsi rétabli :
+I. – Après l’article L. 111‑5‑1 du code de la consommation, sont insérés des articles L. 111‑5‑2 et L. 111‑5‑2‑1 ainsi rédigés :
 
-« Art. L. 111‑5‑1. – Les opérateurs de plateformes en ligne dont l’activité dépasse un seuil de nombre de connexions défini par décret élaborent et diffusent auprès des consommateurs des bonnes pratiques visant à renforcer les obligations de clarté, de transparence et de loyauté mentionnées à l’article L. 111‑5.
+« Art. L. 111‑5‑2. – Les opérateurs de plateformes en ligne dont l’activité dépasse un seuil de nombre de connexions défini par décret élaborent et diffusent aux consommateurs des bonnes pratiques visant à renforcer les obligations de clarté, de transparence et de loyauté mentionnées à l’article L. 111‑5‑1.
 
-« L’autorité administrative compétente peut procéder à des enquêtes dans les conditions prévues au premier alinéa du II de l’article L. 141‑1 afin d’évaluer et de comparer les pratiques des opérateurs de plateformes en ligne mentionnées au premier alinéa du présent article. Elle peut, à cette fin, recueillir auprès de ces opérateurs les informations utiles à l’exercice de cette mission. Elle diffuse périodiquement les résultats de ces évaluations et de ces comparaisons et rend publique la liste des plateformes en ligne qui ne respectent pas leurs obligations au titre de l’article L. 111‑5.
+« L’autorité administrative compétente peut procéder à des enquêtes dans les conditions prévues au premier alinéa du II de l’article L. 141‑1 afin d’évaluer et de comparer les pratiques des opérateurs de plateformes en ligne mentionnées au premier alinéa du présent article. Elle peut, à cette fin, recueillir auprès de ces opérateurs les informations utiles à l’exercice de cette mission. Elle diffuse périodiquement les résultats de ces évaluations et de ces comparaisons et rend publique la liste des plateformes en ligne qui ne respectent pas leurs obligations au titre de l’article L. 111‑5‑1.
 
 « Un décret précise les modalités d’application du présent article. »
 

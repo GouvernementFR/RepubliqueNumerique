@@ -65,6 +65,7 @@ Le deuxième alinéa de l’article L. 312‑1 du code des relations entre le p
 Article 4
 
 I. – La section 1 du chapitre II du titre I<sup>er</sup> du livre III du code des relations entre le public et l’administration est complétée par des articles L. 312‑1‑1 et L. 312‑1‑2 ainsi rédigés :
+I A (nouveau). – Le 1° de l’article L. 311‑6 du code des relations entre le public et l’administration est complété par les mots : « , lequel comprend le secret des procédés, des informations économiques et financières et des stratégies commerciales ou industrielles et est apprécié en tenant compte, le cas échéant, du fait que la mission de service public de l’administration mentionnée au premier alinéa de l’article L. 300‑2 est soumise à la concurrence ».
 
 « Art. L. 312‑1‑1. – Sous réserve des articles L. 311‑5 et L. 311‑6 et lorsque ces documents sont disponibles sous forme électronique, les administrations mentionnées au premier alinéa de l’article L. 300‑2, à l’exception des personnes morales dont le nombre d’agents ou de salariés est inférieur à un seuil fixé par décret, publient en ligne, dans un standard ouvert aisément réutilisable, c’est-à-dire lisible par une machine, les documents administratifs suivants :
 

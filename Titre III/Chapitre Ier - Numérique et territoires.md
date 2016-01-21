@@ -81,6 +81,13 @@ Article 37 E (nouveau)
 Après le troisième alinéa de l’article L. 34‑8‑3 du code des postes et des communications électroniques, il est inséré un alinéa ainsi rédigé :
 
 « Lorsque la personne qui fournit l’accès met en œuvre une péréquation tarifaire à l’échelle de la zone de déploiement, elle peut réserver l’application de cette péréquation aux seuls opérateurs qui ne déploient pas de lignes à très haut débit en fibre optique permettant de desservir des logements situés dans cette zone. »
+
+Article 37 F (nouveau)
+
+Le septième alinéa du III de l’article L. 36‑11 du code des postes et des communications électroniques est ainsi rédigé :
+
+« – une sanction pécuniaire dont le montant est proportionné à la gravité du manquement, appréciée notamment au regard du nombre d’habitants ou de kilomètres carrés non couverts ou de sites non couverts, lorsque la personne en cause ne s’est pas conformée à une mise en demeure portant sur le respect d’obligations de couverture de la population prévues par l’autorisation d’utilisation de fréquences qui lui a été attribuée. Sont notamment considérées comme non couvertes, au sens du présent alinéa, les zones rurales dans lesquelles l’entretien et la maintenance des matériels, logiciels et installations constituant le réseau ne sont pas normalement assurés ; ».
+
 Article 37
 
 L’article L. 36‑7 du code des postes et des communications électroniques est complété par un 11° ainsi rédigé :

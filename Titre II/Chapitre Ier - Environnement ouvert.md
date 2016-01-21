@@ -275,6 +275,16 @@ a) Le premier alinéa est remplacé par huit alinéas ainsi rédigés :
 
 b) Aux deuxième et troisième alinéas, les mots : « la personne mentionnée au premier alinéa du présent article est également tenue » sont remplacés par les mots : « l’opérateur de plateforme en ligne est également tenu ».
 
+Article 22 bis (nouveau)
+
+L’article L. 111‑7 du code de la consommation est complété par trois alinéas ainsi rédigés :
+
+« Sont soumises aux obligations prévues au présent chapitre les personnes physiques ou morales exerçant à titre professionnel :
+
+« 1° Établies sur le territoire français ou sur le territoire d’un État membre de l’Union européenne ;
+
+« 2° Ou qui, sans être établies sur le territoire français ou sur le territoire d’un État membre de de l’Union européenne, dirigent par tout moyen leur activité vers le territoire français sur lequel le consommateur a sa résidence habituelle ou causent un dommage à un consommateur sur le territoire français. »
+
 Article 23
 
 I. – L’article L. 111‑5–1 du code de la consommation est ainsi rétabli :

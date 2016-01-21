@@ -337,7 +337,7 @@ Le chapitre I<sup>er</sup> du titre I<sup>er</sup> du livre I<sup>er</sup> du
 
 « Elle indique aux consommateurs dont l’avis en ligne a été rejeté les raisons qui justifient ce rejet.
 
-« Elle met en place une fonctionnalité gratuite qui permet aux responsables des produits ou des services faisant l’objet d’un avis en ligne de lui signaler que l’authenticité de cet avis est douteuse, à condition que ce signalement soit motivé.
+« Elle met en place une fonctionnalité gratuite qui permet aux responsables des produits ou des services faisant l’objet d’un avis en ligne de lui signaler un doute sur l’authenticité d’un avis, à condition que ce signalement soit motivé.
 
 « Un décret, pris après avis de la Commission nationale de l’informatique et des libertés, fixe les modalités et le contenu de ces informations. » ;
 

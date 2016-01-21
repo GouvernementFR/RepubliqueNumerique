@@ -86,3 +86,5 @@ II. – La loi n° 90‑449 du 31 mai 1990 visant à la mise en œuvre du d
 
 2° Au dernier alinéa de l’article 6‑1, les mots : « ou de services téléphoniques » sont remplacés par les mots : « , de services téléphoniques ou de services d’accès à internet ».
 
+3° (nouveau) Au deuxième alinéa de l’article 6‑3, après le mot : « eau », sont insérés les mots : « ou de services téléphoniques ou d’accès à internet ».
+

@@ -50,3 +50,9 @@ Le code de la propriété intellectuelle est ainsi modifié :
 
 « 5° Les copies ou reproductions numériques de la base réalisées par une personne qui y a licitement accès, en vue de fouilles de textes et de données dans un cadre de recherche, à l’exclusion de toute finalité commerciale. La conservation et la communication des copies techniques issues des traitements, au terme des activités de recherche pour lesquelles elles ont été produites, sont assurées par des organismes désignés par décret. Les autres copies ou reproductions sont détruites. »
 
+Article 18 ter (nouveau)
+
+Après le second alinéa du 9° de l’article L. 122‑5 du code de la propriété intellectuelle, il est inséré un 11° ainsi rédigé :
+
+« 11° Les reproductions et représentations d’œuvres architecturales et de sculptures, placées en permanence sur la voie publique, réalisées par des particuliers à des fins non lucratives. »
+

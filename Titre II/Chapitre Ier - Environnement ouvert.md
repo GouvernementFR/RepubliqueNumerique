@@ -169,7 +169,13 @@ Le I de l’article 6 de la loi n° 2004‑575 du 21 juin 2004 pour la confi
 
 1° Au premier alinéa du 2 et au 4, le mot : « illicite » est remplacé par le mot : « illégal » ;
 
-2° Au premier alinéa du 3 et à la fin du premier alinéa et, deux fois, à la seconde phrase du quatrième alinéa du 7, le mot : « illicites » est remplacé par le mot : « illégales ».
+2° Au premier alinéa du 3 et à la fin du premier alinéa et, deux fois, à la seconde phrase du quatrième alinéa du 7, le mot : « illicites » est remplacé par le mot : « illégales ».
+
+Article 20 septies (nouveau)
+
+L’article 323‑1 du code pénal est complété par un alinéa ainsi rédigé :
+
+« Toute personne qui a tenté de commettre ou commis le délit prévu au présent article est exempte de peine si elle a immédiatement averti l’autorité administrative ou judiciaire ou le responsable du système de traitement automatisé de données en cause d’un risque d’atteinte aux données ou au fonctionnement du système. »
 
 Section 2
 

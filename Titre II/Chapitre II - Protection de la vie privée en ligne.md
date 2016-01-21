@@ -60,7 +60,7 @@ c) (nouveau) Est ajoutée une phrase ainsi rédigée :
 
 « La commission dispose d’un délai de six semaines à compter de la saisine pour rendre son avis. Ce délai est reconductible une fois par décision du président de la commission.
 
-« À défaut de délibération dans les délais, l’avis de la commission est réputé favorable.
+« À défaut de délibération dans les délais, l’avis de la commission est réputé avoir été rendu.
 
 « L’avis de la commission est adressé au président de l’assemblée qui l’a saisie, qui le communique à l’auteur de la proposition. » ;
 

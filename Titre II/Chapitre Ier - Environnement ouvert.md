@@ -215,15 +215,19 @@ I. – Le livre I<sup>er</sup> du code de la consommation est ainsi modifié 
 
 « Récupération des données stockées en ligne
 
-« Art. L. 121‑122. – Tout fournisseur d’un service de communication au public en ligne propose, en prenant toutes les mesures nécessaires à cette fin, notamment en termes d’interface de programmation, au consommateur une fonctionnalité gratuite permettant la récupération licite :
+« Art. L. 121‑122. – Sans préjudice des dispositions protégeant le secret en matière commerciale et industrielle et des droits de propriété intellectuelle, tout fournisseur d’un service de communication au public en ligne propose au consommateur une fonctionnalité gratuite permettant la récupération licite :
 
 « 1° De tous les fichiers mis en ligne par le consommateur ;
 
-« 2° De toutes les données associées au compte utilisateur du consommateur et résultant de l’utilisation de ce compte, notamment les données relatives au classement de contenus, dans un standard ouvert et aisément réutilisable, lisible par une machine et pouvant être exploité par un système de traitement automatisé.
+« 2° De toutes les données résultant de l’utilisation du compte d’utilisateur du consommateur et consultables en ligne par celui-ci, dans un standard ouvert et aisément réutilisable, lisible par une machine ;
 
-« La fonctionnalité prévue au premier alinéa offre au consommateur une faculté de requête unique étendue au moins à un type ou un format de fichiers ou données.
+« 3° (nouveau) Des autres données associées au compte d’utilisateur du consommateur dont la récupération est pertinente pour le changement de fournisseur dans un secteur économique ou industriel. Les données nécessaires sont précisées par voie réglementaire.
 
-« Pour les données résultant d’un traitement de données collectées auprès d’un consommateur et qui ne peuvent pas être récupérées dans un standard ouvert et aisément réutilisable, le fournisseur de service de communication au public en ligne informe clairement le consommateur, avant la conclusion d’un contrat et dans le contrat, de la possibilité ou non de récupérer ces données et, le cas échéant, des modalités de cette récupération et de la forme, notamment le format de fichier, sous laquelle ces données sont récupérables. Le fournisseur de service de communication au public en ligne précise, le cas échéant, le caractère ouvert et interopérable du format de fichier utilisé.
+« La fonctionnalité prévue au premier alinéa permet au consommateur de récupérer, par une requête unique, l’ensemble des fichiers ou données concernés. Le fournisseur prend toutes les mesures nécessaires à cette fin, en termes d’interface de programmation et de transmission des informations nécessaires au changement de fournisseur.
+
+« Lorsque les données collectées auprès du consommateur ne peuvent pas être récupérées dans un standard ouvert et aisément réutilisable, le fournisseur de service de communication au public en ligne en informe le consommateur de façon claire et transparente. Le cas échéant, il l’informe des modalités alternatives de récupération de ces données et précise les caractéristiques techniques du format du fichier de récupération, notamment son caractère ouvert et interopérable.
+
+« Un décret précise les modalités d’application du présent article.
 
 « Sous‑section 3
 

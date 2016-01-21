@@ -84,7 +84,7 @@ I. – La section 1 du chapitre II du titre I<sup>er</sup> du livre III du
 
 « Sauf dispositions législatives ou réglementaires contraires ou si les personnes intéressées ont donné leur accord, lorsque les documents et données mentionnés aux articles L. 312‑1 ou L. 312‑1‑1 comportent des données à caractère personnel, ils ne peuvent être rendus publics qu’après avoir fait l’objet d’un traitement permettant de rendre impossible l’identification de ces personnes.
 
-« Les administrations mentionnées au premier alinéa de l’article L. 300‑2 ne sont pas tenues de publier les archives publiques issues des opérations de sélection prévues aux articles L. 212‑2 et L. 212‑3 du code du patrimoine. »
+« Les administrations mentionnées au premier alinéa de l’article L. 300‑2 ne sont pas tenues de publier les archives publiques issues des opérations de sélection prévues aux articles L. 212‑2 et L. 212‑3 du code du patrimoine lorsque ces archives ne sont pas disponibles sous forme électronique.
 
 II. – Un décret en Conseil d’État, pris après avis de la commission mentionnée à l’article L. 340‑1 du code des relations entre le public et l’administration, définit les modalités d’application des articles L. 312‑1 à L. 312‑1‑2 du même code.
 III (nouveau). – L’article L. 1112‑23 du code général des collectivités territoriales et l’article L. 125‑12 du code des communes de la Nouvelle‑Calédonie sont abrogés.

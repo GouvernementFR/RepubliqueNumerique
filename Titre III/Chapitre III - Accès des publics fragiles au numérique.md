@@ -96,3 +96,13 @@ Le code du travail est ainsi modifié :
 
 2° Le troisième alinéa de l’article L. 6321‑1 est complété par les mots : « et l’illettrisme numérique ».
 
+Chapitre IV
+
+Accès des personnes détenues à internet
+
+(Division et intitulé nouveaux)
+
+Article 45 ter (nouveau)
+
+Il est remis au Parlement, avant le 1<sup>er</sup> janvier 2017, un rapport sur les conditions et les modalités de mise en œuvre de l’accès au numérique de toutes les personnes privées de liberté.
+

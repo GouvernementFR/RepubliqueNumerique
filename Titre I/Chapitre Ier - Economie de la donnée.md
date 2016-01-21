@@ -258,7 +258,7 @@ La loi n° 51‑711 du 7 juin 1951 sur l’obligation, la coordination et le 
 
 « Cette décision est précédée d’une étude de faisabilité et d’opportunité rendue publique.
 
-« Les données transmises par les personnes morales de droit privé sollicitées pour ces enquêtes ne peuvent être communiquées à quiconque. Seules sont soumises au livre II du code du patrimoine les informations issues de ces données qui ont été agrégées et qui ne permettent pas l’identification de ces personnes morales.
+« Les données transmises par les personnes morales de droit privé sollicitées pour ces enquêtes ne peuvent faire l’objet d’aucune communication de la part du service dépositaire. Seules sont soumises au livre II du code du patrimoine les informations issues de ces données qui ont été agrégées et qui ne permettent pas l’identification de ces personnes morales.
 
 « Les conditions dans lesquelles sont réalisées ces enquêtes, notamment leur faisabilité, leur opportunité, les modalités de collecte des données de même que, le cas échéant, celles de leur enregistrement temporaire font l’objet d’une concertation avec les personnes morales sollicitées pour l’enquête et sont fixées par voie réglementaire.
 

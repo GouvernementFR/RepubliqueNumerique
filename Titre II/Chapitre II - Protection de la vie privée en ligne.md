@@ -132,7 +132,7 @@ L’article 40 de la loi n° 78‑17 du 6 janvier 1978 précitée est ainsi 
 
 « Les directives générales concernent l’ensemble des données à caractère personnel se rapportant à la personne concernée et peuvent être enregistrées auprès d’un tiers de confiance numérique certifié par la Commission nationale de l’informatique et des libertés.
 
-« Les directives particulières concernent les traitements de données à caractère personnel visées par ces directives. Elles sont enregistrées auprès des responsables de traitements concernés. Elles font l’objet d’un consentement spécifique et ne peuvent résulter des seules conditions générales d’utilisation du service concerné.
+« Les directives particulières concernent les traitements de données à caractère personnel visées par ces directives. Elles sont enregistrées auprès des responsables de traitements concernés. Elles font l’objet du consentement spécifique de la personne concernée et ne peuvent résulter de la seule approbation par celle‑ci des conditions générales d’utilisation.
 
 « Les directives générales et particulières définissent la manière dont la personne entend que soient exercés, après son décès, les droits mentionnés à la présente section. Le respect de ces directives est sans préjudice des dispositions applicables aux archives publiques comportant des données à caractère personnel.
 

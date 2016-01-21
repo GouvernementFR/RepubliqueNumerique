@@ -258,9 +258,9 @@ L’article L. 32‑3 du code des postes et des communications électroniques e
 
 « Art. L. 32‑3. – I. – Les opérateurs, ainsi que les membres de leur personnel, sont tenus de respecter le secret des correspondances. Le secret couvre le contenu de la correspondance, l’identité des correspondants ainsi que, le cas échéant, l’intitulé du message et les documents joints à la correspondance.
 
-« II. – Les fournisseurs et éditeurs de services de communication au public en ligne permettant aux utilisateurs de ces services d’échanger des correspondances, ainsi que les membres de leur personnel, sont tenus de respecter le secret de celles‑ci. Le secret couvre le contenu de la correspondance, l’identité des correspondants ainsi que, le cas échéant, l’intitulé du message et les documents joints à la correspondance.
+« Les personnes qui éditent un service de communication au public en ligne, au sens du deuxième alinéa du II de l’article 6 de la loi n° 2004‑575 du 21 juin 2004 pour la confiance dans l’économie numérique, permettant à leurs utilisateurs d’échanger des correspondances, ainsi que les membres de leur personnel, respectent le secret de celles‑ci. Le secret couvre le contenu de la correspondance, l’identité des correspondants ainsi que, le cas échéant, l’intitulé du message et les documents joints à la correspondance.
 
 « Tout traitement automatisé d’analyse du contenu de la correspondance en ligne, de l’identité des correspondants, de l’intitulé ou des documents mentionnés au premier alinéa du présent II constitue une atteinte au secret des correspondances, sauf lorsque ce traitement a pour fonction l’affichage, le tri ou l’acheminement de ces correspondances, la fourniture d’un service bénéficiant uniquement à l’utilisateur ou la détection de contenus non sollicités ou de programmes informatiques malveillants.
 
-« III. – Les opérateurs et les fournisseurs et éditeurs mentionnés aux I et II sont tenus de porter à la connaissance de leur personnel les obligations résultant du présent article. »
+« III. – Les opérateurs et les personnes mentionnés aux I et II sont tenus de porter à la connaissance de leur personnel les obligations résultant du présent article. »
 

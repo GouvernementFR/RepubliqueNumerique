@@ -93,7 +93,7 @@ c) Sont ajoutés des II à IV ainsi rédigés :
 
 « II. – Les fonctionnaires et agents du ministère chargé des communications électroniques et de l’Autorité de régulation des communications électroniques et des postes, habilités à cet effet par le ministre chargé des communications électroniques et assermentés dans des conditions fixées par décret en Conseil d’État, peuvent, pour l’exercice de leurs missions, opérer sur la voie publique, pénétrer entre 6 heures et 21 heures dans tous lieux utilisés à des fins professionnelles par les personnes mentionnées aux 1° et 2° du I du présent article, à l’exclusion des parties de ceux-ci affectés au domicile privé et accéder à tous moyens de transport à usage professionnel.
 
-« Les fonctionnaires et agents mentionnés au premier alinéa du présent II précédent peuvent demander la communication de tous documents nécessaires à l’accomplissement de leur mission, quel qu’en soit le support, et obtenir ou prendre copie de ces documents par tout moyen et sur tout support. Ils peuvent recueillir, sur place ou sur convocation, tout renseignement, tout document ou toute justification utiles. Ils peuvent accéder aux logiciels, aux programmes informatiques et aux données stockées et en demander la transcription par tout traitement approprié dans des documents directement utilisables pour les besoins du contrôle.
+« Les fonctionnaires et agents mentionnés au premier alinéa du présent II peuvent demander la communication de tous documents nécessaires à l’accomplissement de leur mission, quel qu’en soit le support, et obtenir ou prendre copie de ces documents par tout moyen et sur tout support. Ils peuvent recueillir, sur place ou sur convocation, tout renseignement, tout document ou toute justification utiles. Ils peuvent accéder aux logiciels, aux programmes informatiques et aux données stockées et en demander la transcription par tout traitement approprié dans des documents directement utilisables pour les besoins du contrôle.
 
 « Ils peuvent recourir à toute personne compétente. Cette personne :
 
@@ -103,13 +103,13 @@ c) Sont ajoutés des II à IV ainsi rédigés :
 
 « 3° Ne peut utiliser les informations dont elle prend connaissance à cette occasion pour la mise en œuvre des pouvoirs de contrôle dont elle dispose, le cas échéant, en application d’autres dispositions législatives ou réglementaires ;
 
-« 4° Ne peut, sous peine d’encourir les sanctions prévues à l’article 226‑13 du code pénal, divulguer les informations dont elle a eu connaissance dans ce cadre.
+« 4° Ne peut, sous peine des sanctions prévues à l’article 226‑13 du code pénal, divulguer les informations dont elle a eu connaissance dans ce cadre.
 
 « Les fonctionnaires et agents mentionnés au premier alinéa du présent II peuvent procéder à des visites conjointes avec des agents, désignés par l’autorité administrative dont ils dépendent, appartenant à d’autres services de l’État ou de ses établissements publics.
 
 « Les visites et auditions donnent lieu à procès-verbal, dont une copie est transmise aux personnes intéressées. Ce procès-verbal fait foi jusqu’à preuve contraire.
 
-« En dehors des contrôles sur place et auditions sur convocation, les fonctionnaires et agents mentionnés au premier alinéa du présent II peuvent procéder à toute constatation utile. Ils peuvent notamment, à partir d’un service de communication au public en ligne, consulter les données librement accessibles ou rendues accessibles, y compris par imprudence, par négligence ou par le fait d’un tiers. Ils peuvent retranscrire les données par tout traitement approprié dans des documents directement utilisables pour les besoins du contrôle. Un décret en Conseil d’État précise les conditions dans lesquelles ils procèdent à ces constatations.
+« Les fonctionnaires et agents mentionnés au premier alinéa du présent II peuvent également procéder à toute constatation utile. Ils peuvent notamment, à partir d’un service de communication au public en ligne, consulter les données librement accessibles ou rendues accessibles, y compris par imprudence, par négligence ou par le fait d’un tiers. Ils peuvent retranscrire les données par tout traitement approprié dans des documents directement utilisables pour les besoins du contrôle. Un décret en Conseil d’État précise les conditions dans lesquelles ils procèdent à ces constatations.
 
 « III. – Les visites conduites en application du II du présent article peuvent être préalablement autorisées dans les conditions prévues à l’article L. 32‑5.
 

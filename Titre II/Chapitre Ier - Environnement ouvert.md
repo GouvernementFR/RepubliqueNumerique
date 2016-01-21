@@ -35,7 +35,7 @@ b) À la fin du dernier alinéa, la référence : « o » est remplacée par
 
 4° Au 3° de l’article L. 36‑7, après le mot : « Union », sont insérés les mots : « , du règlement (UE) 2015/2120 du Parlement européen et du Conseil du 25 novembre 2015 établissant des mesures relatives à l’internet ouvert et modifiant la directive 2002/22/CE concernant le service universel et les droits des utilisateurs au regard des réseaux et services de communications électroniques et le règlement (UE) n° 531/2012 concernant l’itinérance sur les réseaux publics de communications mobiles à l’intérieur de l’Union » ;
 
-5° Le 5° du II de l’article L. 36‑8 du même code est ainsi modifié :
+5° Le 5° du II de l’article L. 36‑8 est ainsi modifié :
 
 a) Après le mot : « acheminement », sont insérés les mots : « , y compris de gestion, » ;
 
@@ -55,7 +55,13 @@ d) Le même I est complété par un alinéa ainsi rédigé :
 
 « Lorsque l’Autorité estime qu’il existe un risque caractérisé qu’un exploitant de réseau ou un fournisseur de services de communications électroniques ne respecte pas ses obligations, résultant des dispositions et prescriptions mentionnées au présent I, à l’échéance prévue initialement, elle peut mettre en demeure l’exploitant ou le fournisseur de s’y conformer à cette échéance. » ;
 
-e) À la première phrase du II, les mots : « ou un fournisseur de services de communications électroniques » sont remplacés par les mots : « , un fournisseur de services de communications électroniques ou un fournisseur de services de communication au public en ligne ».
+e) À la première phrase du II, les mots : « ou un fournisseur de services de communications électroniques » sont remplacés par les mots : « , un fournisseur de services de communications électroniques ou un fournisseur de services de communication au public en ligne ».
+
+Article 19 bis (nouveau)
+
+Le chapitre III du titre I<sup>er</sup> du livre I<sup>er</sup> de la première partie du code de la propriété intellectuelle est complété par un article L. 113‑11 ainsi rédigé :
+
+« Art. L. 113‑11. – Toute association régulièrement déclarée depuis au moins deux ans à la date des faits et se proposant, par ses statuts, de protéger la propriété intellectuelle, de défendre le domaine public ou de promouvoir la diffusion des savoirs peut exercer les droits reconnus à la partie civile et saisir le tribunal de grande instance afin de faire cesser tout obstacle à la libre réutilisation d’une œuvre entrée dans le domaine public. »
 
 Article 20
 

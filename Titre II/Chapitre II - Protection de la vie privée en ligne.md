@@ -146,15 +146,19 @@ L’article 40 de la loi n° 78‑17 du 6 janvier 1978 précitée est ainsi 
 
 « 2° Le conjoint non divorcé ;
 
-« 3° (nouveau) Les héritiers autres que les descendants qui recueillent tout ou partie de la succession ;
+« 3° Les héritiers autres que les descendants qui recueillent tout ou partie de la succession ;
 
-« 4° (nouveau) Les légataires universels ou donataires de l’universalité des biens à venir.
+« 4° Les légataires universels ou donataires de l’universalité des biens à venir.
 
-« En l’absence de directives, les droits mentionnés à la présente section s’éteignent avec le décès de leur titulaire.
+« En l’absence de directives, les droits mentionnés à la présente section s’éteignent avec le décès de leur titulaire. Toutefois, par dérogation :
 
-« Toutefois, par dérogation, les héritiers peuvent, après le décès de la personne concernée, avoir accès aux données contenues dans les traitements de données à caractère personnel de la personne lorsque celles-ci sont nécessaires à la liquidation et au partage de la succession.
+« a) Les héritiers peuvent, lorsque la personne est décédée, avoir accès aux données contenues dans les traitements de données à caractère personnel de la personne lorsque celles-ci sont nécessaires à la liquidation et au partage de la succession.
 
-« Lorsqu’un notaire a été désigné dans ce cadre, il peut demander l’accès à ces informations s’il joint à sa demande un mandat l’autorisant à agir au nom des ayants droit.
+« Lorsqu’un notaire a été désigné dans ce cadre, il peut demander l’accès à ces informations s’il joint à sa demande un mandat l’autorisant à agir au nom des ayants droit ;
+
+« b) (nouveau) Les héritiers de la personne décédée justifiant de leur identité peuvent, si des éléments portés à leur connaissance leur laissent présumer que des données à caractère personnel la concernant faisant l’objet d’un traitement n’ont pas été actualisées, exiger du responsable de ce traitement qu’il prenne en considération le décès et procède aux mises à jour qui doivent en être la conséquence ainsi qu’à la clôture du compte.
+
+« Lorsque les héritiers en font la demande, le responsable du traitement doit justifier, sans frais pour le demandeur, qu’il a procédé aux opérations exigées en application du premier alinéa du présent b ».
 
 « Tout prestataire d’un service de communication au public en ligne informe l’utilisateur du sort des données qui le concernent à son décès et lui permet de choisir de communiquer ou non ses données à un tiers qu’il désigne. »
 

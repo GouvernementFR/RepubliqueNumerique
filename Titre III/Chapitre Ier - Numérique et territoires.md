@@ -92,7 +92,7 @@ Article 37
 
 L’article L. 36‑7 du code des postes et des communications électroniques est complété par un 11° ainsi rédigé :
 
-« 11° Met à disposition du public, par voie électronique, dans un standard ouvert aisément réutilisable, sous réserve de mentionner leurs sources, les cartes numériques de couverture du territoire que les fournisseurs de services de communications électroniques sont tenus de publier en application du présent code et des décisions prises pour son application, ainsi que les données servant à les établir, que les fournisseurs transmettent préalablement à l’Autorité. »
+« 11° Met à disposition du public, sous forme électronique, dans un standard ouvert aisément réutilisable, sous réserve de mentionner leurs sources, les cartes numériques de couverture du territoire que les fournisseurs de services de communications électroniques sont tenus de publier en application du présent code et des décisions prises pour son application, ainsi que les données servant à les établir dont elle fixe la liste et que les fournisseurs lui transmettent préalablement. »
 
 Article 37 bis (nouveau)
 

@@ -50,6 +50,10 @@ b) (nouveau) La seconde phrase est ainsi rédigée :
 
 « L’avis de la commission sur un projet de loi est rendu public. » ;
 
+c) (nouveau) Est ajoutée une phrase ainsi rédigée :
+
+« Outre les cas prévus aux articles 26 et 27, lorsqu’une loi prévoit qu’un décret ou un arrêté est pris après avis de la commission, cet avis est publié avec le décret ou l’arrêté ; »
+
 1° bis (nouveau) Après le a, il est inséré un a bis ainsi rédigé :
 
 « a bis) Elle peut être consultée par le président d’une assemblée parlementaire sur une proposition de loi relative à la protection des personnes à l’égard des traitements automatisés ou comportant des dispositions relatives à la protection des données à caractère personnel ou au traitement de telles données, déposée par l’un des membres de cette assemblée, sauf si ce dernier s’y oppose.

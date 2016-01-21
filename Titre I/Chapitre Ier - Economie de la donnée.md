@@ -80,9 +80,9 @@ I. – La section 1 du chapitre II du titre I<sup>er</sup> du livre III du
 
 « Le présent article ne s’applique pas aux collectivités territoriales de moins de 3 500 habitants.
 
-« Art. L. 312‑1‑2. – Sauf dispositions législatives ou réglementaires contraires, lorsque les documents mentionnés aux articles L. 312‑1 ou L. 312‑1‑1 comportent des mentions entrant dans le champ d’application des articles L. 311‑5 ou L. 311‑6, ils ne peuvent être rendus publics qu’après avoir fait l’objet d’un traitement permettant d’occulter ces mentions.
+« Art. L. 312‑1‑2. – Sauf dispositions législatives ou réglementaires contraires, lorsque les documents et données mentionnés aux articles L. 312‑1 ou L. 312‑1‑1 comportent des mentions entrant dans le champ d’application des articles L. 311‑5 ou L. 311‑6, ils ne peuvent être rendus publics qu’après avoir fait l’objet d’un traitement permettant d’occulter ces mentions.
 
-« Sauf dispositions législatives ou réglementaires contraires ou si les personnes intéressées ont donné leur accord, lorsque les documents mentionnés aux articles L. 312‑1 ou L. 312‑1‑1 comportent des données à caractère personnel, ils ne peuvent être rendus publics qu’après avoir fait l’objet d’un traitement permettant de rendre impossible l’identification de ces personnes.
+« Sauf dispositions législatives ou réglementaires contraires ou si les personnes intéressées ont donné leur accord, lorsque les documents et données mentionnés aux articles L. 312‑1 ou L. 312‑1‑1 comportent des données à caractère personnel, ils ne peuvent être rendus publics qu’après avoir fait l’objet d’un traitement permettant de rendre impossible l’identification de ces personnes.
 
 « Les administrations mentionnées au premier alinéa de l’article L. 300‑2 ne sont pas tenues de publier les archives publiques issues des opérations de sélection prévues aux articles L. 212‑2 et L. 212‑3 du code du patrimoine. »
 

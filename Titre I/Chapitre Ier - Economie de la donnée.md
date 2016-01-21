@@ -260,7 +260,7 @@ La loi n° 51‑711 du 7 juin 1951 sur l’obligation, la coordination et le 
 
 « Les données transmises par les personnes morales de droit privé sollicitées pour ces enquêtes ne peuvent faire l’objet d’aucune communication de la part du service dépositaire. Seules sont soumises au livre II du code du patrimoine les informations issues de ces données qui ont été agrégées et qui ne permettent pas l’identification de ces personnes morales.
 
-« Les conditions dans lesquelles sont réalisées ces enquêtes, notamment leur faisabilité, leur opportunité, les modalités de collecte des données de même que, le cas échéant, celles de leur enregistrement temporaire font l’objet d’une concertation avec les personnes morales sollicitées pour l’enquête et sont fixées par voie réglementaire.
+« Les conditions dans lesquelles sont réalisées ces enquêtes, notamment leur faisabilité, leur opportunité, les modalités de collecte des données de même que, le cas échéant, celles de leur enregistrement temporaire et celles de leur destruction font l’objet d’une concertation avec les personnes morales sollicitées pour l’enquête et sont fixées par voie réglementaire.
 
 « II. – Par dérogation à l’article 7, en cas de refus de la personne morale sollicitée pour l’enquête de procéder à la transmission d’informations conformément à la décision prise dans les conditions mentionnées au I du présent article, le ministre chargé de l’économie met en demeure la personne enquêtée. Cette mise en demeure fixe le délai imparti à la personne sollicitée pour l’enquête pour faire valoir ses observations. Ce délai ne peut être inférieur à un mois.
 

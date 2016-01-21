@@ -125,7 +125,7 @@ a) Le premier alinéa du I est remplacé par deux alinéas ainsi rédigés :
 
 « I. – Les visites mentionnées au III de l’article L. 32‑4 sont autorisées par ordonnance du juge des libertés et de la détention du tribunal de grande instance dans le ressort duquel sont situés les lieux à visiter. Lorsque ces lieux sont situés dans le ressort de plusieurs juridictions et qu’une action simultanée doit être menée dans chacun d’eux, une ordonnance unique peut être délivrée par l’un des juges des libertés et de la détention compétents.
 
-« Le juge vérifie que la demande d’autorisation qui lui est soumise est fondée ; cette demande doit comporter tous les éléments d’information en possession du demandeur de nature à justifier la visite et la saisie. » ;
+« Le juge vérifie que la demande d’autorisation est fondée ; cette demande doit comporter tous les éléments d’information en possession du demandeur de nature à justifier la visite et la saisie. » ;
 
 b) Le premier alinéa du II est complété par une phrase ainsi rédigée :
 

@@ -52,9 +52,9 @@ II. – L’article L. 36‑11 du même code est ainsi modifié :
 
 3° Au cinquième alinéa du même I, après les mots : « l’exploitant » sont insérés les mots : « , le prestataire » ;
 
-4° À la première phrase du II, tel qu’il résulte de l’article 19 de la présente loi, après les mots : « fournisseur de services de communication au public en ligne », sont insérés les mots : « ou un prestataire de services d’envoi de recommandé électronique » ;
+4° À la première phrase du II, tel qu’il résulte de l’article 19 de la présente loi, après le mot : « ligne », sont insérés les mots : « ou un prestataire de services d’envoi de recommandé électronique » ;
 
-5° Au quatrième alinéa du III, les mots : « ou de fournir un service de communications électroniques » sont remplacés par les mots : « , de fournir un service de communications électroniques ou une prestation de services d’envoi de recommandé électronique » ;
+5° Au quatrième alinéa du III, après les mots : « service de communications électroniques », sont insérés les mots : « ou une prestation de services d’envoi de recommandé électronique » ;
 
 6° Au VII, après le mot : « opérateur », sont insérés les mots : « , pour un prestataire de services d’envoi de recommandé électronique ».
 

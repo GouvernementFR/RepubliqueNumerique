@@ -10,7 +10,7 @@ Article 40 A (nouveau)
 
 I. – À la première phrase de l’article L. 121‑47 du code de la consommation, dans sa rédaction résultant de la loi n° 2014‑344 du 17 mars 2014 relative à la consommation, après le mot : « destination », sont insérés les mots : « des numéros surtaxés ».
 
-II. – Après le mot : « applicable », la fin du IV de l’article 145 de la loi n° 2014‑344 du 17 mars 2014 précitée est ainsi rédigée : « dans un délai de six mois à compter de la publication de l’arrêté qu’il prévoit. »
+II. – Au IV de l’article 145 de la loi n° 2014‑344 du 17 mars 2014 précitée, les mots : « au plus tôt dix-huit mois après l’entrée en vigueur » sont remplacés par les mots : « dans un délai de six mois à compter de la publication ».
 
 Section 1
 

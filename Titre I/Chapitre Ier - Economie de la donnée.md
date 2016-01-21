@@ -86,7 +86,10 @@ I. – La section 1 du chapitre II du titre I<sup>er</sup> du livre III du
 
 « Les administrations mentionnées au premier alinéa de l’article L. 300‑2 ne sont pas tenues de publier les archives publiques issues des opérations de sélection prévues aux articles L. 212‑2 et L. 212‑3 du code du patrimoine lorsque ces archives ne sont pas disponibles sous forme électronique.
 
-II. – Un décret en Conseil d’État, pris après avis de la commission mentionnée à l’article L. 340‑1 du code des relations entre le public et l’administration, définit les modalités d’application des articles L. 312‑1 à L. 312‑1‑2 du même code.
+« Art. L. 312-1-3 (nouveau). – Les administrations mentionnées au premier alinéa de l’article L. 300‑2, à l’exception des personnes morales dont le nombre d’agents ou de salariés est inférieur à un seuil qui ne peut être supérieur à cinquante agents ou salariés, fixé par décret, rendent publics en ligne, dans un standard ouvert et aisément réutilisable, les règles définissant les principaux traitements algorithmiques utilisés dans l’accomplissement de leurs missions lorsqu’ils fondent des décisions individuelles. »
+
+II. – Un décret en Conseil d’État, pris après avis de la commission mentionnée à l’article L. 340‑1 du code des relations entre le public et l’administration, définit les modalités d’application des articles L. 312‑1 à L. 312‑1‑3 du même code.
+
 III (nouveau). – L’article L. 1112‑23 du code général des collectivités territoriales et l’article L. 125‑12 du code des communes de la Nouvelle‑Calédonie sont abrogés.
 
 Article 4 bis (nouveau)

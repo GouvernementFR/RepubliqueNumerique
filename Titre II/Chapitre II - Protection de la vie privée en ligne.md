@@ -144,7 +144,7 @@ L’article 40 de la loi n° 78‑17 du 6 janvier 1978 précitée est ainsi 
 
 « 1° (nouveau) Les descendants ;
 
-« 2° (nouveau) Le conjoint contre lequel n’existe pas un jugement passé en force de chose jugée de séparation de corps ou qui n’a pas contracté un nouveau mariage ;
+« 2° Le conjoint non divorcé ;
 
 « 3° (nouveau) Les héritiers autres que les descendants qui recueillent tout ou partie de la succession ;
 

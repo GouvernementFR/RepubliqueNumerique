@@ -307,8 +307,8 @@ I. – Après l’article L. 111‑5‑1 du code de la consommation, sont ins
 
 « Les informations mentionnées aux 1° à 4° sont communiquées à l’autorité administrative compétente. »
 
+II (nouveau). – À titre expérimental et pour une durée de trois ans à compter de la promulgation de la présente loi, le Gouvernement définit, par voie réglementaire, les conditions de mise en place et de gestion d’une plateforme d’échange citoyen qui permet, dans une logique participative, de recueillir et de comparer des avis d’utilisateurs sur le respect des obligations des opérateurs de plateforme en ligne mentionnées à l’article L. 111‑5‑1 du code de la consommation, de mettre en place des outils d’évaluation de leurs pratiques, d’élaborer des bonnes pratiques visant à renforcer leurs obligations de clarté, de transparence et de loyauté, de définir des indicateurs permettant d’apprécier le respect de ces obligations et de rendre périodiquement publics les résultats de l’évaluation des indicateurs mentionnés.
 
-II (nouveau). – À titre expérimental et pour une durée de trois ans à compter de la promulgation de la présente loi, le Conseil national du numérique peut mettre en place et gérer une plateforme d’échange citoyen qui permet, dans une logique participative, de recueillir et de comparer des avis d’utilisateurs sur le respect des obligations des opérateurs de plateforme en ligne mentionnées à l’article L. 111‑5 du code de la consommation, de mettre en place des outils d’évaluation de leurs pratiques et de publier des avis à destination du public.
 
 Article 24
 

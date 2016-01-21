@@ -20,13 +20,23 @@ Le chapitre III du titre III du livre V du code de la recherche est complét�
 
 « IV. – Les dispositions du présent article sont d’ordre public et toute clause contraire à celles‑ci est réputée non écrite. »
 
+Article 17 bis (nouveau)
+
+La seconde phrase du premier alinéa de l’article L. 611‑8 du code de l’éducation est remplacée par deux phrases ainsi rédigées :
+
+« Cette mise à disposition peut se substituer aux enseignements dispensés en présence des étudiants afin de permettre une formation universitaire à distance et une formation continue destinée à la promotion professionnelle de travailleurs et de demandeurs d’emplois éloignés des villes universitaires. Ces formations permettent la délivrance des diplômes universitaires dans des conditions de validation des acquis définies par décret. »
+
+Article 17 ter (nouveau)
+
+Le Gouvernement remet au Parlement, au plus tard deux ans après la promulgation de la présente loi, un rapport qui évalue les effets de l’article L. 533‑4 du code de la recherche sur le marché de l’édition scientifique et sur la circulation des idées et des données scientifiques françaises.
+
 Article 18
 
 Le chapitre IV de la loi n° 78‑17 du 6 janvier 1978 précitée est ainsi modifié :
 
 1° Après le I de l’article 22, il est inséré un I bis ainsi rédigé :
 
-« I bis. – Par dérogation au 1° des I et II de l’article 27, font également l’objet d’une déclaration auprès de la Commission nationale de l’informatique et des libertés les traitements qui portent sur des données à caractère personnel parmi lesquelles figure le numéro d’inscription des personnes au répertoire national d’identification des personnes physiques ou qui requièrent une consultation de ce répertoire, lorsque ces traitements ont exclusivement des finalités de statistique publique, sont mis en œuvre par le service statistique public et ne comportent aucune des données mentionnées au I de l’article 8 ou à l’article 9, à la condition que le numéro d’inscription à ce répertoire ait préalablement fait l’objet d’une opération cryptographique lui substituant un code statistique non signifiant, ainsi que les traitements ayant comme finalité exclusive de réaliser cette opération cryptographique. L’utilisation du code statistique non signifiant n’est autorisée qu’au sein du service statistique public.
+« I bis. – Par dérogation au 1° des I et II de l’article 27, font également l’objet d’une déclaration auprès de la Commission nationale de l’informatique et des libertés les traitements qui portent sur des données à caractère personnel parmi lesquelles figure le numéro d’inscription des personnes au répertoire national d’identification des personnes physiques ou qui requièrent une consultation de ce répertoire, lorsque ces traitements ont exclusivement des finalités de statistique publique, sont mis en œuvre par le service statistique public et ne comportent aucune des données mentionnées au I de l’article 8 ou à l’article 9, à la condition que le numéro d’inscription à ce répertoire ait préalablement fait l’objet d’une opération cryptographique lui substituant un code statistique non signifiant, ainsi que les traitements ayant comme finalité exclusive de réaliser cette opération cryptographique. L’utilisation du code statistique non signifiant n’est autorisée qu’au sein du service statistique public. L’opération cryptographique est renouvelée à une fréquence définie par le décret en Conseil d’État prévu au second alinéa du présent I bis.
 
 « Un décret en Conseil d’État, pris après avis motivé et publié de la Commission nationale de l’informatique et des libertés, définit les modalités d’application du premier alinéa du présent I bis. » ;
 

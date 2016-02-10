@@ -1,3 +1,5 @@
+# encoding utf-8
+
 Chapitre II
 
 Économie du savoir

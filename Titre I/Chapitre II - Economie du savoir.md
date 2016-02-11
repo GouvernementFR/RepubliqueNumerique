@@ -1,15 +1,15 @@
-Chapitre II
+## Chapitre II
 
 Économie du savoir
 
-Article 17 A (nouveau)
+#### Article 17 A (nouveau)
 
 À la fin de la seconde phrase de l’article L. 312‑9 du code de l’éducation, les mots : « et le
 Respect de la propriété intellectuelle » sont remplacés par les mots : « , le respect de la
 Propriété intellectuelle et de l’égalité entre les femmes et les hommes ainsi que la lutte contre
 Les violences commises au moyen d’un service de communication au public en ligne ».
 
-Article 17
+#### Article 17
 
 Le chapitre III du titre III du livre V du code de la recherche est complété par un article L.
 533‑4 ainsi rédigé :
@@ -44,7 +44,7 @@ Données de la recherche rendues publiques dans le cadre de sa publication.
 « IV. – Les dispositions du présent article sont d’ordre public et toute clause contraire à
 Celles‑ci est réputée non écrite. »
 
-Article 17 bis (nouveau)
+#### Article 17 bis (nouveau)
 
 La seconde phrase du premier alinéa de l’article L. 611‑8 du code de l’éducation est remplacée par
 Deux phrases ainsi rédigées :
@@ -55,13 +55,13 @@ Promotion professionnelle de travailleurs et de demandeurs d’emplois éloigné
 Universitaires. Ces formations permettent la délivrance des diplômes universitaires dans des
 Conditions de validation des acquis définies par décret. »
 
-Article 17 ter (nouveau)
+#### Article 17 ter (nouveau)
 
 Le Gouvernement remet au Parlement, au plus tard deux ans après la promulgation de la présente
 Loi, un rapport qui évalue les effets de l’article L. 533‑4 du code de la recherche sur le marché de
 L’édition scientifique et sur la circulation des idées et des données scientifiques françaises.
 
-Article 18
+#### Article 18
 
 Le chapitre IV de la loi n° 78‑17 du 6 janvier 1978 précitée est ainsi modifié :
 
@@ -104,7 +104,7 @@ L’informatique et des libertés, définit les modalités d’application du pr
 3° Au début du 1° des I et II de l’article 27, sont ajoutés les mots : « Sous réserve du I bis de
 L’article 22 et du 9° du I de l’article 25, ».
 
-Article 18 bis (nouveau)
+#### Article 18 bis (nouveau)
 
 Le code de la propriété intellectuelle est ainsi modifié :
 
@@ -126,7 +126,7 @@ Issues des traitements, au terme des activités de recherche pour lesquelles ell
 Sont assurées par des organismes désignés par décret. Les autres copies ou reproductions sont
 Détruites. »
 
-Article 18 ter (nouveau)
+#### Article 18 ter (nouveau)
 
 Après le second alinéa du 9° de l’article L. 122‑5 du code de la propriété intellectuelle, il est
 Inséré un 11° ainsi rédigé :
@@ -134,7 +134,7 @@ Inséré un 11° ainsi rédigé :
 « 11° Les reproductions et représentations d’œuvres architecturales et de sculptures, placées en
 Permanence sur la voie publique, réalisées par des particuliers à des fins non lucratives. »
 
-Article 18 quater (nouveau)
+#### Article 18 quater (nouveau)
 
 Les outils numériques et de l’internet étant d’usage banalisé, les langages et logiciels
 Facilement accessibles et leurs utilisations en ligne valorisées par les administrations et les

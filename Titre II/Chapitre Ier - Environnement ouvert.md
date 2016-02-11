@@ -3,15 +3,15 @@ TITRE II
 La protection DES DROITS
 Dans la société numérique
 
-Chapitre I<sup>er</sup>
+## Chapitre I<sup>er</sup>
 
 Environnement ouvert
 
-Section 1
+### Section 1
 
 Neutralité de l’internet
 
-Article 19
+#### Article 19
 
 Le titre I<sup>er</sup> du livre II du code des postes et des communications électroniques est
 Ainsi modifié :
@@ -85,7 +85,7 @@ E) À la première phrase du II, les mots : « ou un fournisseur de services de 
 électroniques » sont remplacés par les mots : « , un fournisseur de services de communications
 électroniques ou un fournisseur de services de communication au public en ligne ».
 
-Article 19 bis (nouveau)
+#### Article 19 bis (nouveau)
 
 Le chapitre III du titre I<sup>er</sup> du livre I<sup>er</sup> de la première partie du code de
 La propriété intellectuelle est complété par un article L. 113‑11 ainsi rédigé :
@@ -96,7 +96,7 @@ Domaine public ou de promouvoir la diffusion des savoirs peut exercer les droits
 Partie civile et saisir le tribunal de grande instance afin de faire cesser tout obstacle à la libre
 Réutilisation d’une œuvre entrée dans le domaine public. »
 
-Article 20
+#### Article 20
 
 L’article L. 33‑1 du code des postes et des communications électroniques est complété par un VI
 Ainsi rédigé :
@@ -110,13 +110,13 @@ Connecté à internet, par l’intermédiaire du service d’accès auquel il a 
 
 « 2° Ou de donner à des tiers accès à ces données. »
 
-Article 20 bis A (nouveau)
+#### Article 20 bis A (nouveau)
 
 À compter du 1<sup>er</sup> janvier 2018, tout équipement terminal, au sens de l’article L. 32 du
 Code des postes et des communications électroniques, destiné à la vente ou la location sur le
 Territoire français est compatible avec la norme IPV6.
 
-Article 20 bis (nouveau)
+#### Article 20 bis (nouveau)
 
 Le code des postes et des communications électroniques est ainsi modifié :
 
@@ -225,13 +225,13 @@ C) Le IV est ainsi modifié :
 Sous scellés. L’occupant des lieux ou son représentant est avisé qu’il peut assister à l’ouverture
 Des scellés ; l’inventaire est alors établi. »
 
-Article 20 ter (nouveau)
+#### Article 20 ter (nouveau)
 
 À la première phrase du deuxième alinéa de l’article L. 125 du code des postes et des
 Communications électroniques, après la deuxième occurrence du mot : « et », sont insérés les mots :
 « étudie les questions relatives à la neutralité de l’internet. Elle ».
 
-Article 20 quater (nouveau)
+#### Article 20 quater (nouveau)
 
 I. – Aux premier et troisième alinéas de l’article L. 2, au II de l’article L. 2‑2, à la première
 Phrase du premier alinéa de l’article L. 33‑2, à la dernière phrase de l’avant-dernier alinéa de
@@ -250,7 +250,7 @@ Service public de la poste et à France Télécom, les mots : « supérieure du 
 Et des communications électroniques » sont remplacés par les mots : « parlementaire du numérique et
 Des postes ».
 
-Article 20 quinquies (nouveau)
+#### Article 20 quinquies (nouveau)
 
 L’article L. 130 du code des postes et des communications électroniques est ainsi modifié :
 
@@ -267,7 +267,7 @@ De même sexe que celui auquel il succède. » ;
 
 « Ce nouveau membre est de même sexe que celui qu’il remplace. »
 
-Article 20 sexies (nouveau)
+#### Article 20 sexies (nouveau)
 
 Le I de l’article 6 de la loi n° 2004‑575 du 21 juin 2004 pour la confiance dans l’économie
 Numérique est ainsi modifié :
@@ -277,7 +277,7 @@ Numérique est ainsi modifié :
 2° Au premier alinéa du 3 et à la fin du premier alinéa et, deux fois, à la seconde phrase du
 Quatrième alinéa du 7, le mot : « illicites » est remplacé par le mot : « illégales ».
 
-Article 20 septies (nouveau)
+#### Article 20 septies (nouveau)
 
 L’article 323‑1 du code pénal est complété par un alinéa ainsi rédigé :
 
@@ -286,11 +286,11 @@ De peine si elle a immédiatement averti l’autorité administrative ou judicia
 Système de traitement automatisé de données en cause d’un risque d’atteinte aux données ou au
 Fonctionnement du système. »
 
-Section 2
+### Section 2
 
 Portabilité et récupération des données
 
-Article 21 A (nouveau)
+#### Article 21 A (nouveau)
 
 L’article L. 131‑2 du code de l’éducation est complété par un alinéa ainsi rédigé :
 
@@ -298,7 +298,7 @@ L’article L. 131‑2 du code de l’éducation est complété par un alinéa a
 Peuvent organiser par convention la récupération par les élèves de leurs données scolaires sous
 Format numérique. »
 
-Article 21
+#### Article 21
 
 I. – Le livre I<sup>er</sup> du code de la consommation est ainsi modifié :
 
@@ -389,11 +389,11 @@ Références : « 12, 15 et 20 ».
 II. – Le présent article entre en vigueur dix‑huit mois à compter de la date de publication de la
 Présente loi.
 
-Section 3
+### Section 3
 
 Loyauté des plateformes et information des consommateurs
 
-Article 22
+#### Article 22
 
 Le chapitre I<sup>er</sup> du livre I<sup>er</sup> du code de la consommation est ainsi modifié :
 
@@ -405,7 +405,8 @@ A) Le premier alinéa est remplacé par huit alinéas ainsi rédigés :
 
 « Sans préjudice de la loi n° 2004‑575 du 21 juin 2004 pour la confiance dans l’économie numérique,
 Est qualifiée d’opérateur de plateforme en ligne toute personne physique ou morale proposant, à
-Titre professionnel, de manière rémunérée ou non, un service de communication en ligne reposant sur
+# Titre professionnel, de manière rémunérée ou non, un service de communication en ligne reposant
+sur
 :
 
 « 1° Le classement ou le référencement, au moyen d’algorithmes informatiques, de contenus, de biens
@@ -437,7 +438,7 @@ B) Aux deuxième et troisième alinéas, les mots : « la personne mentionnée a
 Présent article est également tenue » sont remplacés par les mots : « l’opérateur de plateforme en
 Ligne est également tenu ».
 
-Article 22 bis (nouveau)
+#### Article 22 bis (nouveau)
 
 L’article L. 111‑7 du code de la consommation est complété par trois alinéas ainsi rédigés :
 
@@ -452,7 +453,7 @@ De l’Union européenne, dirigent par tout moyen leur activité vers le territo
 Le consommateur a sa résidence habituelle ou causent un dommage à un consommateur sur le territoire
 Français. »
 
-Article 23
+#### Article 23
 
 I. – Après l’article L. 111‑5‑1 du code de la consommation, sont insérés des articles L. 111‑5‑2
 Et L. 111‑5‑2‑1 ainsi rédigés :
@@ -500,7 +501,7 @@ Leurs obligations de clarté, de transparence et de loyauté, de définir des in
 D’apprécier le respect de ces obligations et de rendre périodiquement publics les résultats de
 L’évaluation des indicateurs mentionnés.
 
-Article 23 bis (nouveau)
+#### Article 23 bis (nouveau)
 
 I. – Les plateformes ayant pour objet des prestations de services proposées par des professions
 Réglementées doivent recevoir un avis conforme de l’institution chargée de l’application des règles
@@ -516,7 +517,7 @@ Réglementée concernée.
 III. – Les modalités d’application du référentiel, de la procédure de labellisation et de
 L’accréditation sont fixées par décret en Conseil d’État.
 
-Article 23 ter (nouveau)
+#### Article 23 ter (nouveau)
 
 L’article L. 631‑7‑1 A du code de la construction et de l’habitation est complété par un alinéa
 Ainsi rédigé :
@@ -528,7 +529,7 @@ Assurent un service de mise en relation en vue de la location d’hébergements.
 Justification de la qualité de propriétaire ou de l’autorisation du bailleur est puni, pour le
 Loueur et les professionnels précités, conformément aux articles L. 651‑2 et L. 651‑3. »
 
-Article 24
+#### Article 24
 
 Le chapitre I<sup>er</sup> du titre I<sup>er</sup> du livre I<sup>er</sup> du code de la
 Consommation est ainsi modifié :
@@ -558,7 +559,7 @@ Modalités et le contenu de ces informations. » ;
 2° À l’article L. 111‑6‑1, la référence : « et L. 111‑5‑1 » est remplacée par la référence : « à
 L. 111‑5‑3 ».
 
-Article 25
+#### Article 25
 
 I. – L’article L. 121‑83 du code de la consommation est ainsi modifié :
 

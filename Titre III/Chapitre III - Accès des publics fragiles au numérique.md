@@ -1,12 +1,12 @@
-Chapitre III
+## Chapitre III
 
 Accès des publics fragiles au numérique
 
-Section 1
+### Section 1
 
 Accès des personnes handicapées aux services téléphoniques
 
-Article 43
+#### Article 43
 
 I. – L’article 78 de la loi n° 2005‑102 du 11 février 2005 sur l’égalité des droits et des
 Chances, la participation et la citoyenneté des personnes handicapées est ainsi modifié :
@@ -72,11 +72,11 @@ Décret, et au plus tard cinq ans après la promulgation de la présente loi. Le
 Une date fixée par décret, et au plus tard deux ans après la promulgation de la présente loi. Le
 Décret précise également les modalités de suivi de l’application du présent article.
 
-Section 2
+### Section 2
 
 Accès des personnes handicapées aux sites internet publics
 
-Article 44
+#### Article 44
 
 I. – L’article 47 de la loi n° 2005‑102 du 11 février 2005 précitée est ainsi rédigé :
 
@@ -124,11 +124,11 @@ Participation et la citoyenneté des personnes handicapées. » ;
 2° L’avant-dernier alinéa est complété par les mots : « ainsi qu’à l’article 47 de la loi n°
 2005‑102 du 11 février 2005 précitée. »
 
-Section 3
+### Section 3
 
 Maintien de la connexion à internet
 
-Article 45
+#### Article 45
 
 I. – L’article L. 115‑3 du code de l’action sociale et des familles est ainsi modifié :
 
@@ -160,7 +160,7 @@ Par les mots : « , de services téléphoniques ou de services d’accès à int
 3° (nouveau) Au deuxième alinéa de l’article 6‑3, après le mot : « eau », sont insérés les mots :
 « ou de services téléphoniques ou d’accès à internet ».
 
-Article 45 bis (nouveau)
+#### Article 45 bis (nouveau)
 
 Le code du travail est ainsi modifié :
 
@@ -170,13 +170,13 @@ Le code du travail est ainsi modifié :
 2° Le troisième alinéa de l’article L. 6321‑1 est complété par les mots : « et l’illettrisme
 Numérique ».
 
-Chapitre IV
+## Chapitre IV
 
 Accès des personnes détenues à internet
 
 (Division et intitulé nouveaux)
 
-Article 45 ter (nouveau)
+#### Article 45 ter (nouveau)
 
 Il est remis au Parlement, avant le 1<sup>er</sup> janvier 2017, un rapport sur les conditions et
 Les modalités de mise en œuvre de l’accès au numérique de toutes les personnes privées de liberté.

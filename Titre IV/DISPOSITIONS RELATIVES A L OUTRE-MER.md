@@ -2,7 +2,7 @@ TITRE IV
 
 DISPOSITIONS RELATIVES À L’OUTRE‑MER
 
-Article 46
+#### Article 46
 
 I. – Les articles 1<sup>er</sup> à 9, les I et III de l’article 10, les articles 11, 13 à 16, 18,
 26 à 33, 41 et les I et IV de l’article 43 de la présente loi sont applicables en
@@ -20,7 +20,7 @@ IV. – Les articles 1<sup>er</sup> à 9, les I et III de l’article 10, les ar
 33, les I et IV de l’article 43 et le I de l’article 44 sont applicables dans les Terres australes
 Et antarctiques françaises.
 
-Article 47
+#### Article 47
 
 I. – Le livre I<sup>er</sup> du code de la consommation est ainsi modifié :
 
@@ -192,14 +192,14 @@ Résultant de l’article 34 de la présente loi, est complété par un IV ainsi
 
 « IV. – Le présent article est applicable dans les îles Wallis et Futuna. »
 
-Article 48
+#### Article 48
 
 I. – L’article 59 de la loi n° 78‑753 du 17 juillet 1978 portant diverses mesures d’amélioration
 Des relations entre l’administration et le public et diverses dispositions d’ordre administratif,
 Social et fiscal est ainsi modifié :
 
 1° (nouveau) Au I, après le mot : « française », sont insérés les mots : « , à l’exception des
-Articles 10 à 12, du premier alinéa de l’article 13 et des articles 14 à 19 et 25, » ;
+#### Articles 10 à 12, du premier alinéa de l’article 13 et des articles 14 à 19 et 25, » ;
 
 2° Le III est complété par un 3° ainsi rédigé :
 

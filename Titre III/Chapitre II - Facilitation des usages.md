@@ -1,15 +1,15 @@
-Chapitre ii
+## Chapitre ii
 
 Facilitation des usages
 
-Article 40 AA (nouveau)
+#### Article 40 AA (nouveau)
 
 Le Gouvernement remet au Parlement, dans les trois mois suivant la promulgation de la présente
 Loi, un rapport sur les mesures nécessaires au développement des échanges dématérialisés, notamment
 L’identité numérique, la valeur probante des documents numériques ou numérisés et la certification
 De solutions de coffre-fort électronique.
 
-Article 40 A (nouveau)
+#### Article 40 A (nouveau)
 
 I. – À la première phrase de l’article L. 121‑47 du code de la consommation, dans sa rédaction
 Résultant de la loi n° 2014‑344 du 17 mars 2014 relative à la consommation, après le mot : «
@@ -19,11 +19,11 @@ II. – Au IV de l’article 145 de la loi n° 2014‑344 du 17 mars 2014 préci
 Tôt dix-huit mois après l’entrée en vigueur » sont remplacés par les mots : « dans un délai de six
 Mois à compter de la publication ».
 
-Section 1
+### Section 1
 
 Recommandé électronique
 
-Article 40
+#### Article 40
 
 I. – Le livre III du code des postes et des communications électroniques est ainsi modifié :
 
@@ -90,12 +90,12 @@ Insérés les mots : « ou une prestation de services d’envoi de recommandé �
 6° Au VII, après le mot : « opérateur », sont insérés les mots : « , pour un prestataire de
 Services d’envoi de recommandé électronique ».
 
-Section 2
+### Section 2
 
 Paiement par facturation
 De l’opérateur de communications électroniques
 
-Article 41
+#### Article 41
 
 I. – Le code monétaire et financier est ainsi modifié :
 
@@ -211,15 +211,16 @@ De l’article L. 521‑3 et aux deux premiers alinéas et aux trois derniers al
 311‑4 » est supprimée.
 
 II. – La date d’entrée en vigueur du présent article est fixée par décret conformément aux
-Articles 115 et 116 de la directive 2015/2366/UE du Parlement européen et du Conseil du 25 novembre
+#### Articles 115 et 116 de la directive 2015/2366/UE du Parlement européen et du Conseil du 25
+novembre
 2015 concernant les services de paiement dans le marché intérieur et modifiant les directives
 2002/65/CE, 2013/36/UE et le règlement (UE) n° 1099/2010 et abrogeant la directive 2007/64/CE.
 
-Section 3
+### Section 3
 
 Compétitions de jeux vidéo
 
-Article 42
+#### Article 42
 
 I. – Un agrément peut être délivré par le ministre chargé de la jeunesse aux organisateurs de
 Compétitions de jeux vidéo, notamment à dominante sportive, requérant la présence physique des
@@ -236,7 +237,7 @@ Joueurs, qui présentent des garanties visant à :
 II. – Un arrêté du ministre chargé de la jeunesse fixe la liste des logiciels de loisirs, sur un
 Support physique ou en ligne, s’appuyant sur une trame scénarisée ou des situations simulées, pour
 Lesquels les organisateurs de compétitions peuvent bénéficier de l’agrément prévu au I du présent
-Article.
+#### Article.
 
 Ces logiciels de loisirs font prédominer, dans l’issue de la compétition, les combinaisons de
 L’intelligence et l’habilité des joueurs, en mettant à leur disposition des commandes et des

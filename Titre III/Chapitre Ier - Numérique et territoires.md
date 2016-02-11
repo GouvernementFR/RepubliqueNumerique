@@ -2,15 +2,15 @@ TITRE III
 
 L’accÈs au numérique
 
-Chapitre I<sup>er</sup>
+## Chapitre I<sup>er</sup>
 
 Numérique et territoires
 
-Section 1
+### Section 1
 
 Compétences et organisation
 
-Article 35
+#### Article 35
 
 Le chapitre V du titre II du livre IV de la première partie du code général des collectivités
 Territoriales est complété par un article L. 1425‑3 ainsi rédigé :
@@ -29,7 +29,7 @@ Social et environnemental régional, des conseils de développement concernés e
 Directeur territorial d’aménagement numérique à un pôle métropolitain. Dans ce cas, les opérateurs
 Ont l’obligation d’une couverture équilibrée entre les territoires urbains, périurbains et ruraux. »
 
-Article 36
+#### Article 36
 
 Après le deuxième alinéa du I de l’article L. 1425‑1 du code général des collectivités
 Territoriales, sont insérés deux alinéas ainsi rédigés :
@@ -44,16 +44,16 @@ Mixte n’est possible que si ce dernier comprend au moins une région ou un dé
 Des compétences mentionnées au premier alinéa du présent I ne peut plus être membre d’un syndicat
 Mixte relevant du titre II du livre VII. »
 
-Article 36 bis (nouveau)
+#### Article 36 bis (nouveau)
 
 Le second alinéa de l’article L. 33‑11 du code des postes et des communications électroniques est
 Complété par les mots : « avant le 31 décembre 2016 ».
 
-Section 2
+### Section 2
 
 Couverture numérique
 
-Article 37 A (nouveau)
+#### Article 37 A (nouveau)
 
 L’article L. 1615‑7 du code général des collectivités territoriales est complété par un alinéa
 Ainsi rédigé :
@@ -64,7 +64,7 @@ Réalisées sur la période 2015‑2022, sous maîtrise d’ouvrage publique, en
 Passives intégrant leur patrimoine dans le cadre du plan d’action relatif à l’extension de la
 Couverture du territoire par les réseaux de téléphonie mobile. »
 
-Article 37 B (nouveau)
+#### Article 37 B (nouveau)
 
 L’article L. 48 du code des postes et des communications électroniques est ainsi modifié :
 
@@ -88,9 +88,9 @@ A) Les mots : « qu’elle résulte du partage d’une installation déjà autor
 Servitude et » sont supprimés ;
 
 B) La référence : « à l’article L. 45‑9 » est remplacée par la référence : « au c du présent
-Article ».
+#### Article ».
 
-Article 37 C (nouveau)
+#### Article 37 C (nouveau)
 
 L’article 24‑2 de la loi n° 65‑557 du 10 juillet 1965 fixant le statut de la copropriété des
 Immeubles bâtis est complété par deux alinéas ainsi rédigés :
@@ -110,7 +110,7 @@ Des postes et des communications électroniques, fait l’objet d’une conventi
 Conditions prévues à l’article L. 33‑6 du même code avec le syndicat des copropriétaires, après avis
 Du conseil syndical lorsque celui-ci a été institué. »
 
-Article 37 D (nouveau)
+#### Article 37 D (nouveau)
 
 La seconde phrase du 7° du I de l’article 39 decies du code général des impôts est remplacée par
 Trois phrases ainsi rédigées :
@@ -124,7 +124,7 @@ Par dérogation au même premier alinéa, la déduction s’applique aux droits 
 Mentionnés au présent 7° qui sont acquis ou fabriqués par l’entreprise à compter du 1<sup>er</sup>
 Janvier 2016 et jusqu’au 31 décembre 2016. »
 
-Article 37 E (nouveau)
+#### Article 37 E (nouveau)
 
 Après le troisième alinéa de l’article L. 34‑8‑3 du code des postes et des communications
 électroniques, il est inséré un alinéa ainsi rédigé :
@@ -134,7 +134,7 @@ Zone de déploiement, elle peut réserver l’application de cette péréquation
 Ne déploient pas de lignes à très haut débit en fibre optique permettant de desservir des logements
 Situés dans cette zone. »
 
-Article 37 F (nouveau)
+#### Article 37 F (nouveau)
 
 Le septième alinéa du III de l’article L. 36‑11 du code des postes et des communications
 électroniques est ainsi rédigé :
@@ -147,7 +147,7 @@ Fréquences qui lui a été attribuée. Sont notamment considérées comme non c
 Présent alinéa, les zones rurales dans lesquelles l’entretien et la maintenance des matériels,
 Logiciels et installations constituant le réseau ne sont pas normalement assurés ; ».
 
-Article 37
+#### Article 37
 
 L’article L. 36‑7 du code des postes et des communications électroniques est complété par un 11°
 Ainsi rédigé :
@@ -159,7 +159,7 @@ Application du présent code et des décisions prises pour son application, ains
 Servant à les établir dont elle fixe la liste et que les fournisseurs lui transmettent
 Préalablement. »
 
-Article 37 bis (nouveau)
+#### Article 37 bis (nouveau)
 
 Le II de l’article 52‑1 de la loi n° 2004‑575 du 21 juin 2004 pour la confiance dans l’économie
 Numérique est complété par une phrase ainsi rédigée :
@@ -169,7 +169,7 @@ Alinéa du III de l’article 52 peut demander à figurer sur une liste complém
 Mêmes conditions dans un délai de six mois à compter de la promulgation de la loi n° du pour une
 République numérique. »
 
-Article 38
+#### Article 38
 
 Le chapitre V du titre II du livre I<sup>er</sup> de la deuxième partie du code général de la
 Propriété des personnes publiques est complété par une section 4 ainsi rédigée :
@@ -191,7 +191,7 @@ Utilisateur ne donne pas lieu au paiement d’une redevance.
 « L’utilisation des fréquences radioélectriques autorisées à des fins exclusivement expérimentales
 Peut ne pas donner lieu au paiement d’une redevance. »
 
-Article 39
+#### Article 39
 
 Le livre II du code des postes et des communications électroniques est ainsi modifié :
 
@@ -211,7 +211,7 @@ Deuxième ou troisième alinéas de l’article L. 35‑2 remet au ministre char
 Rapport présentant un état des lieux détaillé de son réseau fixe. Ce rapport comporte une analyse, à
 L’échelle du département, de l’état du réseau lorsque ne sont pas remplies les obligations,
 Notamment de qualité, prévues par le cahier des charges mentionné à l’avant‑dernier alinéa du même
-Article L. 35‑2.
+#### Article L. 35‑2.
 
 « Sauf si leur divulgation est susceptible de porter atteinte au secret des affaires, au secret
 Commercial ou au secret statistique, l’Autorité de régulation des communications électroniques et

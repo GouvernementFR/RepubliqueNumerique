@@ -1,12 +1,12 @@
-Chapitre II
+## Chapitre II
 
 Protection de la vie privée en ligne
 
-Section 1
+### Section 1
 
 Protection des données à caractère personnel
 
-Article 26
+#### Article 26
 
 L’article 1<sup>er</sup> de la loi n° 78‑17 du 6 janvier 1978 précitée est complété par un alinéa
 Ainsi rédigé :
@@ -14,28 +14,28 @@ Ainsi rédigé :
 « Toute personne dispose du droit de décider et de contrôler les usages qui sont faits des données
 à caractère personnel la concernant, dans les conditions fixées par la présente loi. »
 
-Article 26 bis (nouveau)
+#### Article 26 bis (nouveau)
 
 Le dernier alinéa de l’article 11 de la loi n° 78‑17 du 6 janvier 1978 précitée est complété par
 Les mots : « et comprenant des données sexuées, concernant en particulier la mise en œuvre du II de
 L’article 40. »
 
-Article 26 ter (nouveau)
+#### Article 26 ter (nouveau)
 
 Au premier alinéa de l’article 31 de la loi n° 78‑17 du 6 janvier 1978 précitée, après le mot : «
 Public », sont insérés les mots : « , dans un format ouvert et aisément réutilisable, ».
 
-Article 27
+#### Article 27
 
 Après le 7° du I de l’article 32 de la loi n° 78‑17 du 6 janvier 1978 précitée, il est inséré un
 8° ainsi rédigé :
 
 « 8° De la durée de conservation des catégories de données traitées. »
 
-Article 28
+#### Article 28
 
 I. – La section 2 du chapitre V de la loi n° 78‑17 du 6 janvier 1978 précitée est complétée par un
-Article 43‑1 ainsi rédigé :
+#### Article 43‑1 ainsi rédigé :
 
 « Art. 43‑1. – Sauf dans le cas prévu au 1° du I de l’article 26, lorsque le responsable de
 Traitement a collecté des données à caractère personnel par voie électronique, il permet à toute
@@ -45,7 +45,7 @@ Personne d’exercer par voie électronique les droits prévus au présent chapi
 1<sup>er</sup> de l’ordonnance n° 2005‑1516 du 8 décembre 2005 relative aux échanges électroniques
 Entre les usagers et les autorités administratives et entre les autorités administratives, le
 Principe énoncé au premier alinéa du présent article est mis en œuvre dans les conditions fixées aux
-Articles L. 112‑7 et suivants du code des relations entre le public et l’administration. »
+#### Articles L. 112‑7 et suivants du code des relations entre le public et l’administration. »
 
 II. – L’article L. 112‑10 du code des relations entre le public et l’administration est complété
 Par un alinéa ainsi rédigé :
@@ -53,9 +53,9 @@ Par un alinéa ainsi rédigé :
 « Le premier alinéa du présent article s’applique lorsque, en application de l’article 43‑1 de la
 Loi n° 78‑17 du 6 janvier 1978 relative à l’informatique, au fichiers et aux libertés, l’autorité
 Administrative doit permettre à toute personne d’exercer par voie électronique les droits prévus au
-Chapitre V de la même loi. »
+## Chapitre V de la même loi. »
 
-Article 29
+#### Article 29
 
 Le 4° de l’article 11 de la loi n° 78‑17 du 6 janvier 1978 précitée est ainsi modifié :
 
@@ -99,14 +99,14 @@ Des débats publics ;
 « f) Elle promeut, dans le cadre de ses missions, l’utilisation des technologies protectrices de la
 Vie privée, notamment les technologies de chiffrement des données. »
 
-Article 29 bis (nouveau)
+#### Article 29 bis (nouveau)
 
 (Supprimé)
 
-Article 30
+#### Article 30
 
 La section 1 du chapitre V de la loi n° 78‑17 du 6 janvier 1978 précitée est complétée par un
-Article 37‑1 ainsi rédigé :
+#### Article 37‑1 ainsi rédigé :
 
 « Art. 37‑1. – La Commission nationale de l’informatique et des libertés peut certifier ou
 Homologuer et publier des référentiels ou des méthodologies générales aux fins de certification de
@@ -119,7 +119,7 @@ Dispositions d’ordre administratif, social et fiscal.
 « Il en est tenu compte, le cas échéant, pour la mise en œuvre des sanctions prévues au chapitre
 VII de la présente loi. »
 
-Article 30 bis (nouveau)
+#### Article 30 bis (nouveau)
 
 I. – L’article L. 135 du code des postes et des communications électroniques est complété par un
 Alinéa ainsi rédigé :
@@ -135,7 +135,7 @@ L’informatique, aux fichiers et aux libertés, il est inséré un alinéa ains
 Régulation des communications électroniques et des postes de toute question relevant de la
 Compétence de celle-ci. »
 
-Article 31
+#### Article 31
 
 L’article 36 de la loi n° 78‑17 du 6 janvier 1978 précitée est complété par un alinéa ainsi rédigé
 :
@@ -143,7 +143,7 @@ L’article 36 de la loi n° 78‑17 du 6 janvier 1978 précitée est complété
 « – soit en vertu de directives de la personne concernée, dans les conditions définies au III de
 L’article 40. »
 
-Article 32
+#### Article 32
 
 L’article 40 de la loi n° 78‑17 du 6 janvier 1978 précitée est ainsi modifié :
 
@@ -246,7 +246,7 @@ Présent b ».
 Des données qui le concernent à son décès et lui permet de choisir de communiquer ou non ses données
 à un tiers qu’il désigne. »
 
-Article 33
+#### Article 33
 
 I. – L’article 45 de la loi n° 78‑17 du 6 janvier 1978 précitée est ainsi modifié :
 
@@ -295,10 +295,10 @@ Leur frais, chacune des personnes concernées. »
 III (nouveau). – Au second alinéa de l’article 226‑16 du code pénal, la référence : « 2° » est
 Remplacée par la référence : « 3° ».
 
-Article 33 bis A (nouveau)
+#### Article 33 bis A (nouveau)
 
 La section 2 du chapitre V de la loi n° 78‑17 du 6 janvier 1978 précitée est complétée par un
-Article 43‑2 ainsi rédigé :
+#### Article 43‑2 ainsi rédigé :
 
 « Art. 43‑2. – Les personnes suivantes peuvent exercer devant une juridiction civile une action
 Collective de protection des données personnelles afin d’obtenir la cessation d’une violation de la
@@ -317,7 +317,7 @@ Personnelles affecte des consommateurs ;
 « L’exercice de l’action est subordonné à l’accomplissement de démarches préalables auprès du
 Responsable de traitement afin qu’il fasse cesser la violation. »
 
-Article 33 bis B (nouveau)
+#### Article 33 bis B (nouveau)
 
 Les deux premiers alinéas de l’article 47 de la loi n° 78‑17 du 6 janvier 1978 précitée sont ainsi
 Rédigés :
@@ -339,7 +339,7 @@ Maximal est de 10 millions d’euros ou, s’agissant d’une entreprise, de 2 %
 Annuel total au niveau mondial réalisé lors de l’exercice précédant l’exercice au cours duquel le
 Manquement a été commis, si ce montant est plus élevé. »
 
-Article 33 bis (nouveau)
+#### Article 33 bis (nouveau)
 
 Le chapitre VII de la loi n° 78‑17 du 6 janvier 1978 précitée est complété par un article 49 bis
 Ainsi rédigé :
@@ -354,7 +354,7 @@ S’agit d’un traitement mentionné aux I ou II de l’article 26.
 Exerçant des compétences analogues aux leurs dans un autre État non membre de l’Union européenne,
 Dès lors que celui-ci offre un niveau de protection adéquat des données à caractère personnel,
 Prendre les mesures mentionnées aux articles 45 à 47, dans les conditions prévues aux mêmes
-Articles, sauf s’il s’agit d’un traitement mentionné aux I ou II de l’article 26.
+#### Articles, sauf s’il s’agit d’un traitement mentionné aux I ou II de l’article 26.
 
 « La commission est habilitée à communiquer les informations qu’elle recueille ou qu’elle détient,
 à leur demande, aux autorités exerçant des compétences analogues aux siennes dans d’autres États non
@@ -365,7 +365,7 @@ Caractère personnel.
 Organisant ses relations avec l’autorité exerçant des compétences analogues aux siennes. Cette
 Convention est publiée au Journal officiel. »
 
-Article 33 ter A (nouveau)
+#### Article 33 ter A (nouveau)
 
 La section 1 du chapitre IV du titre I<sup>er</sup> du livre II du code des postes et des
 Communications électroniques est complétée par un article L. 36‑14 ainsi rédigé :
@@ -376,18 +376,18 @@ Et manquements à la loi n° 78‑17 du 6 janvier 1978 relative à l’informati
 Libertés et peuvent communiquer ces constatations à la Commission nationale de l’informatique et des
 Libertés. »
 
-Article 33 ter (nouveau)
+#### Article 33 ter (nouveau)
 
 Après l’article 2‑23 du code de procédure pénale, il est inséré un article 2‑24 ainsi rédigé :
 
 « Art. 2‑24. – Toute association régulièrement déclarée depuis au moins deux ans à la date des
 Faits et se proposant, par ses statuts, de protéger les données personnelles ou la vie privée peut
 Exercer les droits reconnus à la partie civile en ce qui concerne les infractions prévues aux
-Articles 226‑16 à 226-24 du code pénal. Toutefois, quand l’infraction a été commise envers des
+#### Articles 226‑16 à 226-24 du code pénal. Toutefois, quand l’infraction a été commise envers des
 Personnes considérées individuellement, l’association n’est recevable dans son action que si elle
 Justifie avoir reçu l’accord de ces personnes. »
 
-Article 33 quater (nouveau)
+#### Article 33 quater (nouveau)
 
 L’article 226‑1 du code pénal est ainsi modifié :
 
@@ -400,11 +400,11 @@ L’article 226‑1 du code pénal est ainsi modifié :
 Diffuser sans le consentement exprès de la personne l’image ou la voix de celle-ci, prise dans un
 Lieu public ou privé, dès lors qu’elle présente un caractère sexuel. »
 
-Section 2
+### Section 2
 
 Confidentialité des correspondances électroniques privées
 
-Article 34
+#### Article 34
 
 L’article L. 32‑3 du code des postes et des communications électroniques est ainsi rédigé:
 

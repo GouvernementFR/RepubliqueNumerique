@@ -1,16 +1,16 @@
-Titre I<sup>er</sup>
+# Titre I<sup>er</sup>
 
 La circulation des donnÉes et du savoir
 
-Chapitre I<sup>er</sup>
+## Chapitre I<sup>er</sup>
 
 Économie de la donnée
 
-Section 1
+### Section 1
 
 Ouverture de l’accès aux données publiques
 
-Article 1<sup>er</sup>
+#### Article 1<sup>er</sup>
 
 I. – Sous réserve des articles L. 311‑5 et L. 311‑6 du code des relations entre le public et
 L’administration et sans préjudice de l’article L. 114‑8 du même code, les administrations
@@ -40,13 +40,13 @@ VI (nouveau). – Le titre I<sup>er</sup> du livre III du code des relations ent
 L’administration est applicable aux demandes de communication des documents administratifs exercées
 En application du I du présent article.
 
-Article 1<sup>er</sup> bis A (nouveau)
+#### Article 1<sup>er</sup> bis A (nouveau)
 
 Le Gouvernement remet au Parlement, au plus tard le 30 juin 2016, un rapport sur la nécessité de
 Créer une consultation publique en ligne pour tout projet de loi ou proposition de loi avant son
 Inscription à l’ordre du jour du Parlement.
 
-Article 1<sup>er</sup> bis (nouveau)
+#### Article 1<sup>er</sup> bis (nouveau)
 
 I. – À la seconde phrase du premier alinéa de l’article L. 300‑2 du code des relations entre le
 Public et l’administration, après le mot : « prévisions », sont insérés les mots : « , codes sources
@@ -56,7 +56,7 @@ II (nouveau). – À la fin du d du 2° de l’article L. 311‑5 du même code,
 Sécurité des personnes » sont remplacés par les mots : « , à la sécurité des personnes ou à la
 Sécurité des systèmes d’information des administrations ».
 
-Article 1<sup>er</sup> ter (nouveau)
+#### Article 1<sup>er</sup> ter (nouveau)
 
 Le chapitre I<sup>er</sup> du titre I<sup>er</sup> du livre III du code des relations entre le
 Public et l’administration est ainsi modifié :
@@ -68,7 +68,7 @@ S2° L’article L. 311‑9 est complété par un 4° ainsi rédigé :
 
 « 4° Par publication des informations en ligne dans un format ouvert et aisément réutilisable. »
 
-Article 2
+#### Article 2
 
 Après l’article L. 311‑3 du code des relations entre le public et l’administration, il est inséré
 Un article L. 311‑3‑1 ainsi rédigé :
@@ -80,18 +80,18 @@ L’administration à l’intéressé s’il en fait la demande.
 
 « Les conditions d’application du présent article sont fixées par décret en Conseil d’État. »
 
-Article 2 bis (nouveau)
+#### Article 2 bis (nouveau)
 
 Au 1° de l’article L. 311‑5 du code des relations entre le public et l’administration, la première
 Occurrence du mot : « et » est remplacée par les mots : « qui ne portent pas sur un projet de loi ou
 D’ordonnance, les avis ».
 
-Article 3
+#### Article 3
 
 Le deuxième alinéa de l’article L. 312‑1 du code des relations entre le public et l’administration
 Est supprimé.
 
-Article 4
+#### Article 4
 
 I A (nouveau). – Le 1° de l’article L. 311‑6 du code des relations entre le public et
 L’administration est complété par les mots : « , lequel comprend le secret des procédés, des
@@ -153,7 +153,7 @@ Des articles L. 312‑1 à L. 312‑1‑3 du même code.
 III (nouveau). – L’article L. 1112‑23 du code général des collectivités territoriales et l’article
 L. 125‑12 du code des communes de la Nouvelle‑Calédonie sont abrogés.
 
-Article 4 bis (nouveau)
+#### Article 4 bis (nouveau)
 
 Après le 7° du II de l’article L. 541‑10 du code de l’environnement, il est inséré un 8° ainsi
 Rédigé :
@@ -161,7 +161,7 @@ Rédigé :
 « 8° Les conditions dans lesquelles sont encouragées les démarches d’ouverture des données
 Relatives au domaine des déchets ; ».
 
-Article 5
+#### Article 5
 
 I. – À l’article L. 311‑4 du code des relations entre le public et l’administration, après le mot
 : « communiqués », sont insérés les mots : « ou publiés ».
@@ -170,15 +170,15 @@ II. – La publication en ligne prévue à l’article L. 312‑1‑1 du code de
 Et l’administration est effectuée :
 
 1° Six mois après la promulgation de la présente loi, pour les documents mentionnés au 1° du même
-Article L. 312‑1‑1 ;
+#### Article L. 312‑1‑1 ;
 
 2° Un an après la promulgation de la présente loi, pour les documents mentionnés au 2° dudit
-Article L. 312‑1‑1 ;
+#### Article L. 312‑1‑1 ;
 
 3° À une date fixée par décret, et au plus tard deux ans après la promulgation de la présente loi,
 Pour l’ensemble des autres documents entrant dans le champ d’application du même article L. 312‑1‑1.
 
-Article 6
+#### Article 6
 
 I. – L’article 10 de la loi n° 78‑753 du 17 juillet 1978 portant diverses mesures d’amélioration
 Des relations entre l’administration et le public et diverses dispositions d’ordre administratif,
@@ -210,7 +210,7 @@ II (nouveau). – À la seconde phrase du premier alinéa du I de l’article 15
 Référence : « à l’article 1<sup>er</sup> » est remplacée par la référence : « au premier alinéa de
 L’article L. 300‑2 du code des relations entre le public et l’administration ».
 
-Article 6 bis (nouveau)
+#### Article 6 bis (nouveau)
 
 Le premier alinéa de l’article L. 300‑2 du code des relations entre le public et l’administration
 Est complété par une phrase ainsi rédigée :
@@ -218,7 +218,7 @@ Est complété par une phrase ainsi rédigée :
 « Constituent également de tels documents les documents relatifs à la gestion du domaine privé de
 L’État et des collectivités territoriales. »
 
-Article 7
+#### Article 7
 
 La loi n° 78‑753 du 17 juillet 1978 précitée est ainsi modifiée :
 
@@ -244,7 +244,7 @@ Cinq ans, après concertation avec les collectivités territoriales et leurs gro
 Administration souhaite recourir à une licence ne figurant pas sur cette liste, cette licence doit
 être préalablement homologuée par l’État, dans des conditions fixées par décret. »
 
-Article 7 bis (nouveau)
+#### Article 7 bis (nouveau)
 
 I. – L’article 15 de la loi n° 78‑753 du 17 juillet 1978 précitée est complété par un IV ainsi
 Rédigé :
@@ -256,7 +256,7 @@ Redevance. »
 
 II. – Le I du présent article entre en vigueur le 1<sup>er</sup> janvier 2017.
 
-Article 8
+#### Article 8
 
 I. – Le premier alinéa de l’article 17 de la loi n° 78‑753 du 17 juillet 1978 précitée est
 Complété par une phrase ainsi rédigée :
@@ -297,7 +297,7 @@ Le recours dirigé contre le refus de communication ou de publication. » ;
 « Art. L. 342‑6. – Lorsque la commission est consultée sur un projet de loi ou de décret, son avis
 Est rendu public. »
 
-Article 9
+#### Article 9
 
 I. – Au titre II du livre III du code des relations entre le public et l’administration, il est
 Inséré un article L. 321‑1 ainsi rédigé :
@@ -329,7 +329,7 @@ II (nouveau). – Le présent article entre en vigueur à la date de publication
 Au III de l’article L. 321‑1 du code des relations entre le public et l’administration, et au plus
 Tard six mois après la promulgation de la présente loi.
 
-Article 9 bis (nouveau)
+#### Article 9 bis (nouveau)
 
 Le second alinéa de l’article 13 de la loi n° 86‑1067 du 30 septembre 1986 relative à la liberté
 De communication est ainsi rédigé :
@@ -344,22 +344,22 @@ D’intervention des personnalités politiques dans les journaux et les bulletin
 Magazines et les autres émissions des programmes. Ce relevé est également publié dans un format
 Ouvert et aisément réutilisable, c’est-à-dire lisible par une machine. »
 
-Article 9 ter (nouveau)
+#### Article 9 ter (nouveau)
 
 Les services de l’État, administrations, établissements publics et entreprises du secteur public,
 Les collectivités territoriales et leurs établissements publics encouragent l’utilisation des
 Logiciels libres et des formats ouverts lors du développement, de l’achat ou de l’utilisation d’un
 Système informatique.
 
-Section 2
+### Section 2
 
 Données d’intérêt général
 
-Article 10
+#### Article 10
 
 I. – Après l’article 40‑1 de la loi n° 93‑122 du 29 janvier 1993 relative à la prévention de la
 Corruption et à la transparence de la vie économique et des procédures publiques, il est inséré un
-Article 40‑2 ainsi rédigé :
+#### Article 40‑2 ainsi rédigé :
 
 « Art. 40‑2. – Le délégataire fournit à la personne publique délégante, dans un standard ouvert
 Aisément réutilisable, c’est-à-dire lisible par une machine, les données et bases de données
@@ -403,7 +403,7 @@ IV (nouveau). – Pour les contrats conclus avant la date d’entrée en vigueur
 Les personnes publiques peuvent exiger du délégataire la transmission des données et des bases de
 Données à la seule fin de préparer le renouvellement du contrat.
 
-Article 11
+#### Article 11
 
 L’article 10 de la loi n° 2000‑321 du 12 avril 2000 relative aux droits des citoyens dans leurs
 Relations avec les administrations est ainsi modifié :
@@ -419,7 +419,7 @@ Seuil mentionné au quatrième alinéa du présent article rend accessible, sous
 Dans un standard ouvert aisément réutilisable, c’est-à-dire lisible par une machine, les données
 Essentielles de la convention de subvention, dans des conditions fixées par voie réglementaire. »
 
-Article 12
+#### Article 12
 
 La loi n° 51‑711 du 7 juin 1951 sur l’obligation, la coordination et le secret en matière de
 Statistiques est ainsi modifiée :
@@ -468,11 +468,11 @@ Récidive dans un délai de trois ans, le montant de l’amende peut être port�
 Insertion dans des publications, journaux et supports qu’il désigne aux frais des personnes
 Sanctionnées. »
 
-Section 3
+### Section 3
 
 Gouvernance
 
-Article 13
+#### Article 13
 
 Le I de l’article 13 de la loi n° 78‑17 du 6 janvier 1978 relative à l’informatique, aux fichiers
 Et aux libertés est ainsi modifié :
@@ -486,7 +486,7 @@ Numérique » ;
 
 « 8° Le président de la Commission d’accès aux documents administratifs, ou son représentant. »
 
-Article 14
+#### Article 14
 
 Après l’article 15 de la loi n° 78‑17 du 6 janvier 1978 précitée, il est inséré un article 15 bis
 Ainsi rédigé :
@@ -495,7 +495,7 @@ Ainsi rédigé :
 Aux documents administratifs se réunissent dans un collège unique, sur l’initiative conjointe de
 Leurs présidents, lorsqu’un sujet d’intérêt commun le justifie. »
 
-Article 15
+#### Article 15
 
 L’article L. 341‑1 du code des relations entre le public et l’administration est ainsi modifié :
 
@@ -507,7 +507,7 @@ L’article L. 341‑1 du code des relations entre le public et l’administrati
 2° (nouveau) À la deuxième phrase du douzième alinéa, la référence : « et 3° » est remplacée par
 Les références : « , 3° et 6° ».
 
-Article 16
+#### Article 16
 
 Après l’article L. 341‑1 du code des relations entre le public et l’administration, il est inséré
 Un article L. 341‑1‑1 ainsi rédigé :
@@ -516,7 +516,7 @@ Un article L. 341‑1‑1 ainsi rédigé :
 De l’informatique et des libertés se réunissent dans un collège unique, sur l’initiative conjointe
 De leurs présidents, lorsqu’un sujet d’intérêt commun le justifie. »
 
-Article 16 bis (nouveau)
+#### Article 16 bis (nouveau)
 
 L’article 18 de la loi n° 78‑753 du 17 juillet 1978 précitée est ainsi modifié :
 
@@ -530,7 +530,7 @@ Référence : « titre IV du livre III du code des relations entre le public et 
 
 « Pour l’application du présent article, la commission peut être saisie par son président. »
 
-Article 16 ter (nouveau)
+#### Article 16 ter (nouveau)
 
 Le Gouvernement remet au Parlement, dans un délai de trois mois à compter de la promulgation de la
 Présente loi, un rapport sur la possibilité de créer un Commissariat à la souveraineté numérique

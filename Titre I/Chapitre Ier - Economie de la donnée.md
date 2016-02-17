@@ -210,7 +210,7 @@ Le second alinéa de l’article 13 de la loi n° 86‑1067 du 30 septembre 
 
 Article 9 ter (nouveau)
 
-Les services de l’État, administrations, établissements publics et entreprises du secteur public, les collectivités territoriales et leurs établissements publics encouragent l’utilisation des logiciels libres et des formats ouverts lors du développement, de l’achat ou de l’utilisation d’un système informatique.
+Les services de l’État, administrations, établissements publics et entreprises du secteur public, les collectivités territoriales et leurs établissements publics encouragent l’utilisation des logiciels libres et imposent des formats ouverts lors du développement, de l’achat ou de l’utilisation d’un système informatique.
 
 Section 2
 
